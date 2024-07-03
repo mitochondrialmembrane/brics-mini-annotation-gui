@@ -1,0 +1,61 @@
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/360.mp3	Grip the string of the button envelope.
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/361.mp3	Unroll the string to open the button envelope.
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/362.mp3	Remove the files from the file folder by grasping them with your fingers and lifting them out.
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/363.mp3	Invert the file folder over a flat surface.
+delete
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/364.mp3	Shake the file folder to ensure all contents fall out.
+audio/02_Office Working/08_Receiving and Sending a File./58_Receiving a File/365.mp3	Ordering all the contents into a pile.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/366.mp3	Use a letter opener to slit the top edge of the envelope, ensuring not to damage the contents inside.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/367.mp3	Extract the bound letter carefully to avoid tearing any pages.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/368.mp3	Unfold the letter by reversing the folds with gentle hand movements.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/369.mp3	Press down on the unfolded letter with both hands to flatten and remove any creases.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/370.mp3	Lay the unfolded letter on a flat surface for reading.
+audio/02_Office Working/08_Receiving and Sending a File./59_Opening the Envelope/371.mp3	Adjust the angles to straighten the paper for easy reading.
+audio/02_Office Working/08_Receiving and Sending a File./60_Reading and Unbinding the Letter/372.mp3	Read the letter by moving your eyes while your hands hold the edges to keep the paper steady.
+audio/02_Office Working/08_Receiving and Sending a File./60_Reading and Unbinding the Letter/373.mp3	Pull out the staple bind with the stapler remover.
+audio/02_Office Working/08_Receiving and Sending a File./60_Reading and Unbinding the Letter/374.mp3	Grasp the pen and the letter to prepare for writing.
+scene07/0.wav	turn up the pen for writing
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/375.mp3	Write "All work and no play makes Jack a dull boy" on one line.
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/376.mp3	Switch to another line and prepare for writing.
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/377.mp3	Write "All play and no work makes Jack a mere toy" on another line.
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/378.mp3	Place the pen on the table.
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/379.mp3	Realign letter papers to get ready for binding.
+audio/02_Office Working/08_Receiving and Sending a File./61_Writing on and Stapling the Letter/380.mp3	Staple the letter to secure documents together with the stapler.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/381.mp3	Fold the letter into thirds, making precise folds to ensure a compact shape.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/382.mp3	Put the letter into the envelope.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/383.mp3	Tuck the edges of the folded letter under to secure the folds.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/384.mp3	Uncapping the glue stick.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/385.mp3	Glue along the edge of the envelope.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/386.mp3	Press the envelope to seal.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/387.mp3	Cap the glue stick.
+audio/02_Office Working/08_Receiving and Sending a File./62_Folding and Preparing the Letter/388.mp3	Stamp the corner of the envelope.
+delete
+scene07/1.wav	I'll sleep over the envelope
+scene07/2.wav	stamp on the corner of the envelope
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/389.mp3	Unclasp the metal clasp of the envelope by lifting and pulling it away from the slot.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/390.mp3	Carefully pull out the file clipped at the top from the envelope.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/391.mp3	Reverse the folds of the clipped document.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/392.mp3	Read the document attentively, holding it with one hand and using the other to help navigate pages.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/393.mp3	Unclip the clip from the top of the file by sliding it off.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/394.mp3	Take out one page of the paper.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/395.mp3	Crumple the taken-out page.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/396.mp3	Attach a paper clip to the top of the aligned files to keep them together.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/397.mp3	Fold the stacked files along the predetermined lines for compact storage.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/398.mp3	Insert the folded files into a clasp envelope, aligning them within.
+audio/02_Office Working/08_Receiving and Sending a File./63_Handling the Clasp Envelope and Individual Pages/399.mp3	Clasp the metal clasp of the envelope.
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/400.mp3	Remove the clamped file from the envelope, grasping the edge opposite the clamp.
+delete
+scene07/3.wav	hold the campfire go
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/401.mp3	Flip the file to the third page.
+scene07/4.wav	to get ready for a signature
+scene07/5.wav	uncut the pain go
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/402.mp3	Sign the third page using a smooth, flowing motion.
+scene07/6.wav	cap and put down the pencil on the table
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/403.mp3	Open the side clamp by pressing the lever and gently pulling it away from the file.
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/404.mp3	Switch the signed page to the front page.
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/405.mp3	Arrange the signed files side by side, aligning them by their edges.
+delete
+audio/02_Office Working/08_Receiving and Sending a File./64_Handling the Clamped File/406.mp3	Secure the signed document within a clamp holder by pressing down on the clamp and sliding it into place.
+audio/02_Office Working/08_Receiving and Sending a File./65_Sending the File/407.mp3	Pile the clamped file, the clasp envelope and the letter envelope into a stack.
+audio/02_Office Working/08_Receiving and Sending a File./65_Sending the File/408.mp3	Insert the stacked content into the button envelope sequentially.
+audio/02_Office Working/08_Receiving and Sending a File./65_Sending the File/409.mp3	Rolling the string to close the button envelope.

@@ -1,0 +1,28 @@
+audio/03_Crafting/13_Seal Carving and Smoothing./99_Lighting the Workspace/700.mp3	Turn on the lamp overhead to illuminate the work area.
+audio/03_Crafting/13_Seal Carving and Smoothing./99_Lighting the Workspace/701.mp3	Lay the stone block on the surface.
+audio/03_Crafting/13_Seal Carving and Smoothing./100_Preparing the Stone/702.mp3	Sand the short side of the stone with sandpaper for 10 times to flatten the surface.
+audio/03_Crafting/13_Seal Carving and Smoothing./100_Preparing the Stone/703.mp3	Fix the stone onto the carving bed using clamps.
+audio/03_Crafting/13_Seal Carving and Smoothing./100_Preparing the Stone/704.mp3	Tighten the clamps securely to ensure the stone is held firmly.
+audio/03_Crafting/13_Seal Carving and Smoothing./100_Preparing the Stone/705.mp3	Park your stone carving tools neatly beside the work area.
+audio/03_Crafting/13_Seal Carving and Smoothing./101_Drawing Margin Lines/706.mp3	Align a ruler along the edge of the stone to draw the margin lines.
+audio/03_Crafting/13_Seal Carving and Smoothing./101_Drawing Margin Lines/707.mp3	Draw a line along the ruler¡¯s edge with a marker.
+audio/03_Crafting/13_Seal Carving and Smoothing./101_Drawing Margin Lines/708.mp3	Rotate the stone 90 degrees to continue drawing lines along the other margins.
+audio/03_Crafting/13_Seal Carving and Smoothing./101_Drawing Margin Lines/709.mp3	Align a ruler along the new edge of the stone to draw the margin lines.
+audio/03_Crafting/13_Seal Carving and Smoothing./101_Drawing Margin Lines/710.mp3	Draw a line along the ruler¡¯s edge with a marker.
+scene12/0.wav	remove the ruler and put it on the table surface go
+audio/03_Crafting/13_Seal Carving and Smoothing./102_Carving the Stone/711.mp3	Aim at the intersection of the margin lines with the chisel.
+audio/03_Crafting/13_Seal Carving and Smoothing./102_Carving the Stone/712.mp3	Strike the chisel at the intersection of the margin lines to knock off a small piece of the stone.
+audio/03_Crafting/13_Seal Carving and Smoothing./102_Carving the Stone/713.mp3	Carve along one of the margin lines with the thinner side of the chisel.
+audio/03_Crafting/13_Seal Carving and Smoothing./102_Carving the Stone/714.mp3	Shave the margin of the stone with the wider side of the chisel.
+scene12/1.wav	put on the Chisel to the table surface go
+audio/03_Crafting/13_Seal Carving and Smoothing./102_Carving the Stone/715.mp3	Brush off the stone dust using a brush.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/716.mp3	Polish the surface of the stone with the sandpaper.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/717.mp3	Lightly loosen the clamps.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/718.mp3	Release the stone from the carving bed.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/719.mp3	Uncover the lid of the stamp pad.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/720.mp3	Press the stone into the stamp pad.
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/721.mp3	Stamp the stone on the stamp paper.
+scene12/2.wav	Play the song on the surface
+audio/03_Crafting/13_Seal Carving and Smoothing./103_Polishing and Finishing/722.mp3	Cover the stamp pad with the lid.
+audio/03_Crafting/13_Seal Carving and Smoothing./104_Maintenance and Cleanup/723.mp3	Sharpen the chisel with the sharpening stone.
+audio/03_Crafting/13_Seal Carving and Smoothing./104_Maintenance and Cleanup/724.mp3	Shut off the lamp to complete the process.

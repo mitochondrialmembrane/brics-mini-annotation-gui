@@ -1,0 +1,67 @@
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./21_Unpacking the Meal/89.mp3	Open the paper bag by separating the top flaps.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./21_Unpacking the Meal/90.mp3	Take out all the food items and utensils from the bag.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./21_Unpacking the Meal/91.mp3	Reposition the utensils in front of you.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./21_Unpacking the Meal/92.mp3	Set up the food items in a reachable area.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./22_Sanitizing Hands/93.mp3	Uncap the hand sanitizer bottle.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./22_Sanitizing Hands/94.mp3	Apply a generous amount of sanitizer to your dominant hand.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./22_Sanitizing Hands/95.mp3	Cap the hand sanitizer bottle.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./22_Sanitizing Hands/96.mp3	Put the sanitizer bottle down on the table.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./22_Sanitizing Hands/97.mp3	Rub your hands together to sanitize them thoroughly.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./23_Drinking Soda/100.mp3	Insert a straw into the soda can.
+scene02/0.wav	open DeSoto
+scene02/1.wav	insert a straw into the soda can go
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./23_Drinking Soda/101.mp3	Drink from the soda with the straw.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./23_Drinking Soda/102.mp3	Put the soda can down.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./23_Drinking Soda/98.mp3	Hold the can of soda.
+delete
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./23_Drinking Soda/99.mp3	Pull the ring tab to open the soda can.
+delete
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./24_Eating the Burger/103.mp3	Unwrap the burger and set the paper wrapper aside.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./24_Eating the Burger/104.mp3	Deliver the burger to your mouth and take one or several bites.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./24_Eating the Burger/105.mp3	Put the burger back on the plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./25_Eating Fries and Ketchup/106.mp3	Squeeze some ketchup out from the ketchup bottle onto the plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./25_Eating Fries and Ketchup/107.mp3	Grip a fry with your fingers.
+delete
+scene02/2.wav	open the fly box
+scene02/3.wav	tip of of you creeper fry with your fingers
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./25_Eating Fries and Ketchup/108.mp3	Dip the fry into the ketchup.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./25_Eating Fries and Ketchup/109.mp3	Deliver the fry to your mouth and eat it.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./25_Eating Fries and Ketchup/110.mp3	Sprinkle any remaining salt on your fingers over the plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./26_Eating Fried Chicken/111.mp3	Peel off the lid of the dipping sauce container.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./26_Eating Fried Chicken/112.mp3	Grasp a piece of fried chicken thigh.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./26_Eating Fried Chicken/113.mp3	Dip the fried chicken thigh into the dipping sauce.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./26_Eating Fried Chicken/114.mp3	Rotate the chicken thigh as you eat it to get all sides.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./27_Cleaning Up/115.mp3	Pick up one piece of napkin.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./27_Cleaning Up/116.mp3	Unfold the napkin.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./27_Cleaning Up/117.mp3	Wipe any crumbs or spills off the table with a napkin.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./27_Cleaning Up/118.mp3	Scrunch the napkin into a ball.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./27_Cleaning Up/119.mp3	Drop the napkin ball into the trash can.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/120.mp3	Grasp the jar containing the pudding.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/121.mp3	Pinch the rubber band around the pudding jar.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/122.mp3	Stretch the rubber band and slide it off the jar.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/123.mp3	Remove the cloth covering the jar to reveal the pudding.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/124.mp3	Hold the pudding jar over a plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/125.mp3	Invert the pudding jar to dump the pudding onto the plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/126.mp3	Shake the jar to ensure all the pudding is transferred to the plate.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/127.mp3	Scoop with a spoon to ensure all the puddings are transferred.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./28_Eating the Pudding/128.mp3	Put down the pudding jar.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./29_Consuming the Pudding/129.mp3	Grip the pudding spoon.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./29_Consuming the Pudding/130.mp3	Scoop a piece of pudding.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./29_Consuming the Pudding/131.mp3	Deliver the pudding to your mouth and eat it.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./29_Consuming the Pudding/132.mp3	Put down the pudding spoon.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/133.mp3	Cover the remaining pudding with the pudding jar.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/134.mp3	Flip the pudding jar and plate to transfer the remaining pudding back into the jar.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/135.mp3	Lift the piece of cloth off the table.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/136.mp3	Cover the pudding jar with the cloth.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/137.mp3	Grip the rubber band.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/138.mp3	Bind the pudding jar with the rubber band.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./30_Storing Remaining Pudding/139.mp3	Put the pudding jar back on the table.
+delete
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./31_Storing Remaining Food/140.mp3	Gather the remaining chicken thigh and fries back into the food box.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./31_Storing Remaining Food/141.mp3	Wrap the remaining burger with the paper wrapper.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./31_Storing Remaining Food/142.mp3	Close the burger box.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./32_Cleaning Up Drink and Food Items/143.mp3	Pull out the straw from the soda can.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./32_Cleaning Up Drink and Food Items/144.mp3	Wedge the used straw into the soda can opening.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./32_Cleaning Up Drink and Food Items/145.mp3	Gather the remaining food items and place them back into the paper bag.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./32_Cleaning Up Drink and Food Items/146.mp3	Fold the top of the paper bag to close it.
+audio/01_Cooking, Clearing, Eating/03_Eating and Packing Delivered Food./33_Cleaning Hands/147.mp3	Clean your hands with hand sanitizer.

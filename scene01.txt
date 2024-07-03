@@ -1,0 +1,58 @@
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/09_Unsealing the Noodles/33.mp3	Unseal the instant noodle container by tearing the lid halfway off.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/09_Unsealing the Noodles/33.mp3	Unseal the instant noodle container by tearing the lid halfway off.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/09_Unsealing the Noodles/34.mp3	Remove the veggie bag and oil packet from the container and put them on the table.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/35.mp3	Pick up the veggie bag.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/36.mp3	Tear open the veggie bag by pulling apart the wrapper.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/37.mp3	Empty the veggie contents into the noodle container by shaking the bag.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/38.mp3	Trash the empty veggie bag into the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/39.mp3	Pinch the oil packet.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/40.mp3	Tear open the oil packet by pulling apart the wrapper.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/41.mp3	Squeeze the oil into the noodle container.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/42.mp3	Dispose the empty oil packet into the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/43.mp3	Pull the tissue upwards out of the tissue box.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/44.mp3	Wipe the oil off your fingers with the tissue.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/10_Preparing the Ingredients/45.mp3	Throw away the used tissue into the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/11_Adding Hot Water/46.mp3	Pour hot water into the noodle container up to the fill line.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/11_Adding Hot Water/47.mp3	Reseal the container lid to trap the heat.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/11_Adding Hot Water/48.mp3	Hover your hand over the container to feel the temperature.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/12_Cooking the Noodles/49.mp3	Wait for the noodles to cook for the recommended time.
+delete
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/50.mp3	Tear the lid off the noodle container.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/51.mp3	Dispose the noodle container lid to the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/52.mp3	Grab the fork
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/53.mp3	Submerge any floating noodles into the soup with the fork.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/54.mp3	Untangle the noodles with the fork.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/13_Opening the Container/55.mp3	Stir the fork to further untangle the noodles.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/14_Eating with a Fork/56.mp3	Twirl the noodles on the fork.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/14_Eating with a Fork/57.mp3	Deliver the noodles to your mouth with the fork and eat.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/14_Eating with a Fork/58.mp3	Shake off any remaining noodles back into the bowl
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/14_Eating with a Fork/59.mp3	Put the fork down on the table.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/15_Preparing Disposable Chopsticks/60.mp3	Grasp the disposable chopstick wrapper with one hand.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/15_Preparing Disposable Chopsticks/61.mp3	Tear open the wrapper by pulling apart the sealed edges.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/15_Preparing Disposable Chopsticks/62.mp3	Slide the chopsticks from the wrapper.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/15_Preparing Disposable Chopsticks/63.mp3	Hold the chopsticks together in one hand.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/15_Preparing Disposable Chopsticks/64.mp3	Split the chopsticks apart by gently pulling them in opposite directions.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/65.mp3	Hold the chopsticks in one hand to prepare for eating noodles.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/66.mp3	Lift the noodles with the chopsticks.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/67.mp3	Split any entangled noodles with the chopsticks.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/68.mp3	Dip the noodles back into the soup to absorb more flavor.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/69.mp3	Deliver the noodles to your mouth with the chopsticks and eat.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/70.mp3	Drop any remaining noodles on the chopsticks back into the container.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/16_Eating with Chopsticks/71.mp3	Put the chopsticks back on the table.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/72.mp3	Hold the spoon.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/73.mp3	Swirl the spoon in the noodle soup to cool it slightly.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/74.mp3	Skim off excess oil from the soup with the spoon.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/75.mp3	Dispose the skimmed oil to the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/76.mp3	Spoon some noodle soup into the spoon.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/77.mp3	Carry the soup to your mouth with the spoon and drink.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/17_Drinking the Soup/78.mp3	Put the spoon down on the table.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/18_Finishing the Soup/79.mp3	Hold the ramen container securely with two hands.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/18_Finishing the Soup/80.mp3	Tilt the container to sip the remaining soup directly.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/18_Finishing the Soup/81.mp3	Put the container back on the table.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/19_Cleaning Utensils/82.mp3	Tear off a piece of kitchen towel.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/19_Cleaning Utensils/83.mp3	Wipe the chopsticks with the kitchen towel.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/19_Cleaning Utensils/84.mp3	Clean the spoon with the kitchen towel.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/19_Cleaning Utensils/85.mp3	Dry the fork with the kitchen towel.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/19_Cleaning Utensils/86.mp3	Discard the used kitchen towels into the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/20_Emptying the Container/87.mp3	Empty the remaining contents of the container into the trash can.
+audio/01_Cooking, Clearing, Eating/02_Making, Eating and Cleaning Instant Noodle/20_Emptying the Container/88.mp3	Tie the trash bag closed.

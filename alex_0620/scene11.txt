@@ -1,0 +1,59 @@
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/653.mp3	Unknot the ribbon by gently loosening the knot with your fingers.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/654.mp3	Gently pull the ends of the ribbon to untie the bow.
+delete
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/655.mp3	Unwind the ribbon from around the gift.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/656.mp3	Wind the ribbon into a neat coil for reuse.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/657.mp3	Peel the tape off the wrapping paper by lifting one corner and pulling gently to avoid tearing the paper.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/658.mp3	Unfold the wrapping paper by carefully spreading it out flat on a surface.
+scene11/0.wav	can you roll the wrapping paper into a row
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/659.mp3	Gather the unfolded paper and place it in the trash can.
+scene11/1.wav	Could not understand audio
+delete
+delete
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/660.mp3	Open the box by lifting the lid or flaps.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/661.mp3	Remove the gift from the container, placing it gently on a table.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/662.mp3	Upturn the box to access the bottom.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/663.mp3	Unfold the box by pulling apart the flaps and flattening it out on the work surface.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/93_Unwrapping the Present/664.mp3	Flatten the box by pressing it down firmly for recycl.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/94_Assembling the Box/665.mp3	Fold along all of the pre-creased lines to shape the box.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/94_Assembling the Box/666.mp3	Shape the box by aligning the sides and edges.
+delete
+audio/02_Office Working/12_Unwrapping and Wrapping a present/94_Assembling the Box/667.mp3	Interlock the flaps at the bottom to secure the structure.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/94_Assembling the Box/668.mp3	Tuck the flaps into each other to secure the bottom.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/94_Assembling the Box/669.mp3	Upturn the box to make the open side face up.
+delete
+audio/02_Office Working/12_Unwrapping and Wrapping a present/95_Placing the Gift/670.mp3	Place the gift inside the assembled box, centering it for balance.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/95_Placing the Gift/671.mp3	Fold the side flaps of the box.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/95_Placing the Gift/672.mp3	Close the lid securely.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/673.mp3	Unroll the wrapping paper on a flat surface, pulling out enough to cover the box.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/674.mp3	Measure the amount of wrapping paper needed with a ruler.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/675.mp3	Use a pencil to draw cutting lines on the wrapping paper.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/676.mp3	Fold the paper along the cutting lines to create a crease.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/677.mp3	Tear the paper along the folded lines for a straight edge.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/678.mp3	Trim the paper along the drawn lines with scissors for precise edges.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/679.mp3	Roll the excess paper back onto the paper roll.
+delete
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/680.mp3	Fold the wrapping paper around the box, making neat and crisp edges.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/681.mp3	Tear a piece of tape from the tape dispenser.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/682.mp3	Tape the wrapping paper in place with pieces of tape.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/96_Wrapping the Gift/683.mp3	Press the tape firmly to ensure it sticks.
+scene11/2.wav	talk to edges of the paper securely on the box and tape them
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/684.mp3	Grasp a piece of paper and a pen to prepare for drawing.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/685.mp3	Draw a heart shape on the paper using a pencil.
+scene11/3.wav	count the pen put it on the table surface go
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/686.mp3	Cut out the heart shape with scissors, following the drawn lines carefully.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/687.mp3	Uncap the glue stick.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/688.mp3	Apply glue to the back of the heart cutout.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/689.mp3	Cap the glue stick.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/690.mp3	Attach the heart to the top of the wrapped box.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/691.mp3	Press down on the heart to ensure it adheres.
+scene11/4.wav	hold the color marker in your hands and and kept the
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/692.mp3	Use colored markers to draw symmetrical patterns on one side of the box.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/97_Decorating the Gift/693.mp3	Rotate the box after completing each side ensuring the patterns mirror each other on all sides.
+scene11/5.wav	count to 10 and put it back to the table go
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/694.mp3	Pull the ribbon from the spool.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/695.mp3	Measure the ribbon with a ruler.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/696.mp3	Cut the ribbon to the measured length with scissors.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/697.mp3	Wrap the ribbon around the box, bringing the ends to the top.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/698.mp3	Tie the ribbon into a bow, adjusting the loops and tails for an even appearance.
+audio/02_Office Working/12_Unwrapping and Wrapping a present/98_Finishing with a Ribbon/699.mp3	Knot the ribbon to make a secure tie.

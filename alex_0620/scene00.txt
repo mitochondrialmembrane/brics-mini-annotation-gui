@@ -1,0 +1,47 @@
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/01.mp3	Grasp the teapot lid.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/02.mp3	Lift the lid off the teapot.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/03.mp3	Set the lid aside.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/04.mp3	Grasp the kettle handle securely.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/05.mp3	Pour hot water from the kettle into the teapot.
+delete
+delete
+audio_new/0.wav	grasp of the cattle bottle the grassland cattle handle security
+audio_new/1.wav	pour water from the cattle into the teapot
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/06.mp3	Reposition the kettle back on the tabletop.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/07.mp3	Retrieve the teapot lid from where it was set aside.
+audio_new/2.wav	hip hop playlist on on the table
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/08.mp3	Open the tea bag box.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/09.mp3	Select and remove a tea bag from the box.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/10.mp3	Tear the tea bag wrapper.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/11.mp3	Hold the tea bag by the string.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/12.mp3	Steep the tea bag in the hot water.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/13.mp3	Release the tea bag.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/14.mp3	Place the lid back onto the teapot.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./04_Pouring Tea/15.mp3	Grasp the teapot handle.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./04_Pouring Tea/16.mp3	Pour the tea into the teacup from the kettle.
+audio_new/3.wav	put the teapot on the table
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/17.mp3	Hold the box or bottle of cream securely.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/18.mp3	Unscrew the cap of the cream container.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/19.mp3	Pour the cream into the teacup containing the steeped tea.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/20.mp3	Reseal the cream container by screwing the cap back on.
+audio_new/4.wav	put the cream box back to the table
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/21.mp3	Unfasten the lid of the sugar canister.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/22.mp3	Scoop a spoonful of sugar with a teaspoon from the sugar canister.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/23.mp3	Add the sugar into the teacup.
+delete
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/24.mp3	Stir the tea, cream, and sugar together with the teaspoon until well mixed.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/25.mp3	Set the teaspoon down on the clean surface.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/26.mp3	Fasten the lid of the sugar canister back on.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/27.mp3	Pick up a pre-cut lemon half and a citrus reamer.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/28.mp3	Extract the juice by pressing and twisting the reamer into the lemon over the teacup.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/29.mp3	Put down the lemon and citrus reamer once sufficient juice is extracted.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/30.mp3	Lift the teacup carefully by its handle.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/31.mp3	Take a small, careful sip of the tea.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/32.mp3	Repeat sipping the tea twice.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/33.mp3	Lower the teacup back onto the saucer or table gently.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/34.mp3	Pick up a piece of kitchen towel.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/35.mp3	Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/36.mp3	Discard the used kitchen towel into the trash can.

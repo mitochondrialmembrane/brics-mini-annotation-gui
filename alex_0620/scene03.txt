@@ -1,0 +1,64 @@
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/155.mp3	Untwist the metal twist tie to unseal the bread bag.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/156.mp3	Take out a slice of bread.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/157.mp3	Twist the metal twist tie to reseal the bread bag.
+delete
+scene03/0.wav	put the slice of bread on top of the plate
+scene03/1.wav	Twisted Metal twist tie to reseal the bread back go
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/158.mp3	Insert the bread slice into the toaster.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/159.mp3	Tune the temperature of the toaster by rotating the knob to the highest degree.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/160.mp3	Press the toaster lever to start toasting the bread.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./34_Preparing the Bread/161.mp3	Place the toasted bread on a plate.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/162.mp3	Unscrew the lid of the peanut butter jar.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/163.mp3	Take out a butter knife from the knife holder.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/164.mp3	Insert the butter knife into the peanut butter jar.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/165.mp3	Spread the peanut butter evenly on the toasted bread.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/166.mp3	Wipe the jam spatula clean with a kitchen towel.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./35_Preparing the Peanut Butter/167.mp3	Insert the butter knife back into the knife holder.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/168.mp3	Grasp the can of spam on the table.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/169.mp3	Tear off the lid of the spam can to reveal the contents.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/170.mp3	Lift the spam can above the cutting board.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/171.mp3	Upturn the spam can to release the spam onto the cutting board.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/172.mp3	Knock the bottom of the can to ensure the spam is fully released.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/173.mp3	Grip a knife and fork.
+delete
+scene03/2.wav	put the spam cam back to the table
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/174.mp3	Thrust the fork into the spam to stabilize it.
+delete
+scene03/3.wav	crossword knife and hold them ready for college
+scene03/4.wav	thrust the fork into the spam to stabilize it go
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/175.mp3	Slice the spam into even pieces.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./36_Preparing the Spam/176.mp3	Detach the fork from the last slice of spam.
+scene03/5.wav	put down the volume to the knife back to the utensil holders go
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/177.mp3	Unwrap a piece of butter.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/178.mp3	Grasp the butter knife.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/179.mp3	Slice a piece of butter with the knife.
+scene03/6.wav	completed the knife back to the knife holder
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/180.mp3	Place a pan on the stove.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/181.mp3	Pretend to switch on the stove.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/182.mp3	Adding the butter to the pan.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/183.mp3	Spread the butter on the pan to melt it.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./37_Preparing the Butter/184.mp3	Put down the butter knife.
+delete
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./38_Frying the Spam/185.mp3	Take out a pair of tongs from the utensil holder.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./38_Frying the Spam/186.mp3	Pick up a piece of spam using the tongs.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./38_Frying the Spam/187.mp3	Transfer the spam to the pan with the tongs to fry.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./38_Frying the Spam/188.mp3	Flip the spam with the tongs to ensure both sides are cooked.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./38_Frying the Spam/189.mp3	Stack the fried spam on top of the bread.
+scene03/7.wav	put the songs back to the utensil holders
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/190.mp3	Open the egg carton.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/191.mp3	Take out an egg from the carton.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/192.mp3	Move a bowl to be in front of you.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/193.mp3	Crack the egg by tapping it against the edge of the bowl and split the shell.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/194.mp3	Discard the eggshells into the trash can.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/195.mp3	Close the egg carton.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/196.mp3	Rotate the pepper grinder to add black pepper to the egg.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/197.mp3	Shake the salt container to add salt to the egg.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/198.mp3	Grasp a fork.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/199.mp3	Beat the egg in the bowl with the fork, blending the yolk and white thoroughly.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/200.mp3	Pour the beaten egg into the heated pan.
+scene03/8.wav	play the Whisk on anywhere on the table you like
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/201.mp3	Scramble the egg by moving the spatula around the pan.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/202.mp3	Poke the egg with the spatula to test if it's cooked.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/203.mp3	Stir-fry the egg.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/204.mp3	Slide the cooked egg on top of the stacked bread and spam.
+audio/01_Cooking, Clearing, Eating/04_Making an open egg and spam sandwich./39_Preparing the Egg/205.mp3	Switch off the stove.

@@ -1,0 +1,39 @@
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/106_Setting Up the Clamp/750.mp3	Position the wood over the clamp.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/106_Setting Up the Clamp/751.mp3	Tighten the clamp by turning the screw handle until the wood pieces are securely held.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/107_Using the Handsaw/752.mp3	(Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/108_Hammering Nails/753.mp3	Position the nail at any hole.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/108_Hammering Nails/754.mp3	Hammer the nail into the hole using the hammer.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/755.mp3	Position another screw at the desired spot on the wood.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/756.mp3	Select the appropriate screwdriver for the screw type.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/757.mp3	Grasp the handle of the screwdriver with your dominant hand.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/758.mp3	Turn the screwdriver clockwise to drive the screw into the hole.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/759.mp3	Run your hands over the workbench to inspect any defects.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/109_Using the Screwdriver/760.mp3	Hang the wrench on the hook.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/761.mp3	Position the screw at the desired spot on the wood.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/762.mp3	Grip the drill handle firmly.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/763.mp3	Pull the drill trigger to start the drill.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/764.mp3	Drill the screw into the hole.
+delete
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/765.mp3	Detach the drill bit from the drill.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/110_Using the Drill/766.mp3	Put down the drill.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/111_Removing Nails with Pliers/767.mp3	Grab the pliers to prepare for gripping the nail.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/111_Removing Nails with Pliers/768.mp3	Open the pliers by pushing the handles apart.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/111_Removing Nails with Pliers/769.mp3	Grip the nail with the jaws of the pliers.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/111_Removing Nails with Pliers/770.mp3	Pull out the nail with the pliers.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/111_Removing Nails with Pliers/771.mp3	Put down the pliers.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/772.mp3	Unhook the monkey wrench from the hook.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/773.mp3	Adjust the jaws of the monkey wrench to fit the size of the bolt.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/774.mp3	Grasp the handle of the monkey wrench.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/775.mp3	Turn the adjustable knob to tighten the jaws.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/776.mp3	Tighten the bolts with the monkey wrench.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/112_Using the Monkey Wrench/777.mp3	Hook the monkey wrench back on the hook.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/778.mp3	Unmount the wrench from the hook.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/779.mp3	Position the wrench on the bolt.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/780.mp3	Turn the wrench to unfasten the bolts.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/781.mp3	Reposition the wrench on the screw.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/782.mp3	Turn the wrench to unfasten the screw.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/113_Un-wrenching Bolts and Screws/783.mp3	Mount the wrench back on the hook.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/114_Using the Skate Tool/784.mp3	Grasp the skate tool to prepare for unscrewing.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/114_Using the Skate Tool/785.mp3	Position the skate tool on top of the other screw.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/114_Using the Skate Tool/786.mp3	Unscrew the other screw from the hole.
+audio/03_Crafting/14_Assemble and Disassemble Kids Tool Bench/114_Using the Skate Tool/787.mp3	Put down the skate tool.

@@ -1,0 +1,429 @@
+%Cooking, Clearing, Eating
+#Making and Drinking Tea.
+(Preparing the Teapot)
+[Lifting]: Lift the lid off the teapot.
+
+
+(Adding Hot Water)
+
+[Pouring]: Pour hot water from the kettle into the teapot.
+
+[Retrieving]: Retrieve the teapot lid from where it was set aside.
+
+(Steeping Tea Bag)
+[Opening]: Open the tea bag box.
+[Selecting]: Select and remove a tea bag from the box.
+[Tearing]: Tear the tea bag wrapper.
+[Holding]: Hold the tea bag by the string.
+[Steeping]: Steep the tea bag in the hot water.
+[Releasing]: Release the tea bag.
+[Placing]: Place the lid back onto the teapot.
+
+(Pouring Tea)
+
+[Pouring]: Pour the tea into the teacup from the kettle.
+
+(Adding Cream and Sugar)
+[Holding]: Hold the box or bottle of cream securely.
+[Unscrewing]: Unscrew the cap of the cream container.
+[Pouring]: Pour the cream into the teacup containing the steeped tea.
+[Resealing]: Reseal the cream container by screwing the cap back on.
+[Unfastening]: Unfasten the lid of the sugar canister.
+[Grasping]: Grasp the spoon securely.
+[Scooping]: Scoop a spoonful of sugar with a teaspoon from the sugar canister.
+[Adding]: Add the sugar into the teacup.
+[Stirring]: Stir the tea, cream, and sugar together with the teaspoon until well mixed.
+[Setting]: Set the teaspoon down on the clean surface.
+[Fastening]: Fasten the lid of the sugar canister back on.
+(Adding Lemon Juice)
+[Picking Up]: Pick up a pre-cut lemon half and a citrus reamer.
+[Extracting]: Extract the juice by pressing and twisting the reamer into the lemon over the teacup.
+[Putting Down]: Put down the lemon and citrus reamer once sufficient juice is extracted.
+
+(Drinking the Tea)
+[Lifting]: Lift the teacup carefully by its handle.
+[Sipping]: Take a small, careful sip of the tea.
+[Repeating]: Repeat sipping the tea twice.
+[Lowering]: Lower the teacup back onto the saucer or table gently.
+
+(Cleaning Up)
+[Picking Up]: Pick up a piece of kitchen towel.
+[Wiping]: Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.
+[Discarding]: Discard the used kitchen towel into the trash can.
+
+
+
+
+#Making, Eating and Cleaning Instant Noodle
+(Unsealing the Noodles)
+[Unsealing]: Unseal the instant noodle container by tearing the lid halfway off.
+[Removing]: Remove the veggie bag and oil packet from the container and put them on the table.
+
+(Preparing the Ingredients)
+[Picking Up]: Pick up the veggie bag.
+[Tearing]: Tear open the veggie bag by pulling apart the wrapper.
+[Emptying]: Empty the veggie contents into the noodle container by shaking the bag.
+[Trashing]: Trash the empty veggie bag into the trash can.
+[Pinching]: Pinch the oil packet.
+[Tearing]: Tear open the oil packet by pulling apart the wrapper.
+[Squeezing]: Squeeze the oil into the noodle container.
+[Disposing]: Dispose the empty oil packet into the trash can.
+[Pulling]: Pull the tissue upwards out of the tissue box.
+[Wiping]: Wipe the oil off your fingers with the tissue.
+[Throwing away]: Throw away the used tissue into the trash can.
+
+(Adding Hot Water)
+[Pouring]: Pour hot water into the noodle container up to the fill line.
+[Resealing]: Reseal the container lid to trap the heat.
+[Hovering]: Hover your hand over the container to feel the temperature.
+
+(Cooking the Noodles)
+[Waiting]: Wait for the noodles to cook for the recommended time.
+
+(Opening the Container)
+[Tearing]: Tear the lid off the noodle container.
+[Disposing]: Dispose the noodle container lid to the trash can.
+[Grabbing]: Grab the fork
+[Submerging]: Submerge any floating noodles into the soup with the fork.
+[Untangling]: Untangle the noodles with the fork.
+[Stirring]: Stir the fork to further untangle the noodles.
+
+(Eating with a Fork)
+[Twirling]: Twirl the noodles on the fork.
+[Delivering]: Deliver the noodles to your mouth with the fork and eat.
+[Shaking]: Shake off any remaining noodles back into the bowl
+[Putting Down]: Put the fork down on the table.
+
+(Preparing Disposable Chopsticks)
+[Grasping]: Grasp the disposable chopstick wrapper with one hand.
+[Tearing]: Tear open the wrapper by pulling apart the sealed edges.
+[Sliding]: Slide the chopsticks from the wrapper.
+[Holding]: Hold the chopsticks together in one hand.
+[Splitting]: Split the chopsticks apart by gently pulling them in opposite directions.
+
+(Eating with Chopsticks)
+[Holding]: Hold the chopsticks in one hand to prepare for eating noodles.
+[Lifting]: Lift the noodles with the chopsticks.
+[Splitting]: Split any entangled noodles with the chopsticks.
+[Dipping]: Dip the noodles back into the soup to absorb more flavor.
+[Delivering]: Deliver the noodles to your mouth with the chopsticks and eat.
+[Dropping]: Drop any remaining noodles on the chopsticks back into the container.
+[Putting Down]: Put the chopsticks back on the table.
+
+(Drinking the Soup)
+[Holding]: Hold the spoon.
+[Swirling]: Swirl the spoon in the noodle soup to cool it slightly.
+[Skimming]: Skim off excess oil from the soup with the spoon.
+[Disposing]: Dispose the skimmed oil to the trash can.
+[Spooning]: Spoon some noodle soup into the spoon.
+[Carrying]: Carry the soup to your mouth with the spoon and drink.
+[Putting Down]: Put the spoon down on the table.
+
+(Finishing the Soup)
+[Holding]: Hold the ramen container securely with two hands.
+[Tilting]: Tilt the container to sip the remaining soup directly.
+[Putting Down]: Put the container back on the table.
+
+(Cleaning Utensils)
+[Tearing Off]: Tear off a piece of kitchen towel.
+[Wiping]: Wipe the chopsticks with the kitchen towel.
+[Cleaning]: Clean the spoon with the kitchen towel.
+[Drying]: Dry the fork with the kitchen towel.
+[Discarding]: Discard the used kitchen towels into the trash can.
+
+(Emptying the Container)
+[Emptying]: Empty the remaining contents of the container into the trash can.
+[Tying]: Tie the trash bag closed.
+
+
+#Eating and Packing Delivered Food.
+(Unpacking the Meal)
+[Opening]: Open the paper bag by separating the top flaps.
+[Taking Out]: Take out all the food items and utensils from the bag.
+[Repositioning]: Reposition the utensils in front of you.
+[Setting Up]: Set up the food items in a reachable area.
+
+(Sanitizing Hands)
+[Uncapping]: Uncap the hand sanitizer bottle.
+[Applying]: Apply a generous amount of sanitizer to your dominant hand.
+[Capping]: Cap the hand sanitizer bottle.
+[Putting Down]: Put the sanitizer bottle down on the table.
+[Sanitizing]: Rub your hands together to sanitize them thoroughly.
+
+(Drinking Soda)
+[Holding]: Hold the can of soda.
+[Pulling]: Pull the ring tab to open the soda can.
+[Inserting]: Insert a straw into the soda can.
+[Drinking]: Drink from the soda with the straw. 
+[Putting Down]: Put the soda can down. 
+
+(Eating the Burger)
+
+[Unwrapping]: Unwrap the burger and set the paper wrapper aside.
+[Delivering]: Deliver the burger to your mouth and take one or several bites.
+[Putting Down]: Put the burger back on the plate.
+
+(Eating Fries and Ketchup)
+
+[Squeezing]: Squeeze some ketchup out from the ketchup bottle onto the plate.
+[Gripping]: Grip a fry with your fingers.
+[Dipping]: Dip the fry into the ketchup.
+[Delivering]: Deliver the fry to your mouth and eat it.
+[Sprinkling]: Sprinkle any remaining salt on your fingers over the plate.
+
+(Eating Fried Chicken)
+[Peeling Off]: Peel off the lid of the dipping sauce container.
+[Grasping]: Grasp a piece of fried chicken thigh.
+[Dipping]: Dip the fried chicken thigh into the dipping sauce.
+[Rotating]: Rotate the chicken thigh as you eat it to get all sides.
+
+(Cleaning Up)
+[Picking]: Pick up one piece of napkin.
+[Unfolding]: Unfold the napkin. 
+[Wiping]: Wipe any crumbs or spills off the table with a napkin.
+[Scrunching]: Scrunch the napkin into a ball.
+[Dropping]: Drop the napkin ball into the trash can.
+
+(Eating the Pudding)
+[Grasping]: Grasp the jar containing the pudding.
+[Pinching]: Pinch the rubber band around the pudding jar.
+[Stretching]: Stretch the rubber band and slide it off the jar.
+[Removing]: Remove the cloth covering the jar to reveal the pudding.
+[Holding]: Hold the pudding jar over a plate.
+[Inverting]: Invert the pudding jar to dump the pudding onto the plate.
+[Shaking]: Shake the jar to ensure all the pudding is transferred to the plate.
+[Scooping]: Scoop with a spoon to ensure all the puddings are transferred.
+[Putting Down]: Put down the pudding jar.
+
+(Consuming the Pudding)
+[Gripping]: Grip the pudding spoon.
+[Scooping]: Scoop a piece of pudding.
+[Delivering]: Deliver the pudding to your mouth and eat it.
+[Putting Down]: Put down the pudding spoon.
+
+(Storing Remaining Pudding)
+[Covering]: Cover the remaining pudding with the pudding jar.
+[Flipping]: Flip the pudding jar and plate to transfer the remaining pudding back into the jar.
+[Lifting]: Lift the piece of cloth off the table.
+[Covering]: Cover the pudding jar with the cloth.
+[Gripping]: Grip the rubber band.
+[Binding]: Bind the pudding jar with the rubber band.
+[Putting Down]: Put the pudding jar back on the table.
+
+(Storing Remaining Food)
+[Gathering]: Gather the remaining chicken thigh and fries back into the food box.
+[Wrapping]: Wrap the remaining burger with the paper wrapper.
+[Closing]: Close the burger box.
+
+(Cleaning Up Drink and Food Items)
+[Pulling Out]: Pull out the straw from the soda can.
+[Wedging]: Wedge the used straw into the soda can opening.
+[Gathering]: Gather the remaining food items and place them back into the paper bag.
+[Folding]: Fold the top of the paper bag to close it.
+
+(Cleaning Hands)
+[Cleaning]: Clean your hands with hand sanitizer.
+
+
+#Making an open egg and spam sandwich.
+(Preparing the Bread)
+[Untwisting]: Untwist the metal twist tie to unseal the bread bag.
+[Taking Out]: Take out a slice of bread.
+[Twisting]: Twist the metal twist tie to reseal the bread bag.
+[Inserting]: Insert the bread slice into the toaster.
+[Tuning]: Tune the temperature of the toaster by rotating the knob to the highest degree.
+[Pressing]: Press the toaster lever to start toasting the bread.
+[Placing]: Place the toasted bread on a plate.
+
+(Preparing the Peanut Butter)
+[Unscrewing]: Unscrew the lid of the peanut butter jar.
+[Taking Out]: Take out a butter knife from the knife holder.
+[Inserting]: Insert the butter knife into the peanut butter jar.
+[Spreading]: Try to spread the peanut butter evenly on the toasted bread.
+[Wiping]: Wipe the jam spatula clean with a kitchen towel.
+[Inserting]: Insert the butter knife back into the knife holder.
+
+(Preparing the Spam)
+[Grasping]: Grasp the can of spam on the table.
+[Tearing Off]: Tear off the lid of the spam can to reveal the contents.
+[Lifting]: Lift the spam can above the cutting board.
+[Upturning]: Upturn the spam can to release the spam onto the cutting board.
+[Knocking]: Knock the bottom of the can to ensure the spam is fully released.
+[Gripping]: Grip a knife and fork.
+[Thrusting]: Thrust the fork into the spam to stabilize it.
+[Slicing]: Slice the spam into even pieces.
+[Detaching]: Detach the fork from the last slice of spam.
+
+(Preparing the Butter)
+[Unwrapping]: Unwrap a piece of butter.
+[Grasping]: Grasp the butter knife.
+[Slicing]: Slice a piece of butter with the knife.
+[Placing]: Place a pan on the stove.
+[Switching On]: Pretend to switch on the stove.
+[Adding]: Adding the butter to the pan.
+[Spreading]: Spread the butter on the pan to melt it.
+[Putting Down]: Put down the butter knife.
+
+(Frying the Spam)
+[Taking Out]: Take out a pair of tongs from the utensil holder.
+[Picking Up]: Pick up a piece of spam using the tongs.
+[Transferring]: Transfer the spam to the pan with the tongs to fry.
+[Flipping]: Flip the spam with the tongs to ensure both sides are cooked.
+[Stacking]: Stack the fried spam on top of the bread.
+
+(Preparing the Egg)
+[Opening]: Open the egg carton.
+[Taking Out]: Take out an egg from the carton.
+[Moving]: Move a bowl to be in front of you.
+[Cracking]: Crack the egg by tapping it against the edge of the bowl and split the shell.
+[Discarding]: Discard the eggshells into the trash can.
+[Closing]: Close the egg carton.
+[Rotating]: Rotate the pepper grinder to add black pepper to the egg.
+[Shaking]: Shake the salt container to add salt to the egg.
+
+[Beating]: Beat the egg in the bowl with a fork, blending the yolk and white thoroughly.
+[Pouring]: Pour the beaten egg into the heated pan.
+[Grasping]: Grasp a spatula.
+[Scrambling]: Scramble the egg by moving the spatula around the pan.
+[Poking]: Poke the egg with the spatula to test if it's cooked.
+[Stir-Frying]: Stir-fry the egg.
+[Sliding]: Slide the cooked egg on top of the stacked bread and spam.
+[Putting Down]: Put down the spatula.
+[Switching Off]: Switch off the stove.
+
+
+
+
+#Making a Bowl of Salad.
+(Washing and Preparing Ingredients)
+[Turning]: Turn the faucet on.
+[Washing]: Thoroughly wash the lettuce leaves under the faucet.
+[Rinsing]: Rinse the apple under running water.
+[Turning]: Turn the faucet off.
+[Peeling]: Peel the lettuce leaves one by one, placing them into a bowl.
+[Soaking]: Soak the lettuce in a bowl of cold water.
+[Draining]: Drain the lettuce leaves in a colander.
+[Shrinking]: Gently shrink the lettuce leaves with your hands to wring out the water.
+[Tearing]: Tear the lettuce leaves into square pieces .
+
+(Preparing Fruits)
+[Unsheathing]: Unsheathe a fruit knife.
+[Shredding]: Shred the lettuce leaves into smaller pieces with the knife.
+[Tilting]: Tilt the chopping board to transfer the shredded lettuce to the salad bowl.
+[Stripping]: Strip a banana of its peel.
+[Laying]: Lay the banana on the chopping board.
+[Slicing]: Slice the banana into three pieces.
+[Transferring]: Transfer the sliced banana into the salad bowl.
+[Peeling]: Peel the apple with a peeler.
+[Placing]: Place the apple on the chopping board.
+[Picking Up]: Pick up the knife.
+[Chopping]: Chop the apple into halves.
+[Cutting]: Cut the apple into smaller segments.
+[Dicing]: Dice the apple into smaller pieces.
+[Mincing]: Mince the apple pieces into small dice sizes.
+[Squashing]: Squash the apple dice with the flat side of the knife.
+[Scraping]: Scrape the squashed apple from the chopping board into the salad bowl.
+[Putting Down]: Put down the knife.
+
+(Preparing Nuts and Cheese)
+[Unzipping]: Unzip the zipped bag with nuts
+[Taking Out]: Take out nuts from the bag and place them on the chopping board.
+[Zipping]: Zip the bag closed.
+[Crushing]: Crush the nuts with the flat side of the knife.
+[Sweeping]: Sweep the crushed nuts from the chopping board into the mortar.
+[Picking Up]: Pick up the pestle.
+[Mashing]: Mash the nuts with a pestle.
+[Grinding]: Grind the mashed nuts into smaller chunks.
+[Pounding]: Pound the ground nuts into a fine consistency with the mortar pounder.
+[Putting Down]: Put down the pestle.
+[Grating]: Grate cheese with a cheese grater.
+[Picking]: Pick two grapes from the bunk and drop them into the salad bowl.
+
+(Mixing and Dressing the Salad)
+[Mixing]: In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently.
+[Drizzling]: Drizzle the dressing over the salad.
+[Tossing]: Toss the salad in the bowl to coat all the ingredients thoroughly with the dressing.
+[Spearing]: Spear a variety of ingredients with a fork and bring them to your mouth to eat.
+
+(Cleaning the Table)
+[Scraping]: Scrape any leftover salad from the bowl into the trash can.
+[Clearing]: Clear the table by disposing of any remaining food.
+[Mopping]: Mop the table surface with a damp cloth or mop.
+[Drying]: Dry your hands with a hand towel.
+
+#Baking and Frosting a Bread.
+(Preparing the Flour)
+[Stacking]: Stack the sieve on top of a bowl.
+[Pouring]: Pour the flour into the sieve.
+
+[Shaking]: Gently shake the sieve to sift the remaining flour.
+[Tapping]: Tap the edge of the sieve to allow the flour to fall evenly into the bowl.
+[Removing]: Remove the sieve from the bowl.
+
+(Preparing the Ingredients)
+[Uncapping]: Uncap a bottle of water.
+[Measuring]: Use a measuring cup to measure a cup of water.
+[Capping]: Cap the water bottle.
+[Pouring]: Pour the water into the mixing bowl.
+[Scooping]: Scoop a ¼ spoonful of yeast.
+[Adding]: Add the yeast to the mixing bowl.
+
+(Mixing and Kneading the Dough)
+[Stirring]: Stir the ingredients with a spatula.
+[Beating]: Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly.
+[Pinching]: Pinch some extra flour from the flour bag.
+[Scattering]: Gently scatter the extra flour on the chopping board.
+[Moving]: Move the dough to the floured chopping board.
+[Scraping]: Scrape down the sides of the mixing bowl with a dough scraper to gather the dough.
+
+[Kneading]: Knead the dough on the floured surface.
+[Pushing]: Push the dough with the heels of your hands into a flat shape.
+[Folding]: Fold the dough over itself.
+[Repeating]: Repeat this push and fold motion 5 times.
+[Patting]: Gently pat the dough to even out the surface and remove any air pockets.
+[Stretching]: Stretch and fold the dough to help develop structure and trap air bubbles.
+[Lifting]: Lift the stretched dough from one side.
+[Folding]: Fold the lifted dough over to the opposite side.
+[Widening]: Widen the dough by gently stretching it with both hands.
+
+(Shaping the Dough)
+[Dividing]: Divide the dough into two portions.
+[Shaping]: Shape the first portion into a roll.
+[Rolling]: Roll the dough into a pancake shape with a rolling pin.
+[Molding]: Mold the pancake into a straw shape by rolling the pancake.
+[Crimping]: Crimp the ends of the straw to seal them and add texture.
+[Transferring]: Transfer the first portion to the baking tray.
+[Tucking]: Tuck the edges of the second portion to form smooth, tight shapes.
+[Scoring]: Score the surface of the dough with shallow cuts using a sharp knife.
+
+[Compressing]: Compress the second portion into the empty container.
+
+(Baking the Bread)
+[Switching On]: Switch on the oven.
+[Opening]: Open the oven door.
+[Sticking]: Stick a hand into the oven to check the temperature.
+[Transferring]: Transfer the baking tray into the oven.
+[Shutting]: Shut the oven door.
+[Opening]: Open the oven door.
+[Wearing]: Wear oven mitts.
+[Pulling Out]: Pull out the baking tray from the oven.
+[Shutting]: Shut the oven door.
+[Tapping]: Tap the bottom of the loaf to check for doneness.
+[Cooling]: Waving your hands around the loaves for even cooling.
+
+(Frosting the Bread)
+[Grasping]: Grasp a knife for sawing.
+[Sawing]: Saw a small piece off the bread with the sawing knife.
+[Placing]: Place the bread on a rotating cake stand.
+[Rotating]: Rotate the cake stand to ensure it moves smoothly.
+
+[Applying]: Apply a layer of frosting on the top of the bread with the piping bag.
+[Holding]: Hold a spatula for spreading frosting.
+[Spreading]: Spread frosting along the sides of the bread.
+[Turning]: Turn the cake stand while spreading as needed for even coverage.
+[Smoothing]: Smooth the frosting on the bread's surface with the spatula.
+[Putting Down]: Put down the spatula.
+[Gripping]: Grip the piping bag.
+[Decorating]: Squeeze the piping bag to add circular decorations.
+[Squeezing]: Squeeze the piping bag to add wave-like decorations.
+[Putting Down]: Put down the piping bag.

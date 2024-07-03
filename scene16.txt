@@ -1,0 +1,73 @@
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/858.mp3	Unfold the game board.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/859.mp3	Grab the deck from the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/860.mp3	Split the deck into chance, community chest, and property cards.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/861.mp3	Shuffle the chance and community chest decks separately.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/862.mp3	Place the chance and community chest decks on their designated spaces on the board.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/863.mp3	Grasp the player piece and place it on the GO space.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/864.mp3	Grab one pile of dollars from the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/865.mp3	Distribute one of each dollar type to yourself.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/866.mp3	Place the game piece at the starting point.
+delete
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/867.mp3	Fetch the dice from the box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/868.mp3	Shake the dice in your hand.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/869.mp3	Roll the dice.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/870.mp3	Move your game piece according to the dice roll.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/871.mp3	Pay $100 to the bank.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/872.mp3	Take a light-blue property card.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/873.mp3	Pretending to pass the dice to the next player.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/874.mp3	Grab the dice.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/875.mp3	Draw a chance card.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/876.mp3	Display the card to other players.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/877.mp3	Withdraw $50 from the bank.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/878.mp3	Pay $50 to the bank.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/879.mp3	Place a house and hotel on two properties.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/880.mp3	Count your money.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/881.mp3	Remove your player piece from the board.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/882.mp3	Combine the chance, community chest, and property card decks.
+scene16/0.wav	return to chance Community chest and property card decks back to the box go shopping
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/883.mp3	Return your money to the bank.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./128_Playing Monopoly/884.mp3	Place the dice back in the box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/885.mp3	Flip the game board for playing other props.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/886.mp3	Grab the deck of cards from the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/887.mp3	Hold the deck with one hand.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/888.mp3	Split the deck into two halves, with one half in each hand.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/889.mp3	Grip the deck on the short sides with your thumb and middle finger.
+delete
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/890.mp3	Do the bridge shuffle, allowing the cards to arc and fall into place.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/891.mp3	Shuffle in another interesting way.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/892.mp3	Straighten the cards in one hand so that they are even.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/893.mp3	Perform a two-hand cut, taking the upper half of the deck and placing it face-down underneath the bottom half.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/894.mp3	Fan out the cards facing yourself to create a broad display that is easy to view.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/895.mp3	Choose and grab a card from the fan.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/896.mp3	Compose the cards back into a single deck, keeping the chosen card separate.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/897.mp3	Place the card on top of the deck.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/898.mp3	Deal three piles of three cards.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/899.mp3	Place the deck on the table.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/900.mp3	Swap the locations of two piles.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/901.mp3	Alter back the location of two piles.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/902.mp3	Slide one pile directly in front of you.
+delete
+scene16/1.wav	slide one pile to be directly in front of you go
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/903.mp3	Pick up and look at one card from that pile before returning it.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/904.mp3	Lift a portion of the main deck slightly off the table.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/905.mp3	Flip the portion of the cards so that they are face-up.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/906.mp3	Fan the face-up cards.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/907.mp3	Sort the cards by taking two cards from the right side of the fan and placing it on the left side.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/908.mp3	Draw a card from the main deck to add to your hand.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/909.mp3	Play a card by placing it face-up next to the main deck.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/910.mp3	Reassemble the cards into a single deck.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/911.mp3	Stack one three-card pile on top of another.
+delete
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/912.mp3	Flip over the face-up deck.
+delete
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/913.mp3	Scramble the cards on the table while keeping them face-down.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./129_Playing Cards/914.mp3	Put the cards back in the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/915.mp3	Grip a fake coin out of the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/916.mp3	Spin the coin.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/917.mp3	Toss the coin into the air and let it fall.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/918.mp3	Toss the coin into the air and catch it.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/919.mp3	Flip a coin using your right thumb, catch it in the palm of your right hand, flip your right hand onto the back of your left hand, and remove your right hand to reveal the coin on the back of your left hand.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./130_Playing Coins and Knucklebones/920.mp3	Play a round of knucklebones with three coins.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./131_Finishing Up/921.mp3	Collect the coins and put them in the game box.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./131_Finishing Up/922.mp3	Fold up the game board.
+audio/04_Entertaining/17_Playing monopoly, cards, coins and knucklebones./131_Finishing Up/923.mp3	Close the game board.

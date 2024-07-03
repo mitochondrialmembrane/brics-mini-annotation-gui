@@ -1,0 +1,32 @@
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./01_Preparing the Teapot/01.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/02.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./02_Adding Hot Water/03.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/04.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/05.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/06.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/07.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/08.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/09.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./03_Steeping Tea Bag/10.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./04_Pouring Tea/11.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/12.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/13.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/14.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/15.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/16.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/17.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/18.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/19.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/20.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/21.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./05_Adding Cream and Sugar/22.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/23.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/24.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./06_Adding Lemon Juice/25.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/26.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/27.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/28.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./07_Drinking the Tea/29.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/30.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/31.mp3
+audio/01_Cooking, Clearing, Eating/01_Making and Drinking Tea./08_Cleaning Up/32.mp3

@@ -1,0 +1,38 @@
+audio/03_Crafting/15_Cultivating and uproot a Plant/115_Preparing the Pot Replanting Mat/788.mp3	Attach the snap buttons at the four corners of the replanting mat.
+audio/03_Crafting/15_Cultivating and uproot a Plant/115_Preparing the Pot Replanting Mat/788.mp3	Attach the snap buttons at the four corners of the replanting mat.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/789.mp3	Unpack the bag of soil from its packaging to get ready for filling the pot.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/790.mp3	Grasp the shovel.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/791.mp3	Scoop soil from the bag and hold it in the shovel.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/792.mp3	Transfer the soil to the pot.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/793.mp3	Break apart any large clumps in the soil.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/794.mp3	Fill the pot halfway with potting soil.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/795.mp3	Put down the shovel.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/796.mp3	Insert the transplant tool into the soil to prepare a hole for transplanting.
+audio/03_Crafting/15_Cultivating and uproot a Plant/116_Preparing the Pot/797.mp3	Remove the transplant tool.
+delete
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/798.mp3	Ease the plant out of its nursery container, supporting the root ball.
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/799.mp3	Place the plant in the soil-filled pot.
+delete
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/800.mp3	Scoop additional soil around the plant in the pot.
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/801.mp3	Fill the whole pot by repeatedly scooping the soil.
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/802.mp3	Hold the base of the plant to keep it steady.
+audio/03_Crafting/15_Cultivating and uproot a Plant/117_Planting the Plant/803.mp3	Press the soil down to eliminate air pockets.
+audio/03_Crafting/15_Cultivating and uproot a Plant/118_Aerating the Soil/804.mp3	Penetrate the soil with your fingers to create a loose layer.
+audio/03_Crafting/15_Cultivating and uproot a Plant/118_Aerating the Soil/805.mp3	Aerating the soil with the rake.
+audio/03_Crafting/15_Cultivating and uproot a Plant/119_Watering the Plant/806.mp3	Squeeze the watering bottle to water the plant.
+audio/03_Crafting/15_Cultivating and uproot a Plant/120_Mulching the Soil/807.mp3	Scatter mulch over the soil to retain moisture.
+audio/03_Crafting/15_Cultivating and uproot a Plant/120_Mulching the Soil/808.mp3	Distribute the mulch with your hands to even it out.
+audio/03_Crafting/15_Cultivating and uproot a Plant/120_Mulching the Soil/809.mp3	Straighten the plant to ensure it is upright.
+audio/03_Crafting/15_Cultivating and uproot a Plant/121_Spraying the Plant/810.mp3	Pump the air dust blower to blow away dust on leaves.
+audio/03_Crafting/15_Cultivating and uproot a Plant/121_Spraying the Plant/811.mp3	Spray the foliage of the plant evenly with the spray bottle.
+audio/03_Crafting/15_Cultivating and uproot a Plant/122_Uprooting the Plant/812.mp3	Dig around the plant to loosen the soil with the rake.
+audio/03_Crafting/15_Cultivating and uproot a Plant/122_Uprooting the Plant/813.mp3	Ease the plant out by gently pulling on the base.
+audio/03_Crafting/15_Cultivating and uproot a Plant/122_Uprooting the Plant/814.mp3	Uproot the plant carefully to avoid damaging the roots.
+delete
+audio/03_Crafting/15_Cultivating and uproot a Plant/122_Uprooting the Plant/815.mp3	Shake the plant gently to remove excess soil.
+audio/03_Crafting/15_Cultivating and uproot a Plant/122_Uprooting the Plant/816.mp3	Store the plant properly in the nursery container.
+audio/03_Crafting/15_Cultivating and uproot a Plant/123_Emptying the Pot/817.mp3	Pick up the pot.
+audio/03_Crafting/15_Cultivating and uproot a Plant/123_Emptying the Pot/818.mp3	Empty all remaining soil from the pot to the zip bag.
+audio/03_Crafting/15_Cultivating and uproot a Plant/123_Emptying the Pot/819.mp3	Tap the bottom of the pot to release soil.
+audio/03_Crafting/15_Cultivating and uproot a Plant/123_Emptying the Pot/820.mp3	Tip the pot over to continue removing remains.
+audio/03_Crafting/15_Cultivating and uproot a Plant/123_Emptying the Pot/821.mp3	Put down the pot.
