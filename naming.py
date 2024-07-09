@@ -65,9 +65,9 @@ def delete_log(log_file='video_log.txt'):
         file.write('delete' + '\n') 
            
 # Main execution logic
-audio_naming_file = 'audio_txt/04_Entertaining/20_Paying with a Puppy Dog.txt'
-audio_new = 'scene19'
-log_video_file = 'scene19.txt'
+audio_naming_file = 'audio_txt/05_Houseworks/25_Cleaning Glass Tabletop.txt'
+audio_new = 'scene24'
+log_video_file = 'scene24.txt'
 os.makedirs(audio_new, exist_ok=True)
 input_json_file = 'script.json'
 names = load_names(audio_naming_file)

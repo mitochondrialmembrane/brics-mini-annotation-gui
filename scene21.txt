@@ -1,0 +1,63 @@
+audio/05_Houseworks/22_Packing a gym bag/167_Unlocking and Opening the Gym Bag/1161.mp3	Unlock the gym bag by spinning the number lock to 000.
+delete
+audio/05_Houseworks/22_Packing a gym bag/167_Unlocking and Opening the Gym Bag/1162.mp3	Unlatch the gym bag by pulling out the lock.
+delete
+audio/05_Houseworks/22_Packing a gym bag/167_Unlocking and Opening the Gym Bag/1163.mp3	Unzip the main compartment of the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/167_Unlocking and Opening the Gym Bag/1164.mp3	Unbuckle the stripe belt.
+audio/05_Houseworks/22_Packing a gym bag/167_Unlocking and Opening the Gym Bag/1165.mp3	Lift clothes out of the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/168_Removing and Cleaning Shoes/1166.mp3	Remove shoes from the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/168_Removing and Cleaning Shoes/1167.mp3	Apply shoe polish to a cloth.
+audio/05_Houseworks/22_Packing a gym bag/168_Removing and Cleaning Shoes/1168.mp3	Shine shoes with the cloth.
+audio/05_Houseworks/22_Packing a gym bag/168_Removing and Cleaning Shoes/1169.mp3	Buff shoes with a clean cloth.
+audio/05_Houseworks/22_Packing a gym bag/168_Removing and Cleaning Shoes/1170.mp3	Untie shoelaces.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1171.mp3	Unfold the T-shirt.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1172.mp3	Examine the stained area closely.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1173.mp3	Hold the stain removing pen firmly.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1174.mp3	Uncap the pen.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1175.mp3	Rub the tip of the pen gently over the stain in small, circular motions.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1176.mp3	Cap the stain removal pen.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1177.mp3	Set the pen aside.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1178.mp3	Rub the stained area in a circular motion with your hands.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1179.mp3	Scrub the T-shirt with a clothes brush.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1180.mp3	Wring out the excess solution.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1181.mp3	Iron the T-shirt.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1182.mp3	Unbutton the shirt.
+audio/05_Houseworks/22_Packing a gym bag/169_Cleaning and Ironing Clothes/1183.mp3	Set the clothes aside.
+audio/05_Houseworks/22_Packing a gym bag/170_Unfolding and Preparing Clothes/1184.mp3	Unfold the umbrella.
+delete
+scene21/0.wav	Slide the umbrella out of its cover
+audio/05_Houseworks/22_Packing a gym bag/170_Unfolding and Preparing Clothes/1185.mp3	Untie the tie.
+delete
+scene21/1.wav	unclasp the umbrella go
+scene21/2.wav	untie the thigh
+audio/05_Houseworks/22_Packing a gym bag/170_Unfolding and Preparing Clothes/1186.mp3	Unfold the socks.
+audio/05_Houseworks/22_Packing a gym bag/170_Unfolding and Preparing Clothes/1187.mp3	Unfold the pants.
+audio/05_Houseworks/22_Packing a gym bag/171_Unbuckling and Preparing the Belt/1188.mp3	Unbuckle the belt.
+audio/05_Houseworks/22_Packing a gym bag/171_Unbuckling and Preparing the Belt/1189.mp3	Unthread the belt by sliding the loose end of the belt out of the belt loops on the pants.
+audio/05_Houseworks/22_Packing a gym bag/171_Unbuckling and Preparing the Belt/1190.mp3	Roll the belt for storage.
+audio/05_Houseworks/22_Packing a gym bag/171_Unbuckling and Preparing the Belt/1191.mp3	Unzip pants.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1192.mp3	Zip up the pants.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1193.mp3	Unroll the belt.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1194.mp3	Thread the belt into the pants.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1195.mp3	Buckle the belt.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1196.mp3	Tuck the loose end into the belt keeper.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1197.mp3	Fold pants in a preferred way.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1198.mp3	Fold socks in a preferred way.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1199.mp3	Tie the tie in a preferred way.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1200.mp3	Fold the umbrella.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1201.mp3	Secure the umbrella with a strap.
+delete
+scene21/3.wav	Slide the umbrella back into its cover
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1202.mp3	Button up the T-shirt.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1203.mp3	Fold the T-shirt.
+audio/05_Houseworks/22_Packing a gym bag/172_Repacking and Organizing/1204.mp3	Tie shoelaces in a preferred way.
+audio/05_Houseworks/22_Packing a gym bag/173_Placing Items in the Gym Bag/1205.mp3	Place the shoes in the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/173_Placing Items in the Gym Bag/1206.mp3	Place folded clothes in the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/173_Placing Items in the Gym Bag/1207.mp3	Adjust items for a snug fit.
+audio/05_Houseworks/22_Packing a gym bag/174_Closing and Securing the Gym Bag/1208.mp3	Zip the main compartment of the gym bag.
+audio/05_Houseworks/22_Packing a gym bag/174_Closing and Securing the Gym Bag/1209.mp3	Buckle the belt.
+audio/05_Houseworks/22_Packing a gym bag/174_Closing and Securing the Gym Bag/1210.mp3	Latch the gym bag.
+delete
+audio/05_Houseworks/22_Packing a gym bag/174_Closing and Securing the Gym Bag/1211.mp3	Lock the gym bag.
+delete
+audio/05_Houseworks/22_Packing a gym bag/174_Closing and Securing the Gym Bag/1212.mp3	Lift and assess the weight and balance of the gym bag.

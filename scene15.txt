@@ -1,0 +1,50 @@
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/822.mp3	Organize the content inside the sewing kit for easy access.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/823.mp3	Grasp the scissors for cutting.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/824.mp3	Cut the eyes, mouth and other parts aligning the cutting line.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/825.mp3	Stick the eyes and other parts on the face of the planet.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/826.mp3	Unwrap the thread the spool.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/827.mp3	Gently untangle any knot thread using both hands.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/828.mp3	Tie the thread to the needle.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/829.mp3	Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/830.mp3	Fill the planet with cotton.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/831.mp3	Stitch the little space together.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/832.mp3	Knot the end of the thread to secure the cottons.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/833.mp3	Untie the thread from the needle.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/834.mp3	Puncture the used needle into the futon.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/124_Sewing kit/835.mp3	Cut the excess thread with the scissors.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/836.mp3	Pick up the yarn and the crochet hook.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/837.mp3	Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/838.mp3	Yarn over by wrapping the yarn around the hook from back to front.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/839.mp3	Pull the yarn through the loop on the hook to create a chain stitch.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/840.mp3	Repeat the yarn over and pull through steps to create 10 chain stitches for the foundation.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/841.mp3	Crochet a single row.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/842.mp3	Cut the yarn, leaving a tail.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/125_Crocheting/843.mp3	Weave in ends of yarn or thread using the hook.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/844.mp3	Pick up the yarn and the knitting needles.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/845.mp3	Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/846.mp3	Cast on by looping the yarn around your thumb and forefinger of your left hand. Insert the needle under the yarn loop on your thumb. Pull the yarn through the loop on your thumb to form a new stitch. Place the new stitch onto the needle, sliding it to the end.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/847.mp3	Hold the knitting needles in each hand. Use the left needle to hold the stitches, and the right needle to insert into a stitch, wrap the yarn around it, and pull through to create a new stitch, transferring it to the right needle.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/848.mp3	Cut the yarn, leaving a tail.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/126_Knitting/849.mp3	Weave in ends of yarn or thread using a needle or hook. Thread the loose end through the eye of a needle or hook, and weave it through the completed stitches to secure and hide the end.
+delete
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/850.mp3	Pick up a thick yarn for finger knitting.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/851.mp3	Create a slip knot by forming a loop with the yarn. Insert your index finger and thumb into the loop. Pull the working yarn through the loop to tighten the knot around your finger.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/852.mp3	Cast on by looping the yarn around your index and middle fingers, then over the ring and pinky fingers, forming a figure-eight pattern.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/853.mp3	Knit by lifting the bottom loop over the top loop on each finger, starting with the pinky and moving to the index finger. Repeat lifting the bottom loop over the top loop on each finger until only one loop remains on each finger.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/854.mp3	Cut the yarn, leaving a tail.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/855.mp3	Pull the yarn tail through the last loop to secure the end.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/856.mp3	Pull the knitted yarn off your hand.
+audio/03_Crafting/16_Sewing kit, Crocheting, Knitting and Finger Knitting/127_Finger Knitting/857.mp3	Thread the yarn tail onto a yarn needle or use your fingers to weave in the ends.

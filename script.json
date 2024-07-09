@@ -6519,5 +6519,1330 @@
                 ]
             }
         ]
+    },
+    {
+        "type_id": 5,
+        "type_name": "Houseworks",
+        "scenes": [
+            {
+                "scene_id": 21,
+                "scene_name": "Applying Makeups",
+                "activities": [
+                    {
+                        "activity_id": 153,
+                        "activity_name": "Facial Care",
+                        "actions": [
+                            {
+                                "action_id": 1094,
+                                "action_name": "Pouring",
+                                "text": "Pour a small amount of toner onto a cotton pad."
+                            },
+                            {
+                                "action_id": 1095,
+                                "action_name": "Sweeping",
+                                "text": "Sweep the cotton pad across your face."
+                            },
+                            {
+                                "action_id": 1096,
+                                "action_name": "Dabbing",
+                                "text": "Dab the toner gently around your eyes and nose."
+                            },
+                            {
+                                "action_id": 1097,
+                                "action_name": "Dispensing",
+                                "text": "Dispense a few drops of serum onto your fingertips."
+                            },
+                            {
+                                "action_id": 1098,
+                                "action_name": "Tapping",
+                                "text": "Tap the serum onto your face, focusing on areas that need extra care."
+                            },
+                            {
+                                "action_id": 1099,
+                                "action_name": "Spreading",
+                                "text": "Spread the serum evenly over your face using gentle upward strokes."
+                            },
+                            {
+                                "action_id": 1100,
+                                "action_name": "Scooping",
+                                "text": "Scoop a small amount of moisturizer from the container."
+                            },
+                            {
+                                "action_id": 1101,
+                                "action_name": "Dotting",
+                                "text": "Dot the moisturizer onto your forehead, cheeks, nose, and chin."
+                            },
+                            {
+                                "action_id": 1102,
+                                "action_name": "Rubbing",
+                                "text": "Rub the moisturizer into your skin using upward and outward motions."
+                            },
+                            {
+                                "action_id": 1103,
+                                "action_name": "Smoothing",
+                                "text": "Smooth your skin with the moisturizer."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 154,
+                        "activity_name": "Applying Foundation",
+                        "actions": [
+                            {
+                                "action_id": 1104,
+                                "action_name": "Pumping",
+                                "text": "Pump a small amount of foundation onto the back of your hand."
+                            },
+                            {
+                                "action_id": 1105,
+                                "action_name": "Dabbing",
+                                "text": "Dab the foundation onto your face using a makeup sponge or brush."
+                            },
+                            {
+                                "action_id": 1106,
+                                "action_name": "Blending",
+                                "text": "Blend the foundation evenly over your face, paying attention to the hairline and jawline."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 155,
+                        "activity_name": "Setting the Makeup",
+                        "actions": [
+                            {
+                                "action_id": 1107,
+                                "action_name": "Scooping",
+                                "text": "Scoop a small amount of loose powder onto a powder pad."
+                            },
+                            {
+                                "action_id": 1108,
+                                "action_name": "Patting",
+                                "text": "Pat the powder pad onto your face, focusing on areas that tend to get oily."
+                            },
+                            {
+                                "action_id": 1109,
+                                "action_name": "Pressing",
+                                "text": "Press the powder into your skin gently to set the foundation and concealer."
+                            },
+                            {
+                                "action_id": 1110,
+                                "action_name": "Dusting",
+                                "text": "Dust off any excess powder with a powder brush."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 156,
+                        "activity_name": "Applying Blush",
+                        "actions": [
+                            {
+                                "action_id": 1111,
+                                "action_name": "Swirling",
+                                "text": "Swirl a blush brush in the blush."
+                            },
+                            {
+                                "action_id": 1112,
+                                "action_name": "Tapping",
+                                "text": "Tap off any excess blush."
+                            },
+                            {
+                                "action_id": 1113,
+                                "action_name": "Sweeping",
+                                "text": "Sweep the blush onto the apples of your cheeks in an upward motion."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 157,
+                        "activity_name": "Applying Fake Eyelashes",
+                        "actions": [
+                            {
+                                "action_id": 1114,
+                                "action_name": "Removing",
+                                "text": "Remove a pair of fake eyelashes from the tray using tweezers."
+                            },
+                            {
+                                "action_id": 1115,
+                                "action_name": "Gluing",
+                                "text": "Apply a layer of eyelash glue to the base of the fake eyelashes."
+                            },
+                            {
+                                "action_id": 1116,
+                                "action_name": "Positioning",
+                                "text": "Position the fake eyelashes as close to your natural lash line as possible using tweezers."
+                            },
+                            {
+                                "action_id": 1117,
+                                "action_name": "Pressing",
+                                "text": "Press the fake eyelashes gently onto your eyelid to secure them."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 158,
+                        "activity_name": "Applying Eyeshadow",
+                        "actions": [
+                            {
+                                "action_id": 1118,
+                                "action_name": "Dipping",
+                                "text": "Dip an eyeshadow brush into the eyeshadow."
+                            },
+                            {
+                                "action_id": 1119,
+                                "action_name": "Tapping",
+                                "text": "Tap off any excess eyeshadow."
+                            },
+                            {
+                                "action_id": 1120,
+                                "action_name": "Sweeping",
+                                "text": "Sweep the eyeshadow across your eyelids."
+                            },
+                            {
+                                "action_id": 1121,
+                                "action_name": "Blending",
+                                "text": "Blend the eyeshadow into the crease for a seamless look."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 159,
+                        "activity_name": "Applying Eyeliner and Mascara",
+                        "actions": [
+                            {
+                                "action_id": 1122,
+                                "action_name": "Drawing",
+                                "text": "Draw a line along your upper lash line with the eyeliner."
+                            },
+                            {
+                                "action_id": 1123,
+                                "action_name": "Extending",
+                                "text": "Extend the line slightly past the outer corner of your eye for a winged effect."
+                            },
+                            {
+                                "action_id": 1124,
+                                "action_name": "Twisting",
+                                "text": "Twist the mascara wand out of the tube."
+                            },
+                            {
+                                "action_id": 1125,
+                                "action_name": "Wiggling",
+                                "text": "Wiggle the wand at the base of your lashes and sweep upwards to coat each lash."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 160,
+                        "activity_name": "Shaping Eyebrows",
+                        "actions": [
+                            {
+                                "action_id": 1126,
+                                "action_name": "Brushing",
+                                "text": "Brush your eyebrows with a spoolie brush."
+                            },
+                            {
+                                "action_id": 1127,
+                                "action_name": "Filling",
+                                "text": "Fill in any sparse areas with an eyebrow pencil or powder."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 161,
+                        "activity_name": "Applying Lipstick",
+                        "actions": [
+                            {
+                                "action_id": 1128,
+                                "action_name": "Picking up",
+                                "text": "Pick up the lipstick tube."
+                            },
+                            {
+                                "action_id": 1129,
+                                "action_name": "Twisting",
+                                "text": "Twist the lipstick tube to reveal the product."
+                            },
+                            {
+                                "action_id": 1130,
+                                "action_name": "Applying",
+                                "text": "Apply the lipstick to your lips, starting from the center and moving outwards."
+                            },
+                            {
+                                "action_id": 1131,
+                                "action_name": "Putting down",
+                                "text": "Put down the lipstick tube."
+                            },
+                            {
+                                "action_id": 1132,
+                                "action_name": "Blotting",
+                                "text": "Blot your lips with a tissue to remove any excess product."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 162,
+                        "activity_name": "Polishing Nails",
+                        "actions": [
+                            {
+                                "action_id": 1133,
+                                "action_name": "Buffing",
+                                "text": "Buff the surface of your nails to smooth out any ridges."
+                            },
+                            {
+                                "action_id": 1134,
+                                "action_name": "Shaking",
+                                "text": "Shake the nail polish bottle to mix the contents."
+                            },
+                            {
+                                "action_id": 1135,
+                                "action_name": "Unscrewing",
+                                "text": "Unscrew the nail polish cap and remove the brush."
+                            },
+                            {
+                                "action_id": 1136,
+                                "action_name": "Painting",
+                                "text": "Paint each nail with the brush, starting from the base and moving towards the tip."
+                            },
+                            {
+                                "action_id": 1137,
+                                "action_name": "Displaying",
+                                "text": "Display the polished nails."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 163,
+                        "activity_name": "Wearing Jewelry",
+                        "actions": [
+                            {
+                                "action_id": 1138,
+                                "action_name": "Picking",
+                                "text": "Pick up one earring with your fingers."
+                            },
+                            {
+                                "action_id": 1139,
+                                "action_name": "Inserting",
+                                "text": "Insert the earring post through your right earlobe."
+                            },
+                            {
+                                "action_id": 1140,
+                                "action_name": "Inserting",
+                                "text": "Insert the earring post through your left earlobe."
+                            },
+                            {
+                                "action_id": 1141,
+                                "action_name": "Holding",
+                                "text": "Hold the necklace with both hands."
+                            },
+                            {
+                                "action_id": 1142,
+                                "action_name": "Clasping",
+                                "text": "Clasp the necklace around your neck."
+                            },
+                            {
+                                "action_id": 1143,
+                                "action_name": "Wrapping",
+                                "text": "Wrap the bracelet around your wrist."
+                            },
+                            {
+                                "action_id": 1144,
+                                "action_name": "Clasping",
+                                "text": "Clasp the bracelet securely."
+                            },
+                            {
+                                "action_id": 1145,
+                                "action_name": "Sliding",
+                                "text": "Slide the ring onto your finger."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 164,
+                        "activity_name": "Removing Makeup",
+                        "actions": [
+                            {
+                                "action_id": 1146,
+                                "action_name": "Plucking",
+                                "text": "Pluck off the fake eyelashes."
+                            },
+                            {
+                                "action_id": 1147,
+                                "action_name": "Dispensing",
+                                "text": "Dispense makeup remover onto a cotton pad."
+                            },
+                            {
+                                "action_id": 1148,
+                                "action_name": "Wiping",
+                                "text": "Wipe the cotton pad over your face to remove makeup."
+                            },
+                            {
+                                "action_id": 1149,
+                                "action_name": "Dipping",
+                                "text": "Dip the cotton swab into the makeup remover."
+                            },
+                            {
+                                "action_id": 1150,
+                                "action_name": "Swabbing",
+                                "text": "Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 165,
+                        "activity_name": "Cleansing the Face",
+                        "actions": [
+                            {
+                                "action_id": 1151,
+                                "action_name": "Wetting",
+                                "text": "Wet your hands with lukewarm water."
+                            },
+                            {
+                                "action_id": 1152,
+                                "action_name": "Applying",
+                                "text": "Apply a small amount of facial cleanser to your fingertips."
+                            },
+                            {
+                                "action_id": 1153,
+                                "action_name": "Lathering",
+                                "text": "Lather the cleanser in your hands."
+                            },
+                            {
+                                "action_id": 1154,
+                                "action_name": "Massaging",
+                                "text": "Massage the cleanser onto your face in circular motions."
+                            },
+                            {
+                                "action_id": 1155,
+                                "action_name": "Rinsing",
+                                "text": "Rinse your face with water to remove the cleanser."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 166,
+                        "activity_name": "Applying Night Cream",
+                        "actions": [
+                            {
+                                "action_id": 1156,
+                                "action_name": "Pouring",
+                                "text": "Pour a small amount of toner onto a cotton pad."
+                            },
+                            {
+                                "action_id": 1157,
+                                "action_name": "Sweeping",
+                                "text": "Sweep the cotton pad across your face."
+                            },
+                            {
+                                "action_id": 1158,
+                                "action_name": "Scooping",
+                                "text": "Scoop a small amount of night cream from the container."
+                            },
+                            {
+                                "action_id": 1159,
+                                "action_name": "Dotting",
+                                "text": "Dot the cream onto your forehead, cheeks, nose, and chin."
+                            },
+                            {
+                                "action_id": 1160,
+                                "action_name": "Moisturizing",
+                                "text": "Moisturize your skin with the night cream, spreading it evenly using gentle strokes."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 22,
+                "scene_name": "Packing a gym bag",
+                "activities": [
+                    {
+                        "activity_id": 167,
+                        "activity_name": "Unlocking and Opening the Gym Bag",
+                        "actions": [
+                            {
+                                "action_id": 1161,
+                                "action_name": "Unlocking",
+                                "text": "Unlock the gym bag by spinning the number lock to 000."
+                            },
+                            {
+                                "action_id": 1162,
+                                "action_name": "Unlatching",
+                                "text": "Unlatch the gym bag by pulling out the lock."
+                            },
+                            {
+                                "action_id": 1163,
+                                "action_name": "Unzipping",
+                                "text": "Unzip the main compartment of the gym bag."
+                            },
+                            {
+                                "action_id": 1164,
+                                "action_name": "Unbuckling",
+                                "text": "Unbuckle the stripe belt."
+                            },
+                            {
+                                "action_id": 1165,
+                                "action_name": "Lifting",
+                                "text": "Lift clothes out of the gym bag."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 168,
+                        "activity_name": "Removing and Cleaning Shoes",
+                        "actions": [
+                            {
+                                "action_id": 1166,
+                                "action_name": "Removing",
+                                "text": "Remove shoes from the gym bag."
+                            },
+                            {
+                                "action_id": 1167,
+                                "action_name": "Applying",
+                                "text": "Apply shoe polish to a cloth."
+                            },
+                            {
+                                "action_id": 1168,
+                                "action_name": "Shining",
+                                "text": "Shine shoes with the cloth."
+                            },
+                            {
+                                "action_id": 1169,
+                                "action_name": "Buffing",
+                                "text": "Buff shoes with a clean cloth."
+                            },
+                            {
+                                "action_id": 1170,
+                                "action_name": "Untying",
+                                "text": "Untie shoelaces."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 169,
+                        "activity_name": "Cleaning and Ironing Clothes",
+                        "actions": [
+                            {
+                                "action_id": 1171,
+                                "action_name": "Unfolding",
+                                "text": "Unfold the T-shirt."
+                            },
+                            {
+                                "action_id": 1172,
+                                "action_name": "Examining",
+                                "text": "Examine the stained area closely."
+                            },
+                            {
+                                "action_id": 1173,
+                                "action_name": "Holding",
+                                "text": "Hold the stain removing pen firmly."
+                            },
+                            {
+                                "action_id": 1174,
+                                "action_name": "Uncapping",
+                                "text": "Uncap the pen."
+                            },
+                            {
+                                "action_id": 1175,
+                                "action_name": "Rubbing",
+                                "text": "Rub the tip of the pen gently over the stain in small, circular motions."
+                            },
+                            {
+                                "action_id": 1176,
+                                "action_name": "Capping",
+                                "text": "Cap the stain removal pen."
+                            },
+                            {
+                                "action_id": 1177,
+                                "action_name": "Setting",
+                                "text": "Set the pen aside."
+                            },
+                            {
+                                "action_id": 1178,
+                                "action_name": "Rubbing",
+                                "text": "Rub the stained area in a circular motion with your hands."
+                            },
+                            {
+                                "action_id": 1179,
+                                "action_name": "Scrubbing",
+                                "text": "Scrub the T-shirt with a clothes brush."
+                            },
+                            {
+                                "action_id": 1180,
+                                "action_name": "Wringing",
+                                "text": "Wring out the excess solution."
+                            },
+                            {
+                                "action_id": 1181,
+                                "action_name": "Ironing",
+                                "text": "Iron the T-shirt."
+                            },
+                            {
+                                "action_id": 1182,
+                                "action_name": "Unbuttoning",
+                                "text": "Unbutton the shirt."
+                            },
+                            {
+                                "action_id": 1183,
+                                "action_name": "Setting",
+                                "text": "Set the clothes aside."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 170,
+                        "activity_name": "Unfolding and Preparing Clothes",
+                        "actions": [
+                            {
+                                "action_id": 1184,
+                                "action_name": "Unfolding",
+                                "text": "Unfold the umbrella."
+                            },
+                            {
+                                "action_id": 1185,
+                                "action_name": "Untying",
+                                "text": "Untie the tie."
+                            },
+                            {
+                                "action_id": 1186,
+                                "action_name": "Unfolding",
+                                "text": "Unfold the socks."
+                            },
+                            {
+                                "action_id": 1187,
+                                "action_name": "Unfolding",
+                                "text": "Unfold the pants."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 171,
+                        "activity_name": "Unbuckling and Preparing the Belt",
+                        "actions": [
+                            {
+                                "action_id": 1188,
+                                "action_name": "Unbuckling",
+                                "text": "Unbuckle the belt."
+                            },
+                            {
+                                "action_id": 1189,
+                                "action_name": "Unthreading",
+                                "text": "Unthread the belt by sliding the loose end of the belt out of the belt loops on the pants."
+                            },
+                            {
+                                "action_id": 1190,
+                                "action_name": "Rolling",
+                                "text": "Roll the belt for storage."
+                            },
+                            {
+                                "action_id": 1191,
+                                "action_name": "Unzipping",
+                                "text": "Unzip pants."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 172,
+                        "activity_name": "Repacking and Organizing",
+                        "actions": [
+                            {
+                                "action_id": 1192,
+                                "action_name": "Zipping",
+                                "text": "Zip up the pants."
+                            },
+                            {
+                                "action_id": 1193,
+                                "action_name": "Unrolling",
+                                "text": "Unroll the belt."
+                            },
+                            {
+                                "action_id": 1194,
+                                "action_name": "Threading",
+                                "text": "Thread the belt into the pants."
+                            },
+                            {
+                                "action_id": 1195,
+                                "action_name": "Buckling",
+                                "text": "Buckle the belt."
+                            },
+                            {
+                                "action_id": 1196,
+                                "action_name": "Tucking",
+                                "text": "Tuck the loose end into the belt keeper."
+                            },
+                            {
+                                "action_id": 1197,
+                                "action_name": "Folding",
+                                "text": "Fold pants in a preferred way."
+                            },
+                            {
+                                "action_id": 1198,
+                                "action_name": "Folding",
+                                "text": "Fold socks in a preferred way."
+                            },
+                            {
+                                "action_id": 1199,
+                                "action_name": "Tying",
+                                "text": "Tie the tie in a preferred way."
+                            },
+                            {
+                                "action_id": 1200,
+                                "action_name": "Folding",
+                                "text": "Fold the umbrella."
+                            },
+                            {
+                                "action_id": 1201,
+                                "action_name": "Securing",
+                                "text": "Secure the umbrella with a strap."
+                            },
+                            {
+                                "action_id": 1202,
+                                "action_name": "Buttoning",
+                                "text": "Button up the T-shirt."
+                            },
+                            {
+                                "action_id": 1203,
+                                "action_name": "Folding",
+                                "text": "Fold the T-shirt."
+                            },
+                            {
+                                "action_id": 1204,
+                                "action_name": "Tying",
+                                "text": "Tie shoelaces in a preferred way."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 173,
+                        "activity_name": "Placing Items in the Gym Bag",
+                        "actions": [
+                            {
+                                "action_id": 1205,
+                                "action_name": "Placing",
+                                "text": "Place the shoes in the gym bag."
+                            },
+                            {
+                                "action_id": 1206,
+                                "action_name": "Placing",
+                                "text": "Place folded clothes in the gym bag."
+                            },
+                            {
+                                "action_id": 1207,
+                                "action_name": "Adjusting",
+                                "text": "Adjust items for a snug fit."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 174,
+                        "activity_name": "Closing and Securing the Gym Bag",
+                        "actions": [
+                            {
+                                "action_id": 1208,
+                                "action_name": "Zipping",
+                                "text": "Zip the main compartment of the gym bag."
+                            },
+                            {
+                                "action_id": 1209,
+                                "action_name": "Buckling",
+                                "text": "Buckle the belt."
+                            },
+                            {
+                                "action_id": 1210,
+                                "action_name": "Latching",
+                                "text": "Latch the gym bag."
+                            },
+                            {
+                                "action_id": 1211,
+                                "action_name": "Locking",
+                                "text": "Lock the gym bag."
+                            },
+                            {
+                                "action_id": 1212,
+                                "action_name": "Assessing",
+                                "text": "Lift and assess the weight and balance of the gym bag."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 23,
+                "scene_name": "Massaging Your Own Hands",
+                "activities": [
+                    {
+                        "activity_id": 175,
+                        "activity_name": "Preparing and Lubricating",
+                        "actions": [
+                            {
+                                "action_id": 1213,
+                                "action_name": "Dispensing",
+                                "text": "Dispense lotion onto your palms."
+                            },
+                            {
+                                "action_id": 1214,
+                                "action_name": "Lubricating",
+                                "text": "Spread the lotion evenly over your hands."
+                            },
+                            {
+                                "action_id": 1215,
+                                "action_name": "Warming",
+                                "text": "Warm your palms by rubbing them together."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 176,
+                        "activity_name": "Massaging the Palms and Fingers",
+                        "actions": [
+                            {
+                                "action_id": 1216,
+                                "action_name": "Pressing",
+                                "text": "Press your left thumb into the palm of your right hand."
+                            },
+                            {
+                                "action_id": 1217,
+                                "action_name": "Rubbing",
+                                "text": "Rub in circular motions, focusing on the center of the palm."
+                            },
+                            {
+                                "action_id": 1218,
+                                "action_name": "Pressing",
+                                "text": "Press your right thumb into the palm of your left hand."
+                            },
+                            {
+                                "action_id": 1219,
+                                "action_name": "Rubbing",
+                                "text": "Rub in circular motions, covering the entire palm."
+                            },
+                            {
+                                "action_id": 1220,
+                                "action_name": "Pinching",
+                                "text": "Pinch the base of the left hand fingers with your right thumb and index finger."
+                            },
+                            {
+                                "action_id": 1221,
+                                "action_name": "Sliding",
+                                "text": "Slide your right thumb and index finger up the left hand fingers to the tip."
+                            },
+                            {
+                                "action_id": 1222,
+                                "action_name": "Repeating",
+                                "text": "Repeat the pinching and sliding for each finger."
+                            },
+                            {
+                                "action_id": 1223,
+                                "action_name": "Grasping",
+                                "text": "Grasp your thumb with the opposite hand."
+                            },
+                            {
+                                "action_id": 1224,
+                                "action_name": "Squeezing",
+                                "text": "Squeeze and rotate your thumb gently."
+                            },
+                            {
+                                "action_id": 1225,
+                                "action_name": "Flexing",
+                                "text": "Flex your fingers back and forth to enhance their mobility."
+                            },
+                            {
+                                "action_id": 1226,
+                                "action_name": "Extending",
+                                "text": "Extend your fingers fully."
+                            },
+                            {
+                                "action_id": 1227,
+                                "action_name": "Clasping",
+                                "text": "Clasp your hands together."
+                            },
+                            {
+                                "action_id": 1228,
+                                "action_name": "Abducting",
+                                "text": "Abduct (spread apart) your fingers."
+                            },
+                            {
+                                "action_id": 1229,
+                                "action_name": "Adducting",
+                                "text": "Adduct (bring together) your fingers."
+                            },
+                            {
+                                "action_id": 1230,
+                                "action_name": "Bending",
+                                "text": "Bend your thumb back gently into the palm of your hand."
+                            },
+                            {
+                                "action_id": 1231,
+                                "action_name": "Clamping",
+                                "text": "Use the thumb and fingers of one hand to clamp gently around the opposite wrist."
+                            },
+                            {
+                                "action_id": 1232,
+                                "action_name": "Grasping",
+                                "text": "Grasp your wrist with the opposite hand."
+                            },
+                            {
+                                "action_id": 1233,
+                                "action_name": "Squeezing",
+                                "text": "Squeeze and rotate your wrist gently."
+                            },
+                            {
+                                "action_id": 1234,
+                                "action_name": "Covering",
+                                "text": "Cover one hand with the other hand and squeeze gently."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 177,
+                        "activity_name": "Stretching the Hands and Fingers",
+                        "actions": [
+                            {
+                                "action_id": 1235,
+                                "action_name": "Extending",
+                                "text": "Extend your left arm forward."
+                            },
+                            {
+                                "action_id": 1236,
+                                "action_name": "Pulling",
+                                "text": "Pull back on your fingers with the opposite hand to stretch them."
+                            },
+                            {
+                                "action_id": 1237,
+                                "action_name": "Holding",
+                                "text": "Hold the stretch for a few seconds."
+                            },
+                            {
+                                "action_id": 1238,
+                                "action_name": "Releasing",
+                                "text": "Release the stretch gently."
+                            },
+                            {
+                                "action_id": 1239,
+                                "action_name": "Extending",
+                                "text": "Extend your right arm forward."
+                            },
+                            {
+                                "action_id": 1240,
+                                "action_name": "Pulling",
+                                "text": "Pull back on your fingers with the opposite hand to stretch them."
+                            },
+                            {
+                                "action_id": 1241,
+                                "action_name": "Stretching",
+                                "text": "Hold the stretch for a few seconds."
+                            },
+                            {
+                                "action_id": 1242,
+                                "action_name": "Retracting",
+                                "text": "Retract your hand slowly from the stretching position."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 178,
+                        "activity_name": "Additional Finger and Wrist Stretches",
+                        "actions": [
+                            {
+                                "action_id": 1243,
+                                "action_name": "Interlocking",
+                                "text": "Interlock your fingers together."
+                            },
+                            {
+                                "action_id": 1244,
+                                "action_name": "Cracking",
+                                "text": "Crack your knuckles by gently pressing and pulling."
+                            },
+                            {
+                                "action_id": 1245,
+                                "action_name": "Unclasping",
+                                "text": "Unclasp your hands."
+                            },
+                            {
+                                "action_id": 1246,
+                                "action_name": "Intersecting",
+                                "text": "Intersect your fingers and pull gently to stretch."
+                            },
+                            {
+                                "action_id": 1247,
+                                "action_name": "Stretching",
+                                "text": "Stretch your arms out in front of you."
+                            },
+                            {
+                                "action_id": 1248,
+                                "action_name": "Pressing",
+                                "text": "Press your palms together."
+                            },
+                            {
+                                "action_id": 1249,
+                                "action_name": "Pushing",
+                                "text": "Push your hands together firmly but gently."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 179,
+                        "activity_name": "Relaxing and Loosening",
+                        "actions": [
+                            {
+                                "action_id": 1250,
+                                "action_name": "Shaking",
+                                "text": "Shake your hands to relax them."
+                            },
+                            {
+                                "action_id": 1251,
+                                "action_name": "Waving",
+                                "text": "Wave your hands back and forth in the air."
+                            },
+                            {
+                                "action_id": 1252,
+                                "action_name": "Flapping",
+                                "text": "Flap your hands up and down to increase blood flow."
+                            },
+                            {
+                                "action_id": 1253,
+                                "action_name": "Flinging",
+                                "text": "Fling your fingers outward to release tension."
+                            },
+                            {
+                                "action_id": 1254,
+                                "action_name": "Wiggling",
+                                "text": "Wiggle your fingers to loosen them up."
+                            },
+                            {
+                                "action_id": 1255,
+                                "action_name": "Waggling",
+                                "text": "Waggle your fingers side to side."
+                            },
+                            {
+                                "action_id": 1256,
+                                "action_name": "Swinging",
+                                "text": "Swing your hands from side to side in a gentle motion."
+                            },
+                            {
+                                "action_id": 1257,
+                                "action_name": "Swaying",
+                                "text": "Sway your hands softly from side to side."
+                            },
+                            {
+                                "action_id": 1258,
+                                "action_name": "Jerking",
+                                "text": "Jerk your hands gently to relax the tendons."
+                            },
+                            {
+                                "action_id": 1259,
+                                "action_name": "Clenching",
+                                "text": "Clench your fists tightly."
+                            },
+                            {
+                                "action_id": 1260,
+                                "action_name": "Unclenching",
+                                "text": "Unclench your fists slowly."
+                            },
+                            {
+                                "action_id": 1261,
+                                "action_name": "Repeating",
+                                "text": "Repeat the clenching and releasing several times."
+                            },
+                            {
+                                "action_id": 1262,
+                                "action_name": "Swiveling",
+                                "text": "Swivel your wrists in circular motions to maintain joint flexibility."
+                            },
+                            {
+                                "action_id": 1263,
+                                "action_name": "Reversing",
+                                "text": "Reverse the rotation direction of your wrists."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 24,
+                "scene_name": "First Aid",
+                "activities": [
+                    {
+                        "activity_id": 180,
+                        "activity_name": "Accessing the First Aid Kit",
+                        "actions": [
+                            {
+                                "action_id": 1264,
+                                "action_name": "Unzipping",
+                                "text": "Unzip the first aid kit to access the necessary supplies."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 181,
+                        "activity_name": "Icing the Wound",
+                        "actions": [
+                            {
+                                "action_id": 1265,
+                                "action_name": "Grabbing",
+                                "text": "Grab an ice pad from the first aid kit."
+                            },
+                            {
+                                "action_id": 1266,
+                                "action_name": "Wrapping",
+                                "text": "Wrap the ice pad in a paper towel."
+                            },
+                            {
+                                "action_id": 1267,
+                                "action_name": "Applying",
+                                "text": "Apply the ice pad gently to the back of the hand to reduce swelling."
+                            },
+                            {
+                                "action_id": 1268,
+                                "action_name": "Holding",
+                                "text": "Hold the ice pad in place for 5 seconds."
+                            },
+                            {
+                                "action_id": 1269,
+                                "action_name": "Removing",
+                                "text": "Remove the ice pad."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 182,
+                        "activity_name": "Cleaning the Wound on the Back of the Hand",
+                        "actions": [
+                            {
+                                "action_id": 1270,
+                                "action_name": "Taking Out",
+                                "text": "Take out an iodophor swab from the kit."
+                            },
+                            {
+                                "action_id": 1271,
+                                "action_name": "Sliding",
+                                "text": "Slide the iodophor swab out of the plastic wrapper."
+                            },
+                            {
+                                "action_id": 1272,
+                                "action_name": "Breaking",
+                                "text": "Break the end of the iodophor swab letting the iodophor flow."
+                            },
+                            {
+                                "action_id": 1273,
+                                "action_name": "Swabbing",
+                                "text": "Use the iodophor swab to clean the wound on the back of the hand with gentle strokes."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 183,
+                        "activity_name": "Bandaging the Wound on the Back of the Hand",
+                        "actions": [
+                            {
+                                "action_id": 1274,
+                                "action_name": "Grabbing",
+                                "text": "Grab an adhesive bandage from the kit."
+                            },
+                            {
+                                "action_id": 1275,
+                                "action_name": "Peeling",
+                                "text": "Peel the wrapper off the adhesive bandage."
+                            },
+                            {
+                                "action_id": 1276,
+                                "action_name": "Placing",
+                                "text": "Place the bandage over the cleaned wound on the back of the hand."
+                            },
+                            {
+                                "action_id": 1277,
+                                "action_name": "Securing",
+                                "text": "Secure the bandage by pressing down the adhesive edges."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 184,
+                        "activity_name": "Cleaning the Wound on the Wrist",
+                        "actions": [
+                            {
+                                "action_id": 1278,
+                                "action_name": "Taking Out",
+                                "text": "Take out a wipe pad and a tweezer from the kit."
+                            },
+                            {
+                                "action_id": 1279,
+                                "action_name": "Opening",
+                                "text": "Open the wipe pad packet."
+                            },
+                            {
+                                "action_id": 1280,
+                                "action_name": "Gripping",
+                                "text": "Grip the wipe pad with the tweezer."
+                            },
+                            {
+                                "action_id": 1281,
+                                "action_name": "Wiping",
+                                "text": "Wipe the wound on the wrist thoroughly to clean it."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 185,
+                        "activity_name": "Further Cleaning with Gauze Swab",
+                        "actions": [
+                            {
+                                "action_id": 1282,
+                                "action_name": "Taking Out",
+                                "text": "Take out a gauze swab from the kit."
+                            },
+                            {
+                                "action_id": 1283,
+                                "action_name": "Gripping",
+                                "text": "Grip the gauze swab with the tweezer."
+                            },
+                            {
+                                "action_id": 1284,
+                                "action_name": "Swabbing",
+                                "text": "Further clean the wound on the wrist with the gauze swab."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 186,
+                        "activity_name": "Binding the Wound with PBT Bandage",
+                        "actions": [
+                            {
+                                "action_id": 1285,
+                                "action_name": "Grabbing",
+                                "text": "Grab a PBT bandage from the kit."
+                            },
+                            {
+                                "action_id": 1286,
+                                "action_name": "Wrapping",
+                                "text": "Wrap the PBT bandage around the wrist for two complete loops."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 187,
+                        "activity_name": "Securing the PBT Bandage",
+                        "actions": [
+                            {
+                                "action_id": 1287,
+                                "action_name": "Grabbing",
+                                "text": "Grab adhesive tape from the kit."
+                            },
+                            {
+                                "action_id": 1288,
+                                "action_name": "Tearing",
+                                "text": "Tear off a suitable length of adhesive tape."
+                            },
+                            {
+                                "action_id": 1289,
+                                "action_name": "Securing",
+                                "text": "Secure the end of the PBT bandage with the adhesive tape."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 188,
+                        "activity_name": "Final Cleaning",
+                        "actions": [
+                            {
+                                "action_id": 1290,
+                                "action_name": "Collecting",
+                                "text": "Collect all used wrappers from the table."
+                            },
+                            {
+                                "action_id": 1291,
+                                "action_name": "Disposing",
+                                "text": "Dispose the wrappers in the trash can."
+                            },
+                            {
+                                "action_id": 1292,
+                                "action_name": "Organizing",
+                                "text": "Put everything back in the first aid kit."
+                            },
+                            {
+                                "action_id": 1293,
+                                "action_name": "Zipping",
+                                "text": "Zip up the first aid kit."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_id": 25,
+                "scene_name": "Cleaning Glass Tabletop",
+                "activities": [
+                    {
+                        "activity_id": 189,
+                        "activity_name": "Preparing the Tools",
+                        "actions": [
+                            {
+                                "action_id": 1294,
+                                "action_name": "Grasping",
+                                "text": "Grasp the portable vacuum cleaner with one hand."
+                            },
+                            {
+                                "action_id": 1295,
+                                "action_name": "Vacuuming",
+                                "text": "Vacuum the tabletop to remove dust and debris."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 190,
+                        "activity_name": "Wiping with a Glass Wiper",
+                        "actions": [
+                            {
+                                "action_id": 1296,
+                                "action_name": "Spraying",
+                                "text": "Spray glass cleaner evenly across the glass surface."
+                            },
+                            {
+                                "action_id": 1297,
+                                "action_name": "Grabbing",
+                                "text": "Grab the glass wiper with your dominant hand."
+                            },
+                            {
+                                "action_id": 1298,
+                                "action_name": "Wiping",
+                                "text": "Wipe the glass surface with the wiper in smooth, even strokes."
+                            },
+                            {
+                                "action_id": 1299,
+                                "action_name": "Applying Pressure",
+                                "text": "Apply pressure with the wiper to remove smudges and streaks."
+                            },
+                            {
+                                "action_id": 1300,
+                                "action_name": "Drying",
+                                "text": "Dry the wiper blade after each stroke with a clean cloth or paper towel."
+                            }
+                        ]
+                    },
+                    {
+                        "activity_id": 191,
+                        "activity_name": "Using a Table Cloth for Final Cleaning",
+                        "actions": [
+                            {
+                                "action_id": 1301,
+                                "action_name": "Grabbing",
+                                "text": "Grab a clean table cloth."
+                            },
+                            {
+                                "action_id": 1302,
+                                "action_name": "Wiping",
+                                "text": "Gently wipe the surface dry with the tablecloth to ensure a streak-free finish."
+                            },
+                            {
+                                "action_id": 1303,
+                                "action_name": "Polishing",
+                                "text": "Polish the glass surface with the table cloth using circular motions for a gleaming finish."
+                            },
+                            {
+                                "action_id": 1304,
+                                "action_name": "Touching Up",
+                                "text": "Touch up any missed spots with the table cloth or glass wiper as needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
