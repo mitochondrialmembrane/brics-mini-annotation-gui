@@ -1,0 +1,59 @@
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0045_Preparing the Flour/0245.mp3	Stack the sieve on top of a bowl.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0045_Preparing the Flour/0246.mp3	Pour the flour into the sieve.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0045_Preparing the Flour/0247.mp3	Gently shake the sieve to sift the remaining flour.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0045_Preparing the Flour/0248.mp3	Tap the edge of the sieve to allow the flour to fall evenly into the bowl.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0045_Preparing the Flour/0249.mp3	Remove the sieve from the bowl.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0250.mp3	Uncap a bottle of water.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0251.mp3	Use a measuring cup to measure a cup of water.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0252.mp3	Cap the water bottle.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0253.mp3	Pour the water into the mixing bowl.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0254.mp3	Scoop a ¼ spoonful of yeast.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0046_Preparing the Ingredients/0255.mp3	Add the yeast to the mixing bowl.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0256.mp3	Stir the ingredients with a spatula.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0257.mp3	Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0258.mp3	Pinch some extra flour from the flour bag.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0259.mp3	Gently scatter the extra flour on the chopping board.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0260.mp3	Move the dough to the floured chopping board.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0261.mp3	Scrape down the sides of the mixing bowl with a dough scraper to gather the dough.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0262.mp3	Knead the dough on the floured surface.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0263.mp3	Push the dough with the heels of your hands into a flat shape.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0264.mp3	Fold the dough over itself.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0265.mp3	Repeat this push and fold motion 5 times.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0266.mp3	Gently pat the dough to even out the surface and remove any air pockets.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0267.mp3	Stretch and fold the dough to help develop structure and trap air bubbles.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0268.mp3	Lift the stretched dough from one side.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0269.mp3	Fold the lifted dough over to the opposite side.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0047_Mixing and Kneading the Dough/0270.mp3	Widen the dough by gently stretching it with both hands.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0271.mp3	Divide the dough into two portions.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0272.mp3	Shape the first portion into a roll.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0273.mp3	Roll the dough into a pancake shape with a rolling pin.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0274.mp3	Mold the pancake into a straw shape by rolling the pancake.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0275.mp3	Crimp the ends of the straw to seal them and add texture.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0276.mp3	Transfer the first portion to the baking tray.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0277.mp3	Tuck the edges of the second portion to form smooth, tight shapes.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0278.mp3	Score the surface of the dough with shallow cuts using a sharp knife.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0048_Shaping the Dough/0279.mp3	Compress the second portion into the empty container.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0280.mp3	Switch on the oven.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0281.mp3	Open the oven door.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0282.mp3	Stick a hand into the oven to check the temperature.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0283.mp3	Transfer the baking tray into the oven.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0284.mp3	Shut the oven door.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0285.mp3	Open the oven door.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0286.mp3	Pull out the baking tray from the oven.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0287.mp3	Shut the oven door.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0288.mp3	Tap the bottom of the loaf to check for doneness.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0049_Baking the Bread/0289.mp3	Wave your hands around the loaves for even cooling.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0290.mp3	Grasp a knife for sawing.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0291.mp3	Saw a small piece off the bread with the sawing knife.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0292.mp3	Place the bread on a rotating cake stand.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0293.mp3	Rotate the cake stand to ensure it moves smoothly.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0294.mp3	Apply a layer of frosting on the top of the bread with the piping bag.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0295.mp3	Hold a spatula for spreading frosting.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0296.mp3	Spread frosting along the sides of the bread.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0297.mp3	Turn the cake stand while spreading as needed for even coverage.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0298.mp3	Smooth the frosting on the bread's surface with the spatula.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0299.mp3	Put down the spatula.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0300.mp3	Grip the piping bag.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0301.mp3	Squeeze the piping bag to add circular decorations.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0302.mp3	Squeeze the piping bag to add wave-like decorations.
+audio/0001_Cooking, Clearing, Eating/0006_Baking and Frosting a Bread./0050_Frosting the Bread/0303.mp3	Put down the piping bag.
