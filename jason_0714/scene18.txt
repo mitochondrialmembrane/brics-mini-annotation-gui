@@ -1,0 +1,34 @@
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1024.mp3	Grasp the pump nozzle with one hand and the boxing bag with the other.
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1025.mp3	Insert the pump nozzle into the air valve of the boxing bag.
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1026.mp3	Pump air into the boxing bag by pressing down on the pump handle repeatedly.
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1027.mp3	Squeeze the bag with your hand to check for firmness.
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1028.mp3	Inflate the boxing bag until it reaches the desired firmness.
+audio/0004_Entertaining/0019_Desktop Boxing/0140_Inflating the Boxing Bag/1029.mp3	Remove the pump nozzle from the air valve once the bag is fully inflated.
+audio/0004_Entertaining/0019_Desktop Boxing/0141_Assembling the Boxing Stand/1030.mp3	Align the stand with the base, ensuring the holes for connectors are properly positioned.
+audio/0004_Entertaining/0019_Desktop Boxing/0141_Assembling the Boxing Stand/1031.mp3	Insert the stand into the aligned holes.
+audio/0004_Entertaining/0019_Desktop Boxing/0141_Assembling the Boxing Stand/1032.mp3	Tighten the stand until it is securely attached to the base.
+delete
+audio/0004_Entertaining/0019_Desktop Boxing/0141_Assembling the Boxing Stand/1033.mp3	Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.
+audio/0004_Entertaining/0019_Desktop Boxing/0142_Preparing for Boxing/1034.mp3	Wrap boxing hand wraps on one hand to protect it.
+audio/0004_Entertaining/0019_Desktop Boxing/0142_Preparing for Boxing/1035.mp3	Unwrap the boxing hand wrap.
+audio/0004_Entertaining/0019_Desktop Boxing/0142_Preparing for Boxing/1036.mp3	Position your hands to get ready for boxing.
+audio/0004_Entertaining/0019_Desktop Boxing/0142_Preparing for Boxing/1037.mp3	Clench your fists, keeping your thumbs outside your fingers.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1038.mp3	Jab the boxing bag with your dominant hand, using a quick, snapping motion.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1039.mp3	Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1040.mp3	Deliver a hook punch by swinging your dominant hand in a horizontal arc.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1041.mp3	Perform an uppercut by driving your fist upward from a low position.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1042.mp3	Combine punches in sequences, such as jab-cross-hook-uppercut.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1043.mp3	Punch the bag with controlled force for one strike.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1044.mp3	Aim your punches at specific targets on the boxing bag to improve accuracy.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1045.mp3	Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.
+audio/0004_Entertaining/0019_Desktop Boxing/0143_Boxing Techniques/1046.mp3	Slap the sides of the bag with an open hand to vary your training technique.
+audio/0004_Entertaining/0019_Desktop Boxing/0144_Defending Techniques/1047.mp3	Block by raising your arms to shield your face and body from imaginary punches.
+audio/0004_Entertaining/0019_Desktop Boxing/0144_Defending Techniques/1048.mp3	Dodge by leaning or stepping to the side to avoid imaginary attacks.
+audio/0004_Entertaining/0019_Desktop Boxing/0145_Advanced Techniques/1049.mp3	Feint by making a quick, deceptive movement to trick an imaginary opponent.
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1050.mp3	Separate the boxing bag from the stand.
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1051.mp3	Press the bag to expel air, starting from the top and working your way down.
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1052.mp3	Continue pressing and rolling the bag until all the air is removed.
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1053.mp3	Roll the bag tightly to remove any remaining air.
+delete
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1054.mp3	Unscrew the stand from the base.
+audio/0004_Entertaining/0019_Desktop Boxing/0146_Disassembling the Boxing Stand/1055.mp3	Separate the stand from the base by pulling them apart.
