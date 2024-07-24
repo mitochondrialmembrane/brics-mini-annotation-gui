@@ -42,6 +42,7 @@ def record_audio(output_file):
         recognizer.adjust_for_ambient_noise(source)
         print('Start recording...')
         audio = recognizer.listen(source)
+
     # print(audio)
     with open(output_file, "wb") as f:
         f.write(audio.get_wav_data())
