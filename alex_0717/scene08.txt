@@ -1,0 +1,41 @@
+audio/0002_Office Working/0009_Testing the laptop/0066_Setting Up the Laptop/0422.mp3	Plug the socket into the power supply.
+audio/0002_Office Working/0009_Testing the laptop/0066_Setting Up the Laptop/0423.mp3	Insert the Type-C power supply into the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0066_Setting Up the Laptop/0424.mp3	Switch on the socket.
+audio/0002_Office Working/0009_Testing the laptop/0066_Setting Up the Laptop/0425.mp3	Insert the USB of the Bluetooth mouse into the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0066_Setting Up the Laptop/0426.mp3	Insert the audio cable of the headphones into the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0067_Starting the Laptop/0427.mp3	Flip open the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0067_Starting the Laptop/0428.mp3	Press and hold the power button to initiate the startup process.
+audio/0002_Office Working/0009_Testing the laptop/0067_Starting the Laptop/0429.mp3	Adjust the angle of the laptop for better viewing.
+audio/0002_Office Working/0009_Testing the laptop/0068_Logging In/0430.mp3	Scan your fingerprint with the fingerprint scanner to unlock the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0068_Logging In/0431.mp3	Type the password "Brown@1764" using the keyboard.
+audio/0002_Office Working/0009_Testing the laptop/0068_Logging In/0432.mp3	Press 'Fn' + 'F9' to darken the screen.
+audio/0002_Office Working/0009_Testing the laptop/0068_Logging In/0433.mp3	Press 'Fn' + 'F10' to brighten the screen.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0434.mp3	Use the mouse to navigate the cursor across the screen and hover over the 'brown.doc' file.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0435.mp3	Click the right mouse button.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0436.mp3	Move the cursor to rename.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0437.mp3	Type on the keyboard to rename the file to 'brown.doc'.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0438.mp3	Double-click the icon to open the file.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0439.mp3	Click the left mouse button to place the cursor at the beginning of the document.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0440.mp3	Use the mouse scroll wheel to scroll to the bottom of the page.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0441.mp3	Use the cursor to select all text in the document.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0442.mp3	Press 'Ctrl + C' to copy the contents.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0443.mp3	Press 'Ctrl + V' to paste the text.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0444.mp3	Press 'Ctrl + S' to save the document.
+audio/0002_Office Working/0009_Testing the laptop/0069_Navigating and Editing a Document/0445.mp3	Click the 'X' to close the document.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0446.mp3	Navigate to the search bar with the touchpad.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0447.mp3	Use the touchpad to move the cursor to the 'Paint' application.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0448.mp3	Double-tap the touchpad to open the application.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0449.mp3	Tap 'Select' on the option bar.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0450.mp3	Use one finger to press the touchpad and the other to drag out a rectangular region.
+audio/0002_Office Working/0009_Testing the laptop/0070_Using the Touchpad and Paint Application/0451.mp3	Tap the 'X' icon to close the application.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0452.mp3	Press the power button to put the laptop to sleep.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0453.mp3	Grasp the headphones to prepare for wearing them.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0454.mp3	Put down the headphones.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0455.mp3	Unplug the audio cable.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0456.mp3	Detach the USB of the mouse from the laptop.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0457.mp3	Disconnect the Type-C side of the power cable.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0458.mp3	Switch off the power bar.
+audio/0002_Office Working/0009_Testing the laptop/0071_Shutting Down and Disconnecting/0459.mp3	Unplug the socket from the power bar.
+audio/0002_Office Working/0009_Testing the laptop/0072_Cleaning and Closing/0460.mp3	Swipe dust or debris off the laptop's keyboard with a brush.
+audio/0002_Office Working/0009_Testing the laptop/0072_Cleaning and Closing/0461.mp3	Dust off the screen to ensure clear visibility with a brush.
+audio/0002_Office Working/0009_Testing the laptop/0072_Cleaning and Closing/0462.mp3	Close the laptop lid.
