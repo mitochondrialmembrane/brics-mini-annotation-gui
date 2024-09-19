@@ -4,7 +4,7 @@ import json
 import pygame
 import speech_recognition as sr
 import keyboard
-
+1
 
 # Initialize Pygame for audio playback
 pygame.init()
@@ -66,9 +66,9 @@ def delete_log(log_file='video_log.txt'):
         file.write('delete' + '\n') 
            
 # Main execution logic
-audio_naming_file = 'audio_txt/0002_Office Working/0007_Drawing Mind Map.txt'
-audio_new = 'scene06'
-log_video_file = 'scene06.txt'
+audio_naming_file = 'audio_txt/0001_Cooking, Clearing, Eating/0002_Making, Eating and Cleaning Instant Noodle.txt'
+audio_new = 'scene01'
+log_video_file = 'scene01.txt'
 os.makedirs(audio_new, exist_ok=True)
 input_json_file = 'script.json'
 names = load_names(audio_naming_file)
