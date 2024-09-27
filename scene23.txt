@@ -1,0 +1,55 @@
+audio/0005_Houseworks/0024_First Aid/0180_Accessing the First Aid Kit/1267.mp3	Unzip the first aid kit to access the necessary supplies.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1268.mp3	Grab an ice pad from the first aid kit.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1269.mp3	Wrap the ice pad in a paper towel.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1270.mp3	Apply the ice pad gently to the back of the hand to reduce swelling.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1271.mp3	Hold the ice pad in place for 5 seconds.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1272.mp3	Remove the ice pad.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1273.mp3	Take out an iodophor swab from the kit.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1274.mp3	Slide the iodophor swab out of the plastic wrapper.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1275.mp3	Break the end of the iodophor swab letting the iodophor flow.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1276.mp3	Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1277.mp3	Grab an adhesive bandage from the kit.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1278.mp3	Peel the wrapper off the adhesive bandage.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1279.mp3	Place the bandage over the cleaned wound on the back of the hand.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1280.mp3	Secure the bandage by pressing down the adhesive edges.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1281.mp3	Take out a wipe pad and a tweezer from the kit.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1282.mp3	Open the wipe pad packet.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1283.mp3	Grip the wipe pad with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1284.mp3	Wipe the wound on the wrist thoroughly to clean it with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0185_Further Cleaning with Gauze Swab/1285.mp3	Take out a gauze swab from the kit.
+delete
+audio/0005_Houseworks/0024_First Aid/0185_Further Cleaning with Gauze Swab/1286.mp3	Grip the gauze swab with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0180_Accessing the First Aid Kit/1267.mp3	Unzip the first aid kit to access the necessary supplies.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1268.mp3	Grab an ice pad from the first aid kit.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1269.mp3	Wrap the ice pad in a paper towel.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1270.mp3	Apply the ice pad gently to the back of the hand to reduce swelling.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1271.mp3	Hold the ice pad in place for 5 seconds.
+audio/0005_Houseworks/0024_First Aid/0181_Icing the Wound/1272.mp3	Remove the ice pad.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1273.mp3	Take out an iodophor swab from the kit.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1274.mp3	Slide the iodophor swab out of the plastic wrapper.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1275.mp3	Break the end of the iodophor swab letting the iodophor flow.
+audio/0005_Houseworks/0024_First Aid/0182_Cleaning the Wound on the Back of the Hand/1276.mp3	Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1277.mp3	Grab an adhesive bandage from the kit.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1278.mp3	Peel the wrapper off the adhesive bandage.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1279.mp3	Place the bandage over the cleaned wound on the back of the hand.
+audio/0005_Houseworks/0024_First Aid/0183_Bandaging the Wound on the Back of the Hand/1280.mp3	Secure the bandage by pressing down the adhesive edges.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1281.mp3	Take out a wipe pad and a tweezer from the kit.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1282.mp3	Open the wipe pad packet.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1283.mp3	Grip the wipe pad with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0184_Cleaning the Wound on the Wrist/1284.mp3	Wipe the wound on the wrist thoroughly to clean it with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0185_Further Cleaning with Gauze Swab/1285.mp3	Take out a gauze swab from the kit.
+audio/0005_Houseworks/0024_First Aid/0185_Further Cleaning with Gauze Swab/1286.mp3	Grip the gauze swab with the tweezer.
+audio/0005_Houseworks/0024_First Aid/0185_Further Cleaning with Gauze Swab/1287.mp3	Further clean the wound on the wrist with the gauze swab.
+audio/0005_Houseworks/0024_First Aid/0186_Binding the Wound with PBT Bandage/1288.mp3	Grab a PBT bandage from the kit.
+delete
+audio/0005_Houseworks/0024_First Aid/0186_Binding the Wound with PBT Bandage/1289.mp3	Wrap the PBT bandage around the wrist for two complete loops.
+delete
+audio/0005_Houseworks/0024_First Aid/0187_Securing the PBT Bandage/1290.mp3	Grab adhesive tape from the kit.
+delete
+audio/0005_Houseworks/0024_First Aid/0187_Securing the PBT Bandage/1291.mp3	Tear off a suitable length of adhesive tape.
+delete
+audio/0005_Houseworks/0024_First Aid/0187_Securing the PBT Bandage/1292.mp3	Secure the end of the PBT bandage with the adhesive tape.
+audio/0005_Houseworks/0024_First Aid/0188_Final Cleaning/1293.mp3	Collect all used wrappers from the table.
+audio/0005_Houseworks/0024_First Aid/0188_Final Cleaning/1294.mp3	Dispose the wrappers in the trash can.
+audio/0005_Houseworks/0024_First Aid/0188_Final Cleaning/1295.mp3	Put everything back in the first aid kit.
+audio/0005_Houseworks/0024_First Aid/0188_Final Cleaning/1296.mp3	Zip up the first aid kit.
