@@ -1,0 +1,97 @@
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0927.mp3	Grasp the flute with both hands, placing your left hand closer to the mouthpiece and your right hand near the end.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0928.mp3	Position your fingers over the holes or keys as a starting pose.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0929.mp3	Press down on the holes or keys with your fingers to change the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0930.mp3	Release the holes or keys to return to the open note.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0931.mp3	Slide your fingers to different positions to play different notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0932.mp3	Trill by rapidly alternating between two adjacent notes by quickly pressing and releasing the holes.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0933.mp3	Gradually speed up the alternation of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0934.mp3	Gradually slow down the alternation of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0935.mp3	Try to play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0132_Playing the Flute/0936.mp3	Put down the flute.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0937.mp3	Grip the drumsticks firmly with both hands.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0938.mp3	Balance the drumsticks in your hands, ensuring they are comfortable to hold.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0939.mp3	Poke the drum with a drumstick to test the elasticity of the drumhead.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0940.mp3	Raise the drumsticks above the drumhead.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0941.mp3	Strike the drumhead with one drumstick, then the other, in a rhythmic pattern.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0942.mp3	Tap the drumhead lightly for softer sounds.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0943.mp3	Pound the drumhead harder for louder sounds.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0944.mp3	Roll the drumsticks across the drumhead for a continuous sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0945.mp3	Rapidly alternate strikes between the two drumsticks to create a trill effect.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0946.mp3	Gradually speed up the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0947.mp3	Gradually slow down the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0948.mp3	Crescendo by gradually increasing the volume of the strikes.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0949.mp3	Decrescendo by gradually decreasing the volume of the strikes.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0950.mp3	Play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0951.mp3	Put down the drumsticks.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0952.mp3	Tap the drumhead lightly with your fingertips for softer sounds.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0953.mp3	Pound the drumhead with the palms of your hands for louder sounds.
+audio/0004_Entertaining/0018_Playing mini instruments/0133_Playing the Drum/0954.mp3	Alternate between tapping and pounding to create different rhythms.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0955.mp3	Grasp the body of the ukulele.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0956.mp3	Support the neck of the ukulele with your left hand.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0957.mp3	Place your left-hand fingers on the fretboard to form chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0958.mp3	Press down on the strings with your fingertips to produce clear notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0959.mp3	Strum the strings with your right hand, using your thumb or a pick.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0960.mp3	Brush your fingers lightly across the strings for a softer sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0961.mp3	Pluck individual strings with your thumb and fingers.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0962.mp3	Rapidly alternate between two adjacent notes to create a trill effect.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0963.mp3	Gradually speed up the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0964.mp3	Gradually slow down the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0965.mp3	Crescendo by gradually increasing the volume of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0966.mp3	Decrescendo by gradually decreasing the volume of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0967.mp3	Change chords by lifting your fingers off the fretboard and sliding your fingers to new positions to form different chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0968.mp3	Press down on the strings again to play the new chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0969.mp3	Play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0134_Playing the Ukulele/0970.mp3	Put down the ukulele.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0971.mp3	Grasp the Otamatone's stem firmly with your non-dominant hand.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0972.mp3	Support the base of the Otamatone with your dominant hand, keeping it steady.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0973.mp3	Slide your finger along the stem while squeezing the face of the otamatone.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0974.mp3	Press down on the stem to ensure the note is clear and precise.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0975.mp3	Squeeze the cheeks of the Otamatone's face to control the volume.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0976.mp3	Wobble your finger back and forth on the stem while holding a note.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0977.mp3	Gradually speed up the wobbling.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0978.mp3	Gradually slow down the wobbling.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0979.mp3	Play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0135_Playing the Otamatone/0980.mp3	Put down the Otamatone.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0981.mp3	Place your hands on the keyboard, with your fingers resting lightly on the keys.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0982.mp3	Space your fingers by spreading them comfortably across the keys.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0983.mp3	Press down on and hold the keys with your fingertips to play notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0984.mp3	Release the keys to stop the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0985.mp3	Slide your fingers to adjacent keys to play different notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0986.mp3	Position your fingers over multiple keys to form chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0987.mp3	Press down on the keys simultaneously to play the chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0988.mp3	Coordinate your left and right hands to play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0989.mp3	Alternate between your left and right hands to create a dynamic sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0990.mp3	Turn the volume knob to adjust the overall volume.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0991.mp3	Play a piece of music.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0992.mp3	Rapidly alternate between two adjacent keys to create a trill effect.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0993.mp3	Gradually speed up the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0994.mp3	Gradually slow down the alternation.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0995.mp3	Crescendo by gradually increasing the volume of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0136_Playing the Keyboard/0996.mp3	Decrescendo by gradually decreasing the volume of the notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0137_Playing the Triangle/0997.mp3	Grasp the triangle with one hand by holding the holder at the top.
+audio/0004_Entertaining/0018_Playing mini instruments/0137_Playing the Triangle/0998.mp3	Suspend the triangle in the air to allow it to resonate freely.
+audio/0004_Entertaining/0018_Playing mini instruments/0137_Playing the Triangle/0999.mp3	Tap the triangle with the striker, hitting the inside of the triangle to produce a clear tone.
+audio/0004_Entertaining/0018_Playing mini instruments/0137_Playing the Triangle/1000.mp3	Roll the striker around the edges of the triangle to create a continuous ringing sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0137_Playing the Triangle/1001.mp3	Put down the triangle.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1002.mp3	Position the harp on the surface, ensuring it is stable.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1003.mp3	Grasp the harp with both hands, placing your fingers on the strings.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1004.mp3	Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1005.mp3	Slide your fingers to different strings to change notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1006.mp3	Pluck the strings simultaneously to play the chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1007.mp3	Pluck the strings with varying pressure to control the volume. Pluck harder for louder notes and softer for quieter notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1008.mp3	Gradually speed up your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1009.mp3	Gradually slow down your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1010.mp3	Crescendo by gradually increasing the volume of your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0138_Playing the Mini Harp/1011.mp3	Decrescendo by gradually decreasing the volume of your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1012.mp3	Lay the harp on the flat surface, now using it as a zither.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1013.mp3	Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1014.mp3	Slide your fingers to different strings to change notes.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1015.mp3	Pluck the strings simultaneously to play the chords.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1016.mp3	Strum the strings with your fingers or a pick to produce a continuous sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1017.mp3	Brush your fingers lightly across the strings for a softer sound.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1018.mp3	Touch the strings lightly.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1019.mp3	Pluck the strings while maintaining the light touch with the left hand to produce harmonic sounds.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1020.mp3	Gradually speed up your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1021.mp3	Gradually slow down your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1022.mp3	Crescendo by gradually increasing the volume of your plucking.
+audio/0004_Entertaining/0018_Playing mini instruments/0139_Playing the Zither/1023.mp3	Decrescendo by gradually decreasing the volume of your plucking.

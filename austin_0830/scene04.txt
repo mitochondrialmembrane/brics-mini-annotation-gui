@@ -1,0 +1,46 @@
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0200.mp3	Turn the faucet on.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0201.mp3	Thoroughly wash the lettuce leaves under the faucet.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0202.mp3	Rinse the apple under running water.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0203.mp3	Turn the faucet off.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0204.mp3	Peel the lettuce leaves one by one, placing them into a bowl.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0205.mp3	Soak the lettuce in a bowl of cold water.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0206.mp3	Drain the lettuce leaves in a colander.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0207.mp3	Gently shrink the lettuce leaves with your hands to wring out the water.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0040_Washing and Preparing Ingredients/0208.mp3	Tear the lettuce leaves into square pieces .
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0209.mp3	Unsheathe a fruit knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0210.mp3	Shred the lettuce leaves into smaller pieces with the knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0211.mp3	Tilt the chopping board to transfer the shredded lettuce to the salad bowl.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0212.mp3	Strip a banana of its peel.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0213.mp3	Lay the banana on the chopping board.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0214.mp3	Slice the banana into three pieces.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0215.mp3	Transfer the sliced banana into the salad bowl.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0216.mp3	Peel the apple with a peeler.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0217.mp3	Place the apple on the chopping board.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0218.mp3	Pick up the knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0219.mp3	Chop the apple into halves.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0220.mp3	Cut the apple into smaller segments.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0221.mp3	Dice the apple into smaller pieces.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0222.mp3	Mince the apple pieces into small dice sizes.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0223.mp3	Squash the apple dice with the flat side of the knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0224.mp3	Scrape the squashed apple from the chopping board into the salad bowl.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0041_Preparing Fruits/0225.mp3	Put down the knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0226.mp3	Unzip the zipped bag with nuts
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0227.mp3	Take out nuts from the bag and place them on the chopping board.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0228.mp3	Zip the bag closed.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0229.mp3	Crush the nuts with the flat side of the knife.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0230.mp3	Sweep the crushed nuts from the chopping board into the mortar.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0231.mp3	Pick up the pestle.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0232.mp3	Mash the nuts with a pestle.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0233.mp3	Grind the mashed nuts into smaller chunks.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0234.mp3	Pound the ground nuts into a fine consistency with the mortar pounder.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0235.mp3	Put down the pestle.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0236.mp3	Grate cheese with a cheese grater.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0042_Preparing Nuts and Cheese/0237.mp3	Pick two grapes from the bunk and drop them into the salad bowl.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0043_Mixing and Dressing the Salad/0238.mp3	In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0043_Mixing and Dressing the Salad/0239.mp3	Drizzle the dressing over the salad.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0043_Mixing and Dressing the Salad/0240.mp3	Toss the salad in the bowl to coat all the ingredients thoroughly with the dressing.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0043_Mixing and Dressing the Salad/0241.mp3	Spear a variety of ingredients with a fork and bring them to your mouth to eat.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0044_Cleaning the Table/0242.mp3	Clear the table by disposing of any remaining food.
+delete
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0044_Cleaning the Table/0243.mp3	Mop the table surface with a damp cloth or mop.
+audio/0001_Cooking, Clearing, Eating/0005_Making a Bowl of Salad./0044_Cleaning the Table/0244.mp3	Dry your hands with a hand towel.

@@ -1,0 +1,71 @@
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1097.mp3	Pour a small amount of toner onto a cotton pad.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1098.mp3	Sweep the cotton pad across your face.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1099.mp3	Dab the toner gently around your eyes and nose.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1100.mp3	Dispense a few drops of serum onto your fingertips.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1101.mp3	Tap the serum onto your face, focusing on areas that need extra care.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1102.mp3	Spread the serum evenly over your face using gentle upward strokes.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1103.mp3	Scoop a small amount of moisturizer from the container.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1104.mp3	Dot the moisturizer onto your forehead, cheeks, nose, and chin.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1105.mp3	Rub the moisturizer into your skin using upward and outward motions.
+audio/0005_Houseworks/0021_Applying Makeups/0153_Facial Care/1106.mp3	Smooth your skin with the moisturizer.
+audio/0005_Houseworks/0021_Applying Makeups/0154_Applying Foundation/1107.mp3	Pump a small amount of foundation onto the back of your hand.
+audio/0005_Houseworks/0021_Applying Makeups/0154_Applying Foundation/1108.mp3	Dab the foundation onto your face using a makeup sponge or brush.
+audio/0005_Houseworks/0021_Applying Makeups/0154_Applying Foundation/1109.mp3	Blend the foundation evenly over your face, paying attention to the hairline and jawline.
+audio/0005_Houseworks/0021_Applying Makeups/0155_Setting the Makeup/1110.mp3	Scoop a small amount of loose powder onto a powder pad.
+audio/0005_Houseworks/0021_Applying Makeups/0155_Setting the Makeup/1111.mp3	Pat the powder pad onto your face, focusing on areas that tend to get oily.
+audio/0005_Houseworks/0021_Applying Makeups/0155_Setting the Makeup/1112.mp3	Press the powder into your skin gently to set the foundation and concealer.
+audio/0005_Houseworks/0021_Applying Makeups/0155_Setting the Makeup/1113.mp3	Dust off any excess powder with a powder brush.
+audio/0005_Houseworks/0021_Applying Makeups/0156_Applying Blush/1114.mp3	Swirl a blush brush in the blush.
+audio/0005_Houseworks/0021_Applying Makeups/0156_Applying Blush/1115.mp3	Tap off any excess blush.
+audio/0005_Houseworks/0021_Applying Makeups/0156_Applying Blush/1116.mp3	Sweep the blush onto the apples of your cheeks in an upward motion.
+audio/0005_Houseworks/0021_Applying Makeups/0157_Applying Fake Eyelashes/1117.mp3	Remove a pair of fake eyelashes from the tray using tweezers.
+audio/0005_Houseworks/0021_Applying Makeups/0157_Applying Fake Eyelashes/1118.mp3	Apply a layer of eyelash glue to the base of the fake eyelashes.
+audio/0005_Houseworks/0021_Applying Makeups/0157_Applying Fake Eyelashes/1119.mp3	Position the fake eyelashes as close to your natural lash line as possible using tweezers.
+audio/0005_Houseworks/0021_Applying Makeups/0157_Applying Fake Eyelashes/1120.mp3	Press the fake eyelashes gently onto your eyelid to secure them.
+audio/0005_Houseworks/0021_Applying Makeups/0158_Applying Eyeshadow/1121.mp3	Dip an eyeshadow brush into the eyeshadow.
+audio/0005_Houseworks/0021_Applying Makeups/0158_Applying Eyeshadow/1122.mp3	Tap off any excess eyeshadow.
+audio/0005_Houseworks/0021_Applying Makeups/0158_Applying Eyeshadow/1123.mp3	Sweep the eyeshadow across your eyelids.
+audio/0005_Houseworks/0021_Applying Makeups/0158_Applying Eyeshadow/1124.mp3	Blend the eyeshadow into the crease for a seamless look.
+audio/0005_Houseworks/0021_Applying Makeups/0159_Applying Eyeliner and Mascara/1125.mp3	Draw a line along your upper lash line with the eyeliner.
+audio/0005_Houseworks/0021_Applying Makeups/0159_Applying Eyeliner and Mascara/1126.mp3	Extend the line slightly past the outer corner of your eye for a winged effect.
+audio/0005_Houseworks/0021_Applying Makeups/0159_Applying Eyeliner and Mascara/1127.mp3	Twist the mascara wand out of the tube.
+audio/0005_Houseworks/0021_Applying Makeups/0159_Applying Eyeliner and Mascara/1128.mp3	Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.
+audio/0005_Houseworks/0021_Applying Makeups/0160_Shaping Eyebrows/1129.mp3	Brush your eyebrows with a spoolie brush.
+audio/0005_Houseworks/0021_Applying Makeups/0160_Shaping Eyebrows/1130.mp3	Fill in any sparse areas with an eyebrow pencil or powder.
+audio/0005_Houseworks/0021_Applying Makeups/0161_Applying Lipstick/1131.mp3	Pick up the lipstick tube.
+audio/0005_Houseworks/0021_Applying Makeups/0161_Applying Lipstick/1132.mp3	Twist the lipstick tube to reveal the product.
+audio/0005_Houseworks/0021_Applying Makeups/0161_Applying Lipstick/1133.mp3	Apply the lipstick to your lips, starting from the center and moving outwards.
+audio/0005_Houseworks/0021_Applying Makeups/0161_Applying Lipstick/1134.mp3	Put down the lipstick tube.
+audio/0005_Houseworks/0021_Applying Makeups/0161_Applying Lipstick/1135.mp3	Blot your lips with a tissue to remove any excess product.
+audio/0005_Houseworks/0021_Applying Makeups/0162_Polishing Nails/1136.mp3	Buff the surface of your nails to smooth out any ridges with the nail buffer.
+audio/0005_Houseworks/0021_Applying Makeups/0162_Polishing Nails/1137.mp3	Shake the nail polish bottle to mix the contents.
+audio/0005_Houseworks/0021_Applying Makeups/0162_Polishing Nails/1138.mp3	Unscrew the nail polish cap and remove the brush.
+audio/0005_Houseworks/0021_Applying Makeups/0162_Polishing Nails/1139.mp3	Paint each nail with the brush, starting from the base and moving towards the tip.
+audio/0005_Houseworks/0021_Applying Makeups/0162_Polishing Nails/1140.mp3	Display the polished nails.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1141.mp3	Pick up one earring with your fingers.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1142.mp3	Insert the earring post through your right earlobe.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1143.mp3	Pick up the other earring with your fingers.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1144.mp3	Insert the earring post through your left earlobe.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1145.mp3	Hold the necklace with both hands.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1146.mp3	Clasp the necklace around your neck.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1147.mp3	Pick up the bracelet.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1148.mp3	Wrap the bracelet around your wrist.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1149.mp3	Clasp the bracelet securely.
+audio/0005_Houseworks/0021_Applying Makeups/0163_Wearing Jewelry/1150.mp3	Slide the ring onto your finger.
+audio/0005_Houseworks/0021_Applying Makeups/0164_Removing Makeup/1151.mp3	Pluck off the fake eyelashes.
+audio/0005_Houseworks/0021_Applying Makeups/0164_Removing Makeup/1152.mp3	Dispense makeup remover onto a cotton pad.
+audio/0005_Houseworks/0021_Applying Makeups/0164_Removing Makeup/1153.mp3	Wipe the cotton pad over your face to remove makeup.
+audio/0005_Houseworks/0021_Applying Makeups/0164_Removing Makeup/1154.mp3	Dip the cotton swab into the makeup remover.
+audio/0005_Houseworks/0021_Applying Makeups/0164_Removing Makeup/1155.mp3	Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout.
+audio/0005_Houseworks/0021_Applying Makeups/0165_Cleansing the Face/1156.mp3	Pretend wetting your hands with lukewarm water.
+audio/0005_Houseworks/0021_Applying Makeups/0165_Cleansing the Face/1157.mp3	Apply a small amount of facial cleanser to your fingertips.
+audio/0005_Houseworks/0021_Applying Makeups/0165_Cleansing the Face/1158.mp3	Lather the cleanser in your hands.
+audio/0005_Houseworks/0021_Applying Makeups/0165_Cleansing the Face/1159.mp3	Massage the cleanser onto your face in circular motions.
+audio/0005_Houseworks/0021_Applying Makeups/0165_Cleansing the Face/1160.mp3	Pretend rinse your face with water to remove the cleanser.
+audio/0005_Houseworks/0021_Applying Makeups/0166_Applying Night Cream/1161.mp3	Pour a small amount of toner onto a cotton pad.
+audio/0005_Houseworks/0021_Applying Makeups/0166_Applying Night Cream/1162.mp3	Sweep the cotton pad across your face.
+audio/0005_Houseworks/0021_Applying Makeups/0166_Applying Night Cream/1163.mp3	Scoop a small amount of night cream from the container.
+delete
+audio/0005_Houseworks/0021_Applying Makeups/0166_Applying Night Cream/1164.mp3	Dot the cream onto your forehead, cheeks, nose, and chin.
+delete
+audio/0005_Houseworks/0021_Applying Makeups/0166_Applying Night Cream/1165.mp3	Moisturize your skin with the night cream, spreading it evenly using gentle strokes.

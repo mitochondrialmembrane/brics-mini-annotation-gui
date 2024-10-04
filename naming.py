@@ -65,9 +65,9 @@ def delete_log(log_file='video_log.txt'):
         file.write('delete' + '\n') 
            
 # Main execution logic
-audio_naming_file = 'audio_txt/0003_Crafting/0014_Assemble and Disassemble Kids Tool Bench.txt'
-audio_new = 'scene13'
-log_video_file = 'scene13.txt'
+audio_naming_file = r'D:\code\2024Text2Action\brics-mini-annotation-gui\audio_txt\0001_Cooking, Clearing, Eating\0004_Making an open egg and spam sandwich.txt'
+audio_new = 'scene03'
+log_video_file = 'scene03.txt'
 os.makedirs(audio_new, exist_ok=True)
 input_json_file = 'script.json'
 names = load_names(audio_naming_file)

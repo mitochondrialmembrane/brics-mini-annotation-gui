@@ -1,0 +1,1802 @@
+%Cooking, Clearing, Eating
+#Making and Drinking Tea.
+(Preparing the Teapot)
+[Lifting]: Lift the lid off the teapot.
+
+
+(Adding Hot Water)
+
+[Pouring]: Pour hot water from the kettle into the teapot.
+
+[Retrieving]: Retrieve the teapot lid from where it was set aside.
+
+(Steeping Tea Bag)
+[Opening]: Open the tea bag box.
+[Selecting]: Select and remove a tea bag from the box.
+[Tearing]: Tear the tea bag wrapper.
+[Holding]: Hold the tea bag by the string.
+[Steeping]: Steep the tea bag in the hot water.
+[Releasing]: Release the tea bag.
+[Placing]: Place the lid back onto the teapot.
+
+(Pouring Tea)
+
+[Pouring]: Pour the tea into the teacup from the kettle.
+
+(Adding Cream and Sugar)
+[Holding]: Hold the box or bottle of cream securely.
+[Unscrewing]: Unscrew the cap of the cream container.
+[Pouring]: Pour the cream into the teacup containing the steeped tea.
+[Resealing]: Reseal the cream container by screwing the cap back on.
+[Unfastening]: Unfasten the lid of the sugar canister.
+[Grasping]: Grasp the spoon securely.
+[Scooping]: Scoop a spoonful of sugar with a teaspoon from the sugar canister.
+[Adding]: Add the sugar into the teacup.
+[Stirring]: Stir the tea, cream, and sugar together with the teaspoon until well mixed.
+[Setting]: Set the teaspoon down on the clean surface.
+[Fastening]: Fasten the lid of the sugar canister back on.
+(Adding Lemon Juice)
+[Picking Up]: Pick up a pre-cut lemon half and a citrus reamer.
+[Extracting]: Extract the juice by pressing and twisting the reamer into the lemon over the teacup.
+[Putting Down]: Put down the lemon and citrus reamer once sufficient juice is extracted.
+
+(Drinking the Tea)
+[Lifting]: Lift the teacup carefully by its handle.
+[Sipping]: Take a small, careful sip of the tea.
+[Repeating]: Repeat sipping the tea twice.
+[Lowering]: Lower the teacup back onto the saucer or table gently.
+
+(Cleaning Up)
+[Picking Up]: Pick up a piece of kitchen towel.
+[Wiping]: Wipe the teaspoon, teacup, and other used utensils with the kitchen towel.
+[Discarding]: Discard the used kitchen towel into the trash can.
+
+
+
+
+#Making, Eating and Cleaning Instant Noodle
+(Unsealing the Noodles)
+[Unsealing]: Unseal the instant noodle container by tearing the lid halfway off.
+[Removing]: Remove the veggie bag and oil packet from the container and put them on the table.
+
+(Preparing the Ingredients)
+[Picking Up]: Pick up the veggie bag.
+[Tearing]: Tear open the veggie bag by pulling apart the wrapper.
+[Emptying]: Empty the veggie contents into the noodle container by shaking the bag.
+[Trashing]: Trash the empty veggie bag into the trash can.
+[Pinching]: Pinch the oil packet.
+[Tearing]: Tear open the oil packet by pulling apart the wrapper.
+[Squeezing]: Squeeze the oil into the noodle container.
+[Disposing]: Dispose the empty oil packet into the trash can.
+[Pulling]: Pull the tissue upwards out of the tissue box.
+[Wiping]: Wipe the oil off your fingers with the tissue.
+[Throwing away]: Throw away the used tissue into the trash can.
+
+(Adding Hot Water)
+[Pouring]: Pour hot water into the noodle container up to the fill line.
+[Resealing]: Reseal the container lid to trap the heat.
+[Hovering]: Hover your hand over the container to feel the temperature.
+
+(Cooking the Noodles)
+[Waiting]: Wait for the noodles to cook for the recommended time.
+
+(Opening the Container)
+[Tearing]: Tear the lid off the noodle container.
+[Disposing]: Dispose the noodle container lid to the trash can.
+[Grabbing]: Grab the fork
+[Submerging]: Submerge any floating noodles into the soup with the fork.
+[Untangling]: Untangle the noodles with the fork.
+[Stirring]: Stir the fork to further untangle the noodles.
+
+(Eating with a Fork)
+[Twirling]: Twirl the noodles on the fork.
+[Delivering]: Deliver the noodles to your mouth with the fork and eat.
+[Shaking]: Shake off any remaining noodles back into the bowl
+[Putting Down]: Put the fork down on the table.
+
+(Preparing Disposable Chopsticks)
+[Grasping]: Grasp the disposable chopstick wrapper with one hand.
+[Tearing]: Tear open the wrapper by pulling apart the sealed edges.
+[Sliding]: Slide the chopsticks from the wrapper.
+[Holding]: Hold the chopsticks together in one hand.
+[Splitting]: Split the chopsticks apart by gently pulling them in opposite directions.
+
+(Eating with Chopsticks)
+[Holding]: Hold the chopsticks in one hand to prepare for eating noodles.
+[Lifting]: Lift the noodles with the chopsticks.
+[Splitting]: Split any entangled noodles with the chopsticks.
+[Dipping]: Dip the noodles back into the soup to absorb more flavor.
+[Delivering]: Deliver the noodles to your mouth with the chopsticks and eat.
+[Dropping]: Drop any remaining noodles on the chopsticks back into the container.
+[Putting Down]: Put the chopsticks back on the table.
+
+(Drinking the Soup)
+[Holding]: Hold the spoon.
+[Swirling]: Swirl the spoon in the noodle soup to cool it slightly.
+[Skimming]: Skim off excess oil from the soup with the spoon.
+[Disposing]: Dispose the skimmed oil to the trash can.
+[Spooning]: Spoon some noodle soup into the spoon.
+[Carrying]: Carry the soup to your mouth with the spoon and drink.
+[Putting Down]: Put the spoon down on the table.
+
+(Finishing the Soup)
+[Holding]: Hold the ramen container securely with two hands.
+[Tilting]: Tilt the container to sip the remaining soup directly.
+[Putting Down]: Put the container back on the table.
+
+(Cleaning Utensils)
+[Tearing Off]: Tear off a piece of kitchen towel.
+[Wiping]: Wipe the chopsticks with the kitchen towel.
+[Cleaning]: Clean the spoon with the kitchen towel.
+[Drying]: Dry the fork with the kitchen towel.
+[Discarding]: Discard the used kitchen towels into the trash can.
+
+(Emptying the Container)
+[Emptying]: Empty the remaining contents of the container into the trash can.
+[Tying]: Tie the trash bag closed.
+
+
+#Eating and Packing Delivered Food.
+(Unpacking the Meal)
+[Opening]: Open the paper bag by separating the top flaps.
+[Taking Out]: Take out all the food items and utensils from the bag.
+[Repositioning]: Reposition the utensils in front of you.
+[Setting Up]: Set up the food items in a reachable area.
+
+(Sanitizing Hands)
+[Uncapping]: Uncap the hand sanitizer bottle.
+[Applying]: Apply a generous amount of sanitizer to your dominant hand.
+[Capping]: Cap the hand sanitizer bottle.
+[Putting Down]: Put the sanitizer bottle down on the table.
+[Sanitizing]: Rub your hands together to sanitize them thoroughly.
+
+(Drinking Soda)
+[Holding]: Hold the can of soda.
+[Pulling]: Pull the ring tab to open the soda can.
+[Inserting]: Insert a straw into the soda can.
+[Drinking]: Drink from the soda with the straw. 
+[Putting Down]: Put the soda can down. 
+
+(Eating the Burger)
+
+[Unwrapping]: Unwrap the burger and set the paper wrapper aside.
+[Delivering]: Deliver the burger to your mouth and take one or several bites.
+[Putting Down]: Put the burger back on the plate.
+
+(Eating Fries and Ketchup)
+
+[Squeezing]: Squeeze some ketchup out from the ketchup bottle onto the plate.
+[Gripping]: Grip a fry with your fingers.
+[Dipping]: Dip the fry into the ketchup.
+[Delivering]: Deliver the fry to your mouth and eat it.
+[Sprinkling]: Sprinkle any remaining salt on your fingers over the plate.
+
+(Eating Fried Chicken)
+[Peeling Off]: Peel off the lid of the dipping sauce container.
+[Grasping]: Grasp a piece of fried chicken thigh.
+[Dipping]: Dip the fried chicken thigh into the dipping sauce.
+[Rotating]: Rotate the chicken thigh as you eat it to get all sides.
+
+(Cleaning Up)
+[Picking]: Pick up one piece of napkin.
+[Unfolding]: Unfold the napkin. 
+[Wiping]: Wipe any crumbs or spills off the table with a napkin.
+[Scrunching]: Scrunch the napkin into a ball.
+[Dropping]: Drop the napkin ball into the trash can.
+
+(Eating the Pudding)
+[Grasping]: Grasp the jar containing the pudding.
+[Pinching]: Pinch the rubber band around the pudding jar.
+[Stretching]: Stretch the rubber band and slide it off the jar.
+[Removing]: Remove the cloth covering the jar to reveal the pudding.
+[Holding]: Hold the pudding jar over a plate.
+[Inverting]: Invert the pudding jar to dump the pudding onto the plate.
+[Shaking]: Shake the jar to ensure all the pudding is transferred to the plate.
+[Scooping]: Scoop with a spoon to ensure all the puddings are transferred.
+[Putting Down]: Put down the pudding jar.
+
+(Consuming the Pudding)
+[Gripping]: Grip the pudding spoon.
+[Scooping]: Scoop a piece of pudding.
+[Delivering]: Deliver the pudding to your mouth and eat it.
+[Putting Down]: Put down the pudding spoon.
+
+(Storing Remaining Pudding)
+[Covering]: Cover the remaining pudding with the pudding jar.
+[Flipping]: Flip the pudding jar and plate to transfer the remaining pudding back into the jar.
+[Lifting]: Lift the piece of cloth off the table.
+[Covering]: Cover the pudding jar with the cloth.
+[Gripping]: Grip the rubber band.
+[Binding]: Bind the pudding jar with the rubber band.
+[Putting Down]: Put the pudding jar back on the table.
+
+(Storing Remaining Food)
+[Gathering]: Gather the remaining chicken thigh and fries back into the food box.
+[Wrapping]: Wrap the remaining burger with the paper wrapper.
+[Closing]: Close the burger box.
+
+(Cleaning Up Drink and Food Items)
+[Pulling Out]: Pull out the straw from the soda can.
+[Wedging]: Wedge the used straw into the soda can opening.
+[Gathering]: Gather the remaining food items and place them back into the paper bag.
+[Folding]: Fold the top of the paper bag to close it.
+
+(Cleaning Hands)
+[Cleaning]: Clean your hands with hand sanitizer.
+
+
+#Making an open egg and spam sandwich.
+(Preparing the Bread)
+[Untwisting]: Untwist the metal twist tie to unseal the bread bag.
+[Taking Out]: Take out a slice of bread.
+[Twisting]: Twist the metal twist tie to reseal the bread bag.
+[Inserting]: Insert the bread slice into the toaster.
+[Tuning]: Tune the temperature of the toaster by rotating the knob to the highest degree.
+[Pressing]: Press the toaster lever to start toasting the bread.
+[Placing]: Place the toasted bread on a plate.
+
+(Preparing the Peanut Butter)
+[Unscrewing]: Unscrew the lid of the peanut butter jar.
+[Taking Out]: Take out a butter knife from the knife holder.
+[Inserting]: Insert the butter knife into the peanut butter jar.
+[Spreading]: Try to spread the peanut butter evenly on the toasted bread.
+[Wiping]: Wipe the jam spatula clean with a kitchen towel.
+[Inserting]: Insert the butter knife back into the knife holder.
+
+(Preparing the Spam)
+[Grasping]: Grasp the can of spam on the table.
+[Tearing Off]: Tear off the lid of the spam can to reveal the contents.
+[Lifting]: Lift the spam can above the cutting board.
+[Upturning]: Upturn the spam can to release the spam onto the cutting board.
+[Knocking]: Knock the bottom of the can to ensure the spam is fully released.
+[Gripping]: Grip a knife and fork.
+[Thrusting]: Thrust the fork into the spam to stabilize it.
+[Slicing]: Slice the spam into even pieces.
+[Detaching]: Detach the fork from the last slice of spam.
+
+(Preparing the Butter)
+[Unwrapping]: Unwrap a piece of butter.
+[Grasping]: Grasp the butter knife.
+[Slicing]: Slice a piece of butter with the knife.
+[Placing]: Place a pan on the stove.
+[Switching On]: Pretend to switch on the stove.
+[Adding]: Adding the butter to the pan.
+[Spreading]: Spread the butter on the pan to melt it.
+[Putting Down]: Put down the butter knife.
+
+(Frying the Spam)
+[Taking Out]: Take out a pair of tongs from the utensil holder.
+[Picking Up]: Pick up a piece of spam using the tongs.
+[Transferring]: Transfer the spam to the pan with the tongs to fry.
+[Flipping]: Flip the spam with the tongs to ensure both sides are cooked.
+[Stacking]: Stack the fried spam on top of the bread.
+
+(Preparing the Egg)
+[Opening]: Open the egg carton.
+[Taking Out]: Take out an egg from the carton.
+[Moving]: Move a bowl to be in front of you.
+[Cracking]: Crack the egg by tapping it against the edge of the bowl and split the shell.
+[Discarding]: Discard the eggshells into the trash can.
+[Closing]: Close the egg carton.
+[Rotating]: Rotate the pepper grinder to add black pepper to the egg.
+[Shaking]: Shake the salt container to add salt to the egg.
+
+[Beating]: Beat the egg in the bowl with a fork, blending the yolk and white thoroughly.
+[Pouring]: Pour the beaten egg into the heated pan.
+[Grasping]: Grasp a spatula.
+[Scrambling]: Scramble the egg by moving the spatula around the pan.
+[Poking]: Poke the egg with the spatula to test if it's cooked.
+[Stir-Frying]: Stir-fry the egg.
+[Sliding]: Slide the cooked egg on top of the stacked bread and spam.
+[Putting Down]: Put down the spatula.
+[Switching Off]: Switch off the stove.
+
+
+
+
+#Making a Bowl of Salad.
+(Washing and Preparing Ingredients)
+[Turning]: Turn the faucet on.
+[Washing]: Thoroughly wash the lettuce leaves under the faucet.
+[Rinsing]: Rinse the apple under running water.
+[Turning]: Turn the faucet off.
+[Peeling]: Peel the lettuce leaves one by one, placing them into a bowl.
+[Soaking]: Soak the lettuce in a bowl of cold water.
+[Draining]: Drain the lettuce leaves in a colander.
+[Shrinking]: Gently shrink the lettuce leaves with your hands to wring out the water.
+[Tearing]: Tear the lettuce leaves into square pieces .
+
+(Preparing Fruits)
+[Unsheathing]: Unsheathe a fruit knife.
+[Shredding]: Shred the lettuce leaves into smaller pieces with the knife.
+[Tilting]: Tilt the chopping board to transfer the shredded lettuce to the salad bowl.
+[Stripping]: Strip a banana of its peel.
+[Laying]: Lay the banana on the chopping board.
+[Slicing]: Slice the banana into three pieces.
+[Transferring]: Transfer the sliced banana into the salad bowl.
+[Peeling]: Peel the apple with a peeler.
+[Placing]: Place the apple on the chopping board.
+[Picking Up]: Pick up the knife.
+[Chopping]: Chop the apple into halves.
+[Cutting]: Cut the apple into smaller segments.
+[Dicing]: Dice the apple into smaller pieces.
+[Mincing]: Mince the apple pieces into small dice sizes.
+[Squashing]: Squash the apple dice with the flat side of the knife.
+[Scraping]: Scrape the squashed apple from the chopping board into the salad bowl.
+[Putting Down]: Put down the knife.
+
+(Preparing Nuts and Cheese)
+[Unzipping]: Unzip the zipped bag with nuts
+[Taking Out]: Take out nuts from the bag and place them on the chopping board.
+[Zipping]: Zip the bag closed.
+[Crushing]: Crush the nuts with the flat side of the knife.
+[Sweeping]: Sweep the crushed nuts from the chopping board into the mortar.
+[Picking Up]: Pick up the pestle.
+[Mashing]: Mash the nuts with a pestle.
+[Grinding]: Grind the mashed nuts into smaller chunks.
+[Pounding]: Pound the ground nuts into a fine consistency with the mortar pounder.
+[Putting Down]: Put down the pestle.
+[Grating]: Grate cheese with a cheese grater.
+[Picking]: Pick two grapes from the bunk and drop them into the salad bowl.
+
+(Mixing and Dressing the Salad)
+[Mixing]: In a large salad bowl, combine all the chopped ingredients. Use clean hands to toss the ingredients gently.
+[Drizzling]: Drizzle the dressing over the salad.
+[Tossing]: Toss the salad in the bowl to coat all the ingredients thoroughly with the dressing.
+[Spearing]: Spear a variety of ingredients with a fork and bring them to your mouth to eat.
+
+(Cleaning the Table)
+[Clearing]: Clear the table by disposing of any remaining food.
+[Mopping]: Mop the table surface with a damp cloth or mop.
+[Drying]: Dry your hands with a hand towel.
+
+#Baking and Frosting a Bread.
+(Preparing the Flour)
+[Stacking]: Stack the sieve on top of a bowl.
+[Pouring]: Pour the flour into the sieve.
+
+[Shaking]: Gently shake the sieve to sift the remaining flour.
+[Tapping]: Tap the edge of the sieve to allow the flour to fall evenly into the bowl.
+[Removing]: Remove the sieve from the bowl.
+
+(Preparing the Ingredients)
+[Uncapping]: Uncap a bottle of water.
+[Measuring]: Use a measuring cup to measure a cup of water.
+[Capping]: Cap the water bottle.
+[Pouring]: Pour the water into the mixing bowl.
+[Scooping]: Scoop a ¼ spoonful of yeast.
+[Adding]: Add the yeast to the mixing bowl.
+
+(Mixing and Kneading the Dough)
+[Stirring]: Stir the ingredients with a spatula.
+[Beating]: Beat the mixture with the spatula, using vigorous circular hand motions to fully incorporate air and blend the ingredients smoothly.
+[Pinching]: Pinch some extra flour from the flour bag.
+[Scattering]: Gently scatter the extra flour on the chopping board.
+[Moving]: Move the dough to the floured chopping board.
+[Scraping]: Scrape down the sides of the mixing bowl with a dough scraper to gather the dough.
+
+[Kneading]: Knead the dough on the floured surface.
+[Pushing]: Push the dough with the heels of your hands into a flat shape.
+[Folding]: Fold the dough over itself.
+[Repeating]: Repeat this push and fold motion 5 times.
+[Patting]: Gently pat the dough to even out the surface and remove any air pockets.
+[Stretching]: Stretch and fold the dough to help develop structure and trap air bubbles.
+[Lifting]: Lift the stretched dough from one side.
+[Folding]: Fold the lifted dough over to the opposite side.
+[Widening]: Widen the dough by gently stretching it with both hands.
+
+(Shaping the Dough)
+[Dividing]: Divide the dough into two portions.
+[Shaping]: Shape the first portion into a roll.
+[Rolling]: Roll the dough into a pancake shape with a rolling pin.
+[Molding]: Mold the pancake into a straw shape by rolling the pancake.
+[Crimping]: Crimp the ends of the straw to seal them and add texture.
+[Transferring]: Transfer the first portion to the baking tray.
+[Tucking]: Tuck the edges of the second portion to form smooth, tight shapes.
+[Scoring]: Score the surface of the dough with shallow cuts using a sharp knife.
+
+[Compressing]: Compress the second portion into the empty container.
+
+(Baking the Bread)
+[Switching On]: Switch on the oven.
+[Opening]: Open the oven door.
+[Sticking]: Stick a hand into the oven to check the temperature.
+[Transferring]: Transfer the baking tray into the oven.
+[Shutting]: Shut the oven door.
+[Opening]: Open the oven door.
+
+[Pulling Out]: Pull out the baking tray from the oven.
+[Shutting]: Shut the oven door.
+[Tapping]: Tap the bottom of the loaf to check for doneness.
+[Cooling]: Wave your hands around the loaves for even cooling.
+
+(Frosting the Bread)
+[Grasping]: Grasp a knife for sawing.
+[Sawing]: Saw a small piece off the bread with the sawing knife.
+[Placing]: Place the bread on a rotating cake stand.
+[Rotating]: Rotate the cake stand to ensure it moves smoothly.
+
+[Applying]: Apply a layer of frosting on the top of the bread with the piping bag.
+[Holding]: Hold a spatula for spreading frosting.
+[Spreading]: Spread frosting along the sides of the bread.
+[Turning]: Turn the cake stand while spreading as needed for even coverage.
+[Smoothing]: Smooth the frosting on the bread's surface with the spatula.
+[Putting Down]: Put down the spatula.
+[Gripping]: Grip the piping bag.
+[Decorating]: Squeeze the piping bag to add circular decorations.
+[Squeezing]: Squeeze the piping bag to add wave-like decorations.
+[Putting Down]: Put down the piping bag.
+%Office Working
+#Drawing Mind Map. 
+(Preparing the Books)
+[Lifting]: Lift the blue book to sort through books on the desk.
+[Moving]: Move the blue book and tuck it between the red book and black book.
+[Identifying]: Identify key topics in the books with your fingers.
+[Indicating]: Indicate the data mining book with your finger.
+[Opening]: Open the blue book.
+[Turning]: Turn pages of the books to the table of contents.
+[Searching]: Search through the text in the books with your fingers.
+[Stopping]: Occasionally stop to focus on significant details or sections.
+[Opening]: Open the red book to the table of contents.
+[Tearing]: Tear off a sticky note from the pad.
+[Sticking]: Stick the sticky note to the edge of the book as a bookmark.
+[Comparing]: Compare different sources to align the information between the blue and the red book.
+[Finding]: Find the title of the second chapter of the blue book.
+[Reading]: Use your index finger to guide your reading by tracking the section subtitles.
+[Tracking]: Track the flow of text with your finger to maintain focus.
+[Turning]: Turn to page 200 of the book.
+[Closing]: Close the book.
+[Flipping]: Flip to the back of the book to check the ISBN number.
+[Reopening]: Reopen the blue book to the bookmarked page.
+
+(Preparing the Stationery)
+[Unzipping]: Unzip the pencil case.
+[Taking Out]: Take out a pencil from the pencil case.
+[Gripping]: Grip the pencil firmly for better control.
+[Circling]: Circle the keyword of the first chapter.
+[Noting]: Note the keyword of the second chapter.
+[Correcting]: Correct all the letters "o" in the chapter titles to "u".
+[Returning]: Return the pencil to the pencil case.
+[Taking Out]: Take out a marker pen from the pencil case.
+[Uncapping]: Uncap the marker pen.
+[Leaving]: Leave marks on the longest chapter title with the marker pen.
+[Writing]: Write down the key topic of the book in one sentence.
+[Spinning]: Spin the pen in your hand.
+[Capping]: Cap the marker pen.
+[Returning]: Return the marker pen to the pencil case.
+
+(Taking Out and Using Highlighter)
+[Taking Out]: Take out a highlighter from the pencil case.
+[Uncapping]: Uncap the highlighter.
+[Gripping]: Grip the highlighter firmly to prepare for writing.
+[Marking]: Mark the keyword in the third chapter.
+[Pointing]: Point to the keyword in the fourth chapter with the highlighter.
+[Capping]: Cap the highlighter.
+[Returning]: Return the highlighter to the pencil case.
+
+(Taking Out and Using Eraser)
+[Taking Out]: Take out an eraser from the pencil case.
+[Gripping]: Grip the eraser firmly for effective use.
+[Erasing]: Erase the marks left on the longest chapter.
+[Sweeping]: Sweep away the eraser shavings with your hand.
+[Returning]: Return the eraser to the pencil case.
+
+(Using Correction Tape)
+[Taking Out]: Take out a correction tape from the pencil case.
+[Sticking]: Stick the correction tape over the keyword noted for the second chapter.
+[Returning]: Return the correction tape to the pencil case.
+
+(Drawing and Coloring)
+[Gripping]: Grip the notebook.
+[Flipping]: Flip the notebook to a clean page.
+[Adjusting]: Adjust the angle or position of the notebook for comfortable writing.
+[Taking Out]: Take out a color pen from the pencil case.
+[Uncapping]: Uncap the color pen.
+[Gripping]: Grip the color pen to prepare for writing.
+[Drawing]: Draw star shapes at the top of the notebook.
+[Coloring]: Fill the star shapes using color pens.
+[Illustrating]: Illustrate the key concepts in the book with a flow chart.
+[Displaying]: Display the mind map to others.
+[Capping]: Cap the color pen.
+[Returning]: Return the color pen to the pencil case.
+
+(Finishing Up)
+[Flipping]: Flip the notebook back to the cover page.
+[Closing]: Close all three books.
+[Rearranging]: Rearrange related books by putting them back in the bookstack.
+[Collecting]: Collect all remaining stationery back into the pencil case.
+[Zipping]: Zip up the pencil case.
+
+
+#Receiving and Sending a File.
+(Receiving a File)
+[Gripping]: Grip the string of the button envelope.
+[Unrolling]: Unroll the string to open the button envelope.
+[Removing]: Remove the files from the file folder by grasping them with your fingers and lifting them out.
+[Inverting]: Invert the file folder over a flat surface.
+[Shaking]: Shake the file folder to ensure all contents have fallen out.
+[Setting aside]: Set aside the file folder.
+[Reordering]: Reorder all the contents into a pile, making sure the letter envelope is on top and the clasp envelope is on bottom 
+
+(Opening the Envelope)
+[Slitting]: Slit the top edge of the envelope with a letter opener, ensuring not to damage the contents inside.
+[Extracting]: Extract the bound letter carefully to avoid tearing any pages.
+[Unfolding]: Unfold the letter by reversing the folds with gentle hand movements.
+[Flattening]: Press down on the unfolded letter with both hands to flatten and remove any creases.
+[Laying]: Lay the unfolded letter on a flat surface for reading.
+[Straightening]: Adjust the angles to straighten the paper for easy reading.
+
+(Reading and Unbinding the Letter)
+[Reading]: Read the letter by moving your eyes while your hands hold the edges to keep the paper steady.
+[Removing]: Remove the staple bind with the staple remover.
+[Grasping]: Grasp the pen.
+[Uncapping]: Uncap the pen.
+
+(Writing on and Stapling the Letter)
+[Writing]: Write "Roses are red, Violets are blue" on one line.
+[Switching]: Switch to another line and prepare for writing.
+[Writing]: Write "That's what they say, But it just isn't true." on another line.
+[Capping]: Cap the pen.
+[Placing]: Place the pen on the table.
+[Realigning]: Realign letter papers to get ready for binding.
+[Stapling]: Staple the letter to secure documents together with the stapler.
+
+(Folding and Preparing the Letter)
+[Folding]: Fold the letter into thirds, making precise folds to ensure a compact shape.
+[Putting]: Put the letter into the envelope.
+[Grabbing]: Grab the glue stick.
+[Uncapping]: Uncap the glue stick.
+[Gluing]: Glue along the edge of the envelope.
+[Pressing]: Press the envelope to seal.
+[Capping]: Cap the glue stick.
+[Putting down]: Put down the glue stick.
+[Stamping]: Stamp the corner of the envelope.
+
+(Handling the Clasp Envelope and Individual Pages)
+[Unclasping]: Unclasp the metal clasp of the envelope by lifting and pulling it away from the slot.
+[Extracting]: Carefully pull out the file clipped at the top from the envelope.
+[Reversing]: Reverse the folds of the clipped document.
+[Scanning]: Read the document attentively, holding it with one hand and using the other to help navigate pages.
+[Unclipping]: Unclip the clip from the top of the file by sliding it off.
+[Taking Out]: Take out one page of the paper.
+[Crumpling]: Crumple the taken-out page into a ball and set it aside.
+[Clipping]: Attach a paper clip to the top of the remaining aligned files to keep them together.
+[Folding]: Fold the stacked files along the predetermined lines for compact storage.
+[Enclosing]: Insert the folded files into a clasp envelope, aligning them within.
+[Clasping]: Clasp the metal clasp of the envelope.
+
+(Handling the Clamped File)
+
+[Flipping]: Flip the file to the third page.
+[Signing]: Sign the third page using a smooth, flowing motion.
+[Unclamping]: Open the side clamp by pressing the lever and gently pulling it away from the file.
+[Reordering]: Switch the signed page to the front page.
+[Aligning]: Arrange the signed files side by side, aligning them by their edges.
+[Clamping]: Secure the signed document within a clamp holder by pressing down on the clamp and sliding it into place.
+
+(Sending the File)
+[Piling]: Pile the clamped file, the clasp envelope and the letter envelope into a stack, with the letter envelope on bottom and the clasp envelope on top.
+[Inserting]: Insert the stacked content into the button envelope.
+[Rolling]: Roll the string to close the button envelope.
+
+
+
+#Testing the laptop
+(Setting Up the Laptop)
+[Plugging]: Plug the socket into the power supply.
+[Inserting]: Insert the Type-C power supply into the laptop.
+[Switching On]: Switch on the socket.
+[Inserting]: Insert the USB of the Bluetooth mouse into the laptop.
+[Inserting]: Insert the audio cable of the headphones into the laptop.
+
+(Starting the Laptop)
+[Opening]: Flip open the laptop.
+[Pressing and Holding]: Press and hold the power button to initiate the startup process.
+[Adjusting]: Adjust the angle of the laptop for better viewing.
+
+(Logging In)
+[Scanning]: Scan your fingerprint with the fingerprint scanner to unlock the laptop.
+[Typing]: Type the password "Brown@1764" using the keyboard.
+[Pressing]: Press 'Fn' + 'F9' to darken the screen.
+[Pressing]: Press 'Fn' + 'F10' to brighten the screen.
+
+(Navigating and Editing a Document)
+[Navigating]: Use the mouse to navigate the cursor across the screen and hover over the 'brown.doc' file.
+[Clicking]: Click the right mouse button.
+[Moving]: Move the cursor to rename.
+[Typing]: Type on the keyboard to rename the file to 'brown.doc'.
+[Clicking]: Double-click the icon to open the file.
+[Clicking]: Click the left mouse button to place the cursor at the beginning of the document.
+[Scrolling]: Use the mouse scroll wheel to scroll to the bottom of the page.
+[Selecting]: Use the cursor to select all text in the document.
+[Copying]: Press 'Ctrl + C' to copy the contents.
+[Pasting]: Press 'Ctrl + V' to paste the text.
+[Saving]: Press 'Ctrl + S' to save the document.
+[Closing]: Click the 'X' to close the document.
+
+(Using the Touchpad and Paint Application)
+[Navigating]: Navigate to the search bar with the touchpad.
+[Touching]: Use the touchpad to move the cursor to the 'Paint' application.
+[Tapping]: Double-tap the touchpad to open the application.
+[Tapping]: Tap 'Select' on the option bar.
+[Dragging]: Use one finger to press the touchpad and the other to drag out a rectangular region.
+[Tapping]: Tap the 'X' icon to close the application.
+
+(Shutting Down and Disconnecting)
+[Pressing]: Press the power button to put the laptop to sleep.
+[Grasping]: Grasp the headphones to prepare for wearing them.
+[Putting Down]: Put down the headphones.
+[Unplugging]: Unplug the audio cable.
+[Detaching]: Detach the USB of the mouse from the laptop.
+[Disconnecting]: Disconnect the Type-C side of the power cable.
+[Switching Off]: Switch off the power bar.
+[Unplugging]: Unplug the socket from the power bar.
+
+(Cleaning and Closing)
+[Swiping]: Swipe dust or debris off the laptop's keyboard with a brush.
+[Dusting Off]: Dust off the screen to ensure clear visibility with a brush.
+[Closing]: Close the laptop lid.
+
+
+
+
+#Testing Tablet DigitalPen Phone SmartWatch on Charging Station
+(Setting Up the Tablet)
+[Placing]: Place the tablet on the bracket in landscape orientation.
+[Adjusting]: Adjust the angle of the bracket for comfortable viewing of the tablet screen.
+[Connecting]: Connect the Type-C charging cable to the tablet.
+[Pressing]: Press the power button to turn on the tablet.
+[Touching]: Touch the touch id bar to unlock the tablet.
+[Swiping]: Swipe up from the bottom to reveal the password interface.
+[Typing]: Type the password to unlock the tablet.
+
+(Testing the Tablet Peripherals)
+[Swiping]: Swipe left to move to the next page.
+[Swiping]: Swipe right to return to the previous page.
+[Volume Up]: Press the volume up button to increase the volume.
+[Volume Down]: Press the volume down button to decrease the volume.
+
+(Testing Note App)
+[Tapping]: Tap the 'Note' app to open it.
+[Pinching]: Pinch to zoom out and reveal the whole note.
+[Spreading]: Spread fingers to zoom in to a writable size.
+[Fetching]: Fetch the Digital Pen and prepare for writing.
+[Writing]: Write Brown@1746 with the digital pen.
+[Drawing]: Draw a star shape on the note.
+[Pressing]: Press the pen on the 'brush' icon to switch the writing tool.
+[Putting Down]: Put down the digital pen.
+[Swiping]: Swipe up to return to the home screen.
+[Dragging]: Drag the 'Note' app to the dock.
+[Holding]: Press and hold the 'Note' app on the dock.
+[Tapping]: Tap 'Remove app.'
+
+(Testing Car Race App)
+[Disconnecting]: Disconnect the type-c to test the connection and disconnection process.
+[Tapping]: Tap the 'Car Race' app to open it.
+[Holding]: Hold the tablet like a steering wheel to play the car racing game.
+[Turning]: Turn the tablet left, pretending to drive.
+[Swerving]: Swerve the tablet right.
+[Honking]: Press the honk, pretending to honk.
+[Swiping]: Swipe up to return to the home screen.
+
+[Rotating]: Rotate the tablet from landscape to portrait mode.
+[Rotating]: Rotate the tablet from portrait to landscape mode
+[Placing]: Place the tablet back on the bracket.
+[Locking]: Lock the tablet by pressing the locking button.
+[Spraying]: Spray screen cleaner on the screen.
+[Wiping]: Wipe the screen clean.
+
+(Testing the Phone Peripherals)
+[Detaching]: Detach the phone from the charging station.
+[Pressing]: Press the power button to start the phone.
+[Facing]: Face the phone to use Face ID.
+[Swiping]: Swipe up to show the password screen.
+[Passcoding]: Enter the passcode to unlock the phone.
+
+[Volume Up]: Press the volume up button to increase the volume.
+[Volume Down]: Press the volume down button to decrease the volume.
+[Silencing]: Switch the silence button to toggle silent mode.
+[Swiping]: Swipe down to show the toolbars.
+[Sliding]: Slide up the brightness control bar to brighten the screen.
+[Sliding]: Slide down the brightness control bar to darken the screen.
+[Double Clicking]: Double click the lock button to open the Apple Wallet.
+[Tapping]: Tap the phone on the quick charging station, pretending to make a payment.
+[Swiping]: Swipe left to reveal the next page.
+[Swiping]: Swipe right to return to the home screen.
+
+(Testing the Note App)
+[Tapping]: Tap the 'Note' app to open it.
+[Selecting]: Select the pen tool for drawing.
+[Gesturing]: Gesture an 'O' on the screen to draw an 'O' in the note.
+[Gesturing]: Gesture a 'Z' on the screen to draw a 'Z' in the note.
+[Gesturing]: Gesture an 'S' on the screen to draw an 'S' in the note.
+[Gesturing]: Gesture an 'N' on the screen to draw an 'N' in the note.
+[Gesturing]: Gesture a checkmark on the screen to draw a checkmark in the note.
+[Two Finger Scrolling]: Use two fingers to scroll down the screen.
+[Two Finger Tapping]: Use two fingers to tap the screen.
+[Swiping]: Swipe up to return to the home screen.
+
+(Testing Instagram App)
+[Tapping]: Tap the 'Instagram' app to open it.
+[Pressing]: Press and hold the story icon to reveal the 'add to story' option.
+[Touching]: Touch the 'add to story' option to reveal the photo deck.
+[Scrolling]: Scroll down the photo deck and choose a cat photo.
+[Spreading]: Spread the photo to expand it to full screen.
+[Pinching]: Pinch the photo to shrink it to a quarter of the screen.
+[Rotating]: Rotate the photo clockwise.
+[Rotating]: Rotate the photo counterclockwise.
+[Tapping]: Tap the 'text' icon to prepare for entering text.
+[Texting]: Text "All work and no play makes Jack a dull boy."
+[Dragging]: Drag the text box to the top right corner of the screen.
+[Shaking]: Shake the phone to reveal the 'report a problem' page.
+[Swiping]: Swipe up to return to the home screen.
+
+(Testing the Keypad)
+[Tapping]: Tap the 'keypad' icon to reveal the keypad interface.
+[Dialing]: Dial '1 2 3 4 5 6 7 8 9 * 0 #'
+[Swiping]: Swipe up to return to the home screen.
+
+(Testing the Camera)
+[Tapping]: Tap the 'camera' icon to reveal the camera.
+[Picturing]: Take a picture of the BRICS cameras.
+[Swiping]: Swipe the video function.
+[Pinching]: Pinch to zoom in to maintain one BRICS camera visible on the screen.
+[Filming]: Film a video of 6 BRICS cameras by moving the phone.
+[Tapping]: Tap the 'switch' icon to switch to selfie mode.
+[Selfie-ing]: Take a selfie.
+[Swiping]: Swipe up to return to the home screen.
+[Bumping]: Bump the phone with the tablet to start the AirDrop process.
+
+(Testing YouTube App)
+[Tapping]: Tap the 'YouTube' icon to reveal video content.
+[Selecting]: Select the first video to play.
+[Rotating]: Rotate the phone to wide-screen mode to watch the video.
+[Dragging]: Drag the progress bar to the end of the video.
+[Dragging]: Drag the progress bar to the beginning of the video.
+[Sliding]: Slide the volume up.
+[Sliding]: Slide the volume down.
+[Rotating]: Rotate the phone to portrait mode.
+[Pausing]: Pause the video.
+[Swiping]: Swipe up to return to the home screen.
+
+(Testing Car Race App)
+[Tapping]: Tap the 'Car Race' icon to reveal the game content.
+[Rotating]: Rotate the phone to landscape mode to enjoy the game.
+[Gaming]: Use the right hand to control the car's speed and the left hand to control the direction.
+[Rotating]: Rotate the phone to portrait mode.
+[Swiping]: Swipe up to return to the home screen.
+[Swiping]: Swipe up repeatedly to close all running tasks.
+[Locking]: Click the lock button to lock the phone.
+
+(Cleaning the Phone Case)
+[Removing]: Remove the phone case from the phone.
+[Spraying]: Spray a small amount of cleaning solution onto a microfiber cloth.
+[Wiping]: Wipe the phone case with the cloth, focusing on any dirty or smudged areas.
+[Scrubbing]: Use gentle circular motions to scrub stubborn stains or debris.
+[Drying]: Use a dry part of the cloth to dry the phone case.
+
+(Inspecting the SIM Card)
+[Removing]: Remove the phone from the charging station.
+[Inserting]: Insert the SIM card ejector tool into the small hole on the SIM card tray.
+[Pressing]: Press gently to eject the SIM card tray.
+[Pulling]: Pull the SIM card tray out of the phone.
+[Examining]: Examine the SIM card to ensure it is properly seated and free from damage.
+[Reinserting]: Reinsert the SIM card tray back into the phone.
+[Pressing]: Press the SIM card tray until it clicks back into place.
+[Placing]: Place the phone back on the quick charging station.
+[Reattaching]: Reattach the phone case to the phone.
+[Putting Down]: Put the phone back on the quick charging station.
+
+(Testing the Smartwatch)
+[Grabbing]: Grab the smartwatch from the charging station.
+[Wearing]: Wear the watch on the wrist.
+[Flipping]: Flip the wrist with the watch.
+[Tilting]: Tilt the watch, facing it towards yourself.
+[Pressing]: Press and hold the digital crown to open Siri.
+[Pressing]: Press the digital crown to close Siri.
+[Tuning]: Tune the digital crown up to see the opened apps.
+[Tuning]: Tune the digital crown down to see the opened apps.
+[Pressing]: Press the side button twice to open Apple Pay.
+[Flipping]: Flip the wrist to pretend to make a tap payment.
+[Tapping]: Tap the screen to go back to the home screen.
+[Holding]: Tap and hold to prepare to switch screens.
+[Swiping left]: Swipe left to see another screen.
+[Swiping right]: Swipe right to see the last screen.
+[Clicking]: Click the digital crown to go to the menu page.
+[Dragging]: Drag the activity screens to reveal different activities.
+[Shaking]: Shake your wrist twice to turn on Universal Gestures.
+[Pinching]: Pinch your thumb and index finger to move to the next item.
+[Double Pinching]: Double pinch to go to the previous item.
+[Making Fist]: Make a fist to tap.
+[Making Fist twice]: Make a fist twice to open the action menu.
+[Lifting]: Lift the arm to check the time.
+[Taking Off]: Take off the smartwatch.
+[Putting]: Put it back on the charging station.
+
+(Testing the Earphones)
+[Grabbing]: Grab the earphone case to prepare for opening.
+[Opening]: Open the earphone case to reveal the earphones.
+[Taking]: Take the earphones out of the earphone case.
+[Placing]: Place the earphones on the table.
+[Inserting]: Insert the earphones back into the earphone case.
+[Closing]: Close the earphone case.
+[Putting]: Put the earphone case back on the charging station.
+
+#Filming gestures with GoPro
+(Unpacking the GoPro)
+[Unzipping]: Unzip the GoPro case.
+[Removing]: Remove the GoPro out of the case.
+[Pulling]: Pull down the notch of the GoPro side lid to change the battery.
+[Taking]: Take the GoPro battery out of the case.
+[Inserting]: Insert the battery into the battery slot.
+[Closing]: Close the battery lid.
+[Pressing]: Press and hold the power button to turn on the GoPro.
+
+(Capturing Initial Shot)
+[Aiming]: Aim the GoPro at the tree marker while looking at the screen.
+[Capturing]: Capture the tree marker by pressing the capture button.
+
+(Setting Up the Selfie Stick)
+[Taking]: Take out the selfie stick from the GoPro case.
+[Pulling]: Pull out the GoPro connector from the bottom of the GoPro.
+[Inserting]: Insert the GoPro connector into the selfie stick.
+[Positioning]: Position the screw to connect the connector to the selfie stick.
+[Tightening]: Tighten the screw with your fingers.
+[Loosening]: Loosen the selfie stick to prepare for extending it.
+[Extending]: Extend the selfie stick to its longest mode.
+[Tightening]: Tighten the selfie stick.
+[Rotating]: Rotate the selfie stick and GoPro to ensure the lens is facing yourself.
+[Loosening]: Loosen the selfie stick to prepare for shortening it.
+[Shortening]: Shorten the selfie stick.
+[Tightening]: Tighten the selfie stick.
+[Unscrewing]: Unscrew the screw from the selfie stick.
+
+[Detaching]: Detach the GoPro from the selfie stick.
+[Putting]: Put the selfie stick back in the GoPro case.
+
+
+(Setting Up the Tripod)
+[Taking]: Take out the tripod from the GoPro case.
+[Screwing]: Screw the tripod into the bottom of the GoPro.
+[Bending]: Bend the tripod legs open.
+[Stabilizing]: Stabilize the tripod on the table.
+[Loosening]: Loosen the screw on the tripod.
+[Rotating]: Rotate the GoPro to have the lens facing yourself.
+[Tightening]: Tighten the tripod.
+[Adjusting]: Adjust the GoPro to ensure it can film yourself.
+
+(Filming Gestures)
+[Pressing]: Press the recording button to start filming.
+[Greeting]: Make a greeting gesture.
+[Snapping]: Snap once with your right hand.
+[Snapping]: Snap once with your left hand.
+[Snapping]: Snap once with both hands together.
+[Flicking]: Flick all of the fingers of your right hand as if you were flicking water (no actual water).
+[Flicking]: Flick once with your left hand in a similar motion.
+[Sprinkling]: Perform a salt sprinkling motion with your right hand (no actual salt).
+[Clapping]: Clap both hands together.
+[Giving a thumbs-up]: Give a thumbs-up gesture.
+[Interlocking]: Interlock your fingers.
+[Crossing]: Cross your index and middle fingers on both hands.
+[Making]: Make a heart gesture with your hands.
+[Pointing]: Point to the camera.
+[Gesticulating]: Make expressive gestures with your hands to convey additional meaning or emotion.
+[Climbing]: Climbing like a monkey.
+[Pressing]: Press the recording button to stop filming.
+
+(Packing Up)
+[Unscrewing]: Unscrew the tripod from the GoPro.
+[Straightening]: Straighten the tripod legs.
+[Putting]: Put the tripod back in the GoPro case.
+[Pulling]: Pull down the notch of the GoPro side lid to change the battery.
+[Detaching]: Detach the battery from the battery slot.
+[Putting]: Put the battery back in the GoPro case.
+[Closing]: Close the battery lid.
+[Putting]: Put the GoPro back in the GoPro case.
+
+
+#Unwrapping and Wrapping a present
+(Unwrapping the Present)
+[Unknotting]: Unknot the ribbon by gently loosening the knot with your fingers.
+[Untying]: Gently pull the ends of the ribbon to untie the bow.
+[Unwinding]: Unwind the ribbon from around the gift.
+[Winding]: Wind the ribbon into a neat coil for reuse.
+
+[Peeling]: Peel the tape off the wrapping paper by lifting one corner and pulling gently to avoid tearing the paper.
+[Unfolding]: Unfold the wrapping paper by carefully spreading it out flat on a surface.
+[Setting]: Set the box aside.
+[Rolling]: Gather the unfolded paper and roll it up for reuse.
+[Opening]: Open the box by lifting the lid or flaps.
+[Removing]: Remove the gift from the container, placing it gently on a table.
+[Upturning]: Upturn the box to access the bottom.
+[Unfolding]: Unfold the box by pulling apart the flaps and flattening it out on the work surface.
+[Flattening]: Flatten the box by pressing it down firmly
+
+(Assembling the Box)
+[Upturning]: Upturn the box to make the open side face up.
+[Folding]: Fold along all of the pre-creased lines to shape the box.
+[Shaping]: Shape the box by aligning the sides and edges.
+[Interlocking]: Interlock the flaps at the bottom to secure the structure.
+[Tucking]: Tuck the flaps into each other to secure the bottom.
+
+
+(Placing the Gift)
+[Placing]: Place the gift inside the assembled box, centering it for balance.
+
+[Closing]: Close the lid securely.
+
+(Wrapping the Gift)
+[Unrolling]: Unroll the wrapping paper on a flat surface, pulling out enough to cover the box.
+[Measuring]: Measure the amount of wrapping paper needed with a ruler.
+[Drawing]: Use a pencil to draw cutting lines on the wrapping paper.
+[Folding]: Fold the paper along the cutting lines to create a crease.
+[Tearing]: Tear the paper along the folded lines for a straight edge.
+[Cutting]: Trim the paper along the drawn lines with scissors for precise edges.
+
+[Folding]: Fold the wrapping paper around the box, making neat and crisp edges.
+[Tearing]: Tear a piece of tape from the tape dispenser.
+[Taping]: Tape the wrapping paper in place with pieces of tape.
+[Pressing]: Press the tape firmly to ensure it sticks.
+
+(Decorating the Gift)
+[Grasping]: Grasp a piece of paper and a pen to prepare for drawing.
+[Drawing]: Draw a heart shape on the paper using a pencil.
+[Cutting]: Cut out the heart shape with scissors, following the drawn lines carefully.
+[Uncapping]: Uncap the glue stick.
+[Applying]: Apply glue to the back of the heart cutout.
+[Capping]: Cap the glue stick.
+[Attaching]: Attach the heart to the top of the wrapped box.
+[Pressing]: Press down on the heart to ensure it adheres.
+[Grasping]: Grasp a colored marker.
+[Drawing]: Use the colored marker to draw symmetrical patterns on one side of the box.
+[Rotating]: Repeat this on each side of the box, rotating the box after completing each side ensuring the patterns mirror each other on all sides.
+[Putting Down]: Put down the colored marker
+
+(Finishing with a Ribbon)
+[Pulling]: Pull the ribbon from the spool.
+[Measuring]: Measure the ribbon with a ruler.
+[Cutting]: Cut the ribbon to the measured length with scissors.
+[Wrapping]: Wrap the ribbon around the box, bringing the ends to the top.
+[Tying]: Tie the ribbon into a bow, adjusting the loops and tails for an even appearance.
+[Knotting]: Knot the ribbon to make a secure tie.
+
+
+
+
+
+
+%Crafting
+#Seal Carving and Smoothing.
+(Lighting the Workspace)
+[Lighting]: Turn on the lamp overhead to illuminate the work area.
+[Laying]: Lay the stone block on the surface.
+
+(Preparing the Stone)
+[Sanding]: Sand the short side of the stone with sandpaper for 10 times to flatten the surface.
+[Fixing]: Fix the stone onto the carving bed using clamps.
+[Tightening]: Tighten the clamps securely to ensure the stone is held firmly.
+[Parking]: Park your stone carving tools neatly beside the work area.
+
+(Drawing Margin Lines)
+[Aligning]: Align a ruler along the edge of the stone with your non-dominant hand to draw the margin lines.
+[Grasping]: Grasp a marker with your dominant hand.
+[Uncapping]: Uncap the marker.
+[Drawing]: Draw a line along the ruler’s edge with a marker.
+[Rotating]: Rotate the stone 90 degrees to continue drawing lines along the other margins.
+[Aligning]: Align a ruler along the new edge of the stone to draw the margin lines.
+[Drawing]: Draw a line along the ruler’s edge with a marker.
+[Capping]: Cap the marker.
+[Putting Down]: Put down the marker.
+
+(Carving the Stone)
+[Grasping]: Grasp the chisel.
+[Aiming]: Aim at the intersection of the margin lines with the chisel.
+[Striking]: Strike the chisel at the intersection of the margin lines to knock off a small piece of the stone.
+[Carving]: Carve along one of the margin lines with the thinner side of the chisel.
+[Shaving]: Shave the margin of the stone with the wider side of the chisel.
+[Brushing]: Brush off the stone dust using a brush.
+[Putting Down]: Put down the chisel.
+
+(Polishing and Finishing)
+[Polishing]: Polish the surface of the stone with the sandpaper.
+[Loosening]: Lightly loosen the clamps.
+[Releasing]: Release the stone from the carving bed.
+[Uncovering]: Uncover the lid of the stamp pad.
+[Grasping]: Grasp the stone.
+[Pressing]: Press the stone into the stamp pad.
+[Stamping]: Stamp the stone on the stamp paper.
+[Putting Down]: Put down the stone.
+[Covering]: Cover the stamp pad with the lid.
+
+(Maintenance and Cleanup)
+[Sharpening]: Sharpen the chisel with the sharpening stone.
+[Shutting]: Shut off the lamp to complete the process.
+#Assemble and Disassemble Kids Tool Bench
+(Setting Up the Clamp)
+[Positioning]: Position the wood over the clamp.
+[Tightening]: Tighten the clamp by turning the screw handle until the wood pieces are securely held.
+
+(Using the Handsaw)
+
+[Sawing]: (Pretending) Saw back and forth along the cutting line, applying even pressure to make a straight cut.
+
+(Hammering Nails)
+[Positioning]: Position the nail at any hole.
+[Hammering]: Hammer the nail into the hole using the hammer.
+
+
+(Using the Screwdriver)
+[Positioning]: Position another screw at the desired spot on the wood.
+[Selecting]: Select the appropriate screwdriver for the screw type.
+[Grasping]: Grasp the handle of the screwdriver with your dominant hand.
+[Turning]: Turn the screwdriver clockwise to drive the screw into the hole.
+[Running]: Run your hands over the workbench to inspect any defects.
+[Hanging]: Hang the wrench on the hook.
+
+(Using the Drill)
+[Positioning]: Position the screw at the desired spot on the wood.
+[Gripping]: Grip the drill handle firmly.
+[Triggering]: Pull the drill trigger to start the drill.
+[Drilling]: Drill the screw into the hole.
+[Detaching]: Detach the drill bit from the drill.
+[Putting down]: Put down the drill.
+
+(Removing Nails with Pliers)
+[Grabbing]: Grab the pliers to prepare for gripping the nail.
+[Opening]: Open the pliers by pushing the handles apart.
+[Gripping]: Grip the nail with the jaws of the pliers.
+[Pulling]: Pull out the nail with the pliers.
+[Putting down]: Put down the pliers.
+
+(Using the Monkey Wrench)
+[Unhooking]: Unhook the monkey wrench from the hook.
+[Adjusting]: Adjust the jaws of the monkey wrench to fit the size of the bolt.
+[Grasping]: Grasp the handle of the monkey wrench.
+[Turning]: Turn the adjustable knob to tighten the jaws.
+[Wrenching]: Tighten the bolts with the monkey wrench.
+[Hooking]: Hook the monkey wrench back on the hook.
+
+(Un-wrenching Bolts and Screws)
+[Unmounting]: Unmount the wrench from the hook.
+[Positioning]: Position the wrench on the bolt.
+[Unwrenching]: Turn the wrench to unfasten the bolts.
+[Repositioning]: Reposition the wrench on the screw.
+[Unwrenching]: Turn the wrench to unfasten the screw.
+[Mounting]: Mount the wrench back on the hook.
+
+(Using the Skate Tool)
+[Grasping]: Grasp the skate tool to prepare for unscrewing.
+[Positioning]: Position the skate tool on top of the other screw.
+[Unscrewing]: Unscrew the other screw from the hole.
+[Putting down]: Put down the skate tool.
+
+
+#Cultivating and uproot a Plant
+(Preparing the Pot Replanting Mat)
+
+[Attaching]: Attach the snap buttons at the two front corners of the replanting mat.
+
+(Preparing the Pot)
+
+[Unpacking]: Unpack the bag of soil from its packaging to get ready for filling the pot.
+[Grasping]: Grasp the shovel.
+[Scooping]: Scoop soil from the bag and hold it in the shovel.
+[Transferring]: Transfer the soil to the pot.
+[Breaking]: Break apart any large clumps in the soil.
+[Filling]: Fill the pot halfway with potting soil.
+[Putting Down]: Put down the shovel.
+[Inserting]: Insert the transplant tool into the soil to prepare a hole for transplanting.
+[Removing]: Remove the transplant tool.
+
+(Planting the Plant)
+[Easing]: Ease the plant out of its nursery container, supporting the root ball.
+[Potting]: Place the plant in the soil-filled pot.
+[Scooping]: Scoop additional soil around the plant in the pot.
+[Filling]: Fill the whole pot by repeatedly scooping the soil.
+[Holding]: Hold the base of the plant to keep it steady.
+[Pressing]: Press the soil down to eliminate air pockets.
+
+(Aerating the Soil)
+[Penetrating]: Penetrate the soil with your fingers to create a loose layer.
+[Aerating]: Aerate the soil with the rake.
+
+(Watering the Plant)
+[Squeezing]: Squeeze the watering bottle to water the plant.
+
+(Mulching the Soil)
+[Scattering]: Scatter mulch over the soil to retain moisture.
+[Distributing]: Distribute the mulch with your hands to even it out.
+[Straightening]: Straighten the plant to ensure it is upright.
+
+(Spraying the Plant)
+[Pumping]: Pump the air dust blower to blow away dust on leaves.
+[Spraying]: Spray the foliage of the plant evenly with the spray bottle.
+
+
+(Uprooting the Plant)
+[Digging]: Dig around the plant to loosen the soil with the rake.
+[Easing]: Ease the plant out by gently pulling on the base.
+[Uprooting]: Uproot the plant carefully to avoid damaging the roots.
+[Shaking]: Shake the plant gently to remove excess soil.
+[Storing]: Store the plant properly in the nursery container.
+
+(Emptying the Pot)
+[Picking Up]: Pick up the pot.
+[Emptying]: Empty all remaining soil from the pot to the zip bag.
+[Tapping]: Tap the bottom of the pot to release soil.
+[Tipping]: Tip the pot over to continue removing remains.
+[Putting]: Put down the pot.
+
+
+
+
+
+#Sewing kit, Crocheting, Knitting and Finger Knitting 
+(Sewing kit)
+
+[Organizing]: Organize the content inside the sewing kit for easy access.
+[Grasping]: Grasp the scissors for cutting.
+[Cutting]: Cut the eyes, mouth and other parts aligning the cutting line.
+[Sticking]: Stick the eyes and other parts on the face of the planet.
+[Unwrapping]: Unwrap the thread the spool.
+[Untangling]: Gently untangle any knot thread using both hands.
+[Tying]: Tie the thread to the needle.
+[Sewing]: Sew the fabric pieces together with the needle through the holes while leaving a little space for stuffing.
+[Filling]: Fill the planet with cotton.
+[Stitching]: Stitch the little space together.
+[Knotting]: Knot the end of the thread to secure the cottons.
+[Untying]: Untie the thread from the needle.
+[Puncturing]: Puncture the used needle into the futon.
+[Cutting]: Cut the excess thread with the scissors.
+
+(Crocheting)
+[Picking]: Pick up the yarn and the crochet hook.
+[Knotting]: Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.
+[Yarning Over]: Yarn over by wrapping the yarn around the hook from back to front.
+[Pulling Through]: Pull the yarn through the loop on the hook to create a chain stitch.
+[Repeating]: Repeat the yarn over and pull through steps to create 10 chain stitches for the foundation.
+[Crocheting]: Crochet a single row.
+[Cutting]: Cut the yarn, leaving a tail.
+[Weaving]: Weave in ends of yarn or thread using the hook.
+
+(Knitting)
+[Picking]: Pick up the yarn and the knitting needles.
+[Knotting]: Make a slip knot by forming a loop with the yarn. Insert the crochet hook into the loop. Pull the working yarn through the loop.
+[Casting On]: Cast on by looping the yarn around your thumb and forefinger of your left hand. Insert the needle under the yarn loop on your thumb. Pull the yarn through the loop on your thumb to form a new stitch. Place the new stitch onto the needle, sliding it to the end.
+[Knitting]: Hold the knitting needles in each hand. Use the left needle to hold the stitches, and the right needle to insert into a stitch, wrap the yarn around it, and pull through to create a new stitch, transferring it to the right needle.
+[Cutting]: Cut the yarn, leaving a tail.
+[Weaving]: Weave in ends of yarn or thread using a needle or hook. Thread the loose end through the eye of a needle or hook, and weave it through the completed stitches to secure and hide the end.
+
+(Finger Knitting)
+[Picking]: Pick up a thick yarn for finger knitting.
+[Knotting]: Create a slip knot by forming a loop with the yarn. Insert your index finger and thumb into the loop. Pull the working yarn through the loop to tighten the knot around your finger.
+[Casting On]: Cast on by looping the yarn around your index and middle fingers, then over the ring and pinky fingers, forming a figure-eight pattern. 
+[Wrapping] Wrap the yarn around the back of your hand and bring it to the front. 
+[Looping] Repeat looping the yarn around your fingers until you have two loops on each finger.
+[Knitting]: Knit by lifting the bottom loop over the top loop on each finger, starting with the pinky and moving to the index finger. Repeat lifting the bottom loop over the top loop on each finger until only one loop remains on each finger.
+[Cutting]: Cut the yarn, leaving a tail.
+[Pulling Through]: Pull the yarn tail through the last loop to secure the end.
+[Pulling Off]: Pull the knitted yarn off your hand.
+[Threading]: Thread the yarn tail onto a yarn needle or use your fingers to weave in the ends.
+
+
+
+
+
+%Entertaining
+#Playing monopoly, cards, coins and knucklebones. 
+(Playing Monopoly)
+[Unfolding]: Unfold the game board.
+[Grabbing]: Grab the deck from the game box.
+[Splitting]: Split the deck into chance, community chest, and property cards.
+[Shuffling]: Shuffle the chance and community chest decks separately.
+[Placing]: Place the chance and community chest decks on their designated spaces on the board.
+[Grasping]: Grasp the player piece and place it on the GO space.
+[Grabbing]: Grab one pile of dollars from the game box.
+[Distributing]: Distribute one of each dollar type to yourself.
+
+[Fetching]: Fetch the dice from the box.
+[Shaking]: Shake the dice in your hand.
+[Rolling]: Roll the dice.
+[Moving]: Move your game piece according to the dice roll.
+[Paying]: Pay $100 to the bank.
+[Taking]: Take a light-blue property card.
+[Passing]: Pretend to pass the dice to the next player.
+[Grabbing]: Grab the dice.
+[Drawing]: Draw a chance card.
+[Displaying]: Display the card to other players.
+[Tucking]: Tuck the chance card at the bottom of the chance deck
+[Withdrawing]: Withdraw $50 from the bank.
+[Paying]: Pay $50 to the bank.
+[Placing]: Place a house and hotel on two properties.
+[Counting]: Count your money.
+[Removing]: Remove your player piece from the board.
+[Combining]: Combine the chance, community chest, and property card decks.
+[Returning]: Return the chance, community chest, and property card decks to the box.
+[Returning]: Return your money to the bank.
+[Returning]: Return the house and hotel to the box.
+[Placing]: Place the dice back in the box.
+
+(Playing Cards)
+[Flipping]: Flip the game board for playing other props.
+[Grabbing]: Grab the deck of cards from the game box.
+[Holding]: Hold the deck with one hand.
+[Splitting]: Split the deck into two halves, with one half in each hand.
+[Gripping]: Grip the deck on the short sides with your thumb and middle finger.
+[Shuffling]: Do the bridge shuffle, allowing the cards to arc and fall into place.
+[Shuffling]: Shuffle in another interesting way.
+[Straightening]: Straighten the cards in one hand so that they are even.
+[Cutting]: Perform a two-hand cut, taking the upper half of the deck and placing it face-down underneath the bottom half.
+[Fanning]: Fan out the cards facing yourself to create a broad display that is easy to view.
+[Picking]: Choose and grab a card from the fan.
+[Composing]: Compose the cards back into a single deck, keeping the chosen card separate.
+[Placing]: Place the card on top of the deck.
+[Dealing]: Deal three piles of three cards.
+[Placing]: Place the deck on the table.
+[Swapping]: Swap the locations of two piles.
+[Altering]: Alter back the location of two piles.
+[Sliding]: Slide one pile to be directly in front of you.
+[Looking]: Pick up and look at one card from that pile before returning it.
+[Lifting]: Lift a portion of the main deck slightly off the table.
+[Flipping]: Flip the portion of the cards so that they are face-up.
+[Fanning]: Fan the face-up cards.
+[Sorting]: Sort the cards by taking two cards from the right side of the fan and placing it on the left side.
+[Drawing]: Draw a card from the main deck to add to your hand.
+[Playing]: Play a card by placing it face-up next to the main deck.
+[Reassembling]: Reassemble the cards into a single deck.
+[Stacking]: Stack one three-card pile on top of another.
+[Flipping]: Flip over the face-up deck.
+[Scrambling]: Scramble the cards on the table while keeping them face-down.
+[Putting]: Put the cards back in the game box.
+
+(Playing Coins and Knucklebones)
+[Gripping]: Grip a fake coin out of the game box.
+[Spinning]: Spin the coin.
+[Tossing]: Toss the coin into the air and let it fall.
+[Tossing]: Toss the coin into the air and catch it.
+[Flipping]: Flip a coin using your right thumb, catch it in the palm of your right hand, flip your right hand onto the back of your left hand, and remove your right hand to reveal the coin on the back of your left hand.
+[Playing]: Play a round of knucklebones with the coin.
+
+(Finishing Up)
+[Collecting]: Collect the coin and put them in the game box.
+[Folding]: Fold up the game board.
+[Putting back]: Put the game board back in the game box
+[Closing]: Close the game box.
+
+
+
+
+#Playing mini instruments
+(Playing the Flute)
+[Grasping]: Grasp the flute with both hands, placing your left hand closer to the mouthpiece and your right hand near the end.
+[Positioning]: Position your fingers over the holes or keys as a starting pose.
+[Pressing]: Press down on the holes or keys with your fingers to change the notes.
+[Releasing]: Release the holes or keys to return to the open note.
+[Sliding]: Slide your fingers to different positions to play different notes.
+[Trilling]: Trill by rapidly alternating between two adjacent notes by quickly pressing and releasing the holes.
+[Speeding Up]: Gradually speed up the alternation of the notes.
+[Slowing Down]: Gradually slow down the alternation of the notes. 
+[Playing]: Try to play a piece of music.
+[Putting]: Put down the flute.
+
+(Playing the Drum)
+[Gripping]: Grip the drumsticks firmly with both hands.
+[Balancing]: Balance the drumsticks in your hands, ensuring they are comfortable to hold.
+[Poking]: Poke the drum with a drumstick to test the elasticity of the drumhead.
+[Raising]: Raise the drumsticks above the drumhead.
+[Striking]: Strike the drumhead with one drumstick, then the other, in a rhythmic pattern.
+[Tapping]: Tap the drumhead lightly for softer sounds.
+[Pounding]: Pound the drumhead harder for louder sounds.
+[Rolling]: Roll the drumsticks across the drumhead for a continuous sound.
+[Trilling]: Rapidly alternate strikes between the two drumsticks to create a trill effect.
+[Speeding Up]: Gradually speed up the alternation.
+[Slowing Down]: Gradually slow down the alternation.
+[Crescendoing]: Crescendo by gradually increasing the volume of the strikes.
+[Decrescendoing]: Decrescendo by gradually decreasing the volume of the strikes.
+[Playing]: Play a piece of music.
+[Putting]: Put down the drumsticks.
+[Tapping]: Tap the drumhead lightly with your fingertips for softer sounds.
+[Pounding]: Pound the drumhead with the palms of your hands for louder sounds.
+[Alternating]: Alternate between tapping and pounding to create different rhythms.
+
+(Playing the Ukulele)
+[Grasping]: Grasp the body of the ukulele.
+[Supporting]: Support the neck of the ukulele with your left hand.
+[Placing]: Place your left-hand fingers on the fretboard to form chords.
+[Pressing]: Press down on the strings with your fingertips to produce clear notes.
+[Strumming]: Strum the strings with your right hand, using your thumb or a pick.
+[Brushing]: Brush your fingers lightly across the strings for a softer sound.
+[Plucking]: Pluck individual strings with your thumb and fingers.
+[Trilling]: Rapidly alternate between two adjacent notes to create a trill effect.
+[Speeding Up]: Gradually speed up the alternation.
+[Slowing Down]: Gradually slow down the alternation.
+[Crescendoing]: Crescendo by gradually increasing the volume of the notes.
+[Decrescendoing]: Decrescendo by gradually decreasing the volume of the notes.
+[Lifting and Sliding]: Change chords by lifting your fingers off the fretboard and sliding your fingers to new positions to form different chords.
+[Pressing]: Press down on the strings again to play the new chords.
+[Playing]: Play a piece of music.
+[Putting]: Put down the ukulele.
+
+(Playing the Otamatone)
+[Grasping]: Grasp the Otamatone's stem firmly with your non-dominant hand.
+[Supporting]: Support the base of the Otamatone with your dominant hand, keeping it steady.
+[Sliding and squeezing]: Slide your finger along the stem while squeezing the face of the otamatone.
+[Pressing]: Press down on the stem to ensure the note is clear and precise.
+[Squeezing]: Squeeze the cheeks of the Otamatone's face to control the volume.
+[Wobbling]: Wobble your finger back and forth on the stem while holding a note.
+[Speeding Up]: Gradually speed up the wobbling.
+[Slowing Down]: Gradually slow down the wobbling.
+[Playing]: Play a piece of music.
+[Putting]: Put down the Otamatone.
+
+(Playing the Keyboard)
+[Placing]: Place your hands on the keyboard, with your fingers resting lightly on the keys.
+[Spacing]: Space your fingers by spreading them comfortably across the keys.
+[Pressing]: Press down on and hold the keys with your fingertips to play notes.
+[Releasing]: Release the keys to stop the notes.
+[Sliding]: Slide your fingers to adjacent keys to play different notes.
+[Positioning]: Position your fingers over multiple keys to form chords.
+[Pressing]: Press down on the keys simultaneously to play the chords.
+[Coordinating]: Coordinate your left and right hands to play a piece of music.
+[Alternating]: Alternate between your left and right hands to create a dynamic sound.
+[Turning]: Turn the volume knob to adjust the overall volume.
+[Playing]: Play a piece of music.
+[Trilling]: Rapidly alternate between two adjacent keys to create a trill effect.
+[Speeding Up]: Gradually speed up the alternation.
+[Slowing Down]: Gradually slow down the alternation.
+[Crescendoing]: Crescendo by gradually increasing the volume of the notes.
+[Decrescendoing]: Decrescendo by gradually decreasing the volume of the notes.
+
+(Playing the Triangle)
+[Grasping]: Grasp the triangle with one hand by holding the holder at the top.
+[Suspending]: Suspend the triangle in the air to allow it to resonate freely.
+[Tapping]: Tap the triangle with the striker, hitting the inside of the triangle to produce a clear tone.
+[Rolling]: Roll the striker around the edges of the triangle to create a continuous ringing sound.
+[Putting]: Put down the triangle.
+
+(Playing the Mini Harp)
+[Positioning]: Position the harp on the surface, ensuring it is stable.
+[Grasping]: Grasp the harp with both hands, placing your fingers on the strings.
+[Plucking]: Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.
+[Sliding]: Slide your fingers to different strings to change notes.
+[Plucking]: Pluck the strings simultaneously to play the chords.
+[Plucking]: Pluck the strings with varying pressure to control the volume. Pluck harder for louder notes and softer for quieter notes.
+[Speeding Up]: Gradually speed up your plucking.
+[Slowing Down]: Gradually slow down your plucking.
+[Crescendoing]: Crescendo by gradually increasing the volume of your plucking.
+[Decrescendoing]: Decrescendo by gradually decreasing the volume of your plucking.
+
+(Playing the Zither)
+[Laying]: Lay the harp on the flat surface, now using it as a zither.
+[Plucking]: Pluck the strings with your fingertips to produce notes. Use your thumb, index, middle, and ring fingers to pluck different strings.
+[Sliding]: Slide your fingers to different strings to change notes.
+[Plucking]: Pluck the strings simultaneously to play the chords.
+[Strumming]: Strum the strings with your fingers or a pick to produce a continuous sound.
+[Brushing]: Brush your fingers lightly across the strings for a softer sound.
+[Touching]: Touch the strings lightly.
+[Plucking]: Pluck the strings while maintaining the light touch with the left hand to produce harmonic sounds.
+[Speeding Up]: Gradually speed up your plucking.
+[Slowing Down]: Gradually slow down your plucking.
+[Crescendoing]: Crescendo by gradually increasing the volume of your plucking.
+[Decrescendoing]: Decrescendo by gradually decreasing the volume of your plucking.
+
+
+
+
+
+
+#Desktop Boxing
+(Inflating the Boxing Bag)
+[Grasping]: Grasp the pump nozzle with one hand and the boxing bag with the other.
+[Inserting]: Insert the pump nozzle into the air valve of the boxing bag.
+[Pumping]: Pump air into the boxing bag by pressing down on the pump handle repeatedly.
+[Squeezing]: Squeeze the bag with your hand to check for firmness.
+[Inflating]: Inflate the boxing bag until it reaches the desired firmness.
+[Removing]: Remove the pump nozzle from the air valve once the bag is fully inflated.
+
+
+(Assembling the Boxing Stand)
+[Aligning]: Align the stand with the base, ensuring the holes for connectors are properly positioned.
+[Inserting]: Insert the stand into the aligned holes.
+[Tightening]: Tighten the stand until it is securely attached to the base.
+[Attaching]: Attach the inflated boxing bag to the top of the stand by sliding it onto the rod.
+
+(Preparing for Boxing)
+[Wrapping]: Wrap boxing hand wraps on one hand to protect it.
+[Unwrapping]: Unwrap the boxing hand wrap.
+[Positioning]: Position your hands to get ready for boxing.
+[Clenching]: Clench your fists, keeping your thumbs outside your fingers.
+
+(Boxing Techniques)
+[Jabbing]: Jab the boxing bag with your dominant hand, using a quick, snapping motion.
+[Crossing]: Follow with a cross punch using your non-dominant hand, rotating your body slightly for added power.
+[Hooking]: Deliver a hook punch by swinging your dominant hand in a horizontal arc.
+[Uppercutting]: Perform an uppercut by driving your fist upward from a low position.
+[Combining]: Combine punches in sequences, such as jab-cross-hook-uppercut.
+[Punching]: Punch the bag with controlled force for one strike.
+[Aiming]: Aim your punches at specific targets on the boxing bag to improve accuracy.
+[Shooting]: Shoot quick, sharp punches at the bag in rapid succession to practice speed and precision.
+[Slapping]: Slap the sides of the bag with an open hand to vary your training technique.
+
+(Defending Techniques)
+[Blocking]: Block by raising your arms to shield your face and body from imaginary punches.
+[Dodging]: Dodge by leaning or stepping to the side to avoid imaginary attacks.
+
+(Advanced Techniques)
+[Feinting]: Feint by making a quick, deceptive movement to trick an imaginary opponent.
+
+(Disassembling the Boxing Stand)
+[Separating]: Separate the boxing bag from the stand.
+[Pressing]: Press the bag to expel air, starting from the top and working your way down.
+[Deflating]: Continue pressing and rolling the bag until all the air is removed.
+[Rolling]: Roll the bag tightly to remove any remaining air.
+[Unscrewing]: Unscrew the stand from the base.
+[Separating]: Separate the stand from the base by pulling them apart.
+
+
+
+
+
+
+#Paying with a Puppy Dog
+(Feeding the Puppy)
+[Feeding]: Feed the puppy with treats.
+[Petting]: Pet the puppy on the head.
+[Stroking]: Gently stroke the puppy's head and back.
+[Patting]: Pat the puppy gently on the sides, using a soft, rhythmic patting motion with the palm of your hand to make the puppy feel loved and secure.
+[Scratching]: Scratch behind the ears and under the chin.
+[Tickling]: Tickle the puppy gently on its belly.
+
+(Playing with the Puppy)
+[Tossing]: Toss a toy gently near the puppy.
+[Clapping]: Clap your hands softly to praise the puppy as it brings the item back, encouraging it to chase and retrieve.
+[Throwing]: Throw another toy for the puppy to chase.
+[Pointing]: Point towards the thrown object to guide the puppy.
+[Gripping]: Grip one end of a tug toy firmly.
+[Tugging]: Tug the toy gently, engaging the puppy in a playful tug-of-war.
+[Pulling]: Pull the toy back and forth with gentle resistance.
+[Swinging]: Swing a snack-shaped toy enticingly to catch the puppy's attention.
+
+(Grooming the Puppy)
+[Combing]: Hold the comb in one hand and gently run it through the puppy’s fur.
+[Untangling]: Untangle any knots in the puppy's fur using the comb.
+[Brushing]: Brush the fur gently with smooth, even strokes.
+[Plucking]: Pluck any loose fur or debris from the puppy's coat as you comb.
+[Shaving]: Shave the hair around the puppy's paws carefully.
+[Shearing]: Shear the underbelly hair of the puppy gently to keep it neat.
+
+(Bathing the Puppy)
+[Wetting]: Wet the puppy's fur thoroughly with water.
+[Lathering]: Apply dog shampoo and create a lather.
+[Scrubbing]: Scrub the fur gently to clean it.
+[Rinsing]: Rinse off the shampoo thoroughly with water.
+[Drying]: Dry the puppy with a towel, gently patting and rubbing to remove excess moisture.
+
+(Dressing the Puppy)
+[Placing]: Place a hat on the puppy's head for a cute accessory.
+[Unbuckling]: Unbuckle the collar gently.
+[Positioning]: Position the collar around the puppy's neck.
+[Buckling]: Buckle the collar securely.
+[Adjusting]: Adjust the fit of the collar for comfort.
+[Holding]: Hold the clothes with both hands.
+[Lifting]: Lift the puppy's front paws and guide them through the armholes of the clothes.
+[Pulling]: Pull the clothes up over the puppy's body.
+[Adjusting]: Adjust the fit of the clothes to ensure comfort.
+[Fastening]: Fasten the Velcro straps to secure the clothes in place.
+
+(Grooming Details)
+[Holding]: Hold the paw gently.
+[Trimming]: Trim the nails carefully with nail clippers.
+[Dabbing]: Dab ear cleaning solution onto a rag.
+[Cleaning]: Clean the outer ears gently with the rag.
+[Applying]: Apply dog toothpaste to a toothbrush.
+[Brushing]: Brush the puppy's teeth gently, ensuring you cover all areas.
+
+
+
+
+%Houseworks
+ #Applying Makeups
+(Facial Care)
+[Pouring]: Pour a small amount of toner onto a cotton pad.
+[Sweeping]: Sweep the cotton pad across your face.
+[Dabbing]: Dab the toner gently around your eyes and nose.
+
+[Dispensing]: Dispense a few drops of serum onto your fingertips.
+[Tapping]: Tap the serum onto your face, focusing on areas that need extra care.
+[Spreading]: Spread the serum evenly over your face using gentle upward strokes.
+
+[Scooping]: Scoop a small amount of moisturizer from the container.
+[Dotting]: Dot the moisturizer onto your forehead, cheeks, nose, and chin.
+[Rubbing]: Rub the moisturizer into your skin using upward and outward motions.
+[Smoothing]: Smooth your skin with the moisturizer.
+
+(Applying Foundation)
+[Pumping]: Pump a small amount of foundation onto the back of your hand.
+[Dabbing]: Dab the foundation onto your face using a makeup sponge or brush.
+[Blending]: Blend the foundation evenly over your face, paying attention to the hairline and jawline.
+
+(Setting the Makeup)
+[Scooping]: Scoop a small amount of loose powder onto a powder pad.
+[Patting]: Pat the powder pad onto your face, focusing on areas that tend to get oily.
+[Pressing]: Press the powder into your skin gently to set the foundation and concealer.
+[Dusting]: Dust off any excess powder with a powder brush.
+
+(Applying Blush)
+[Swirling]: Swirl a blush brush in the blush.
+[Tapping]: Tap off any excess blush.
+[Sweeping]: Sweep the blush onto the apples of your cheeks in an upward motion.
+
+(Applying Fake Eyelashes)
+[Removing]: Remove a pair of fake eyelashes from the tray using tweezers.
+[Gluing]: Apply a layer of eyelash glue to the base of the fake eyelashes.
+[Positioning]: Position the fake eyelashes as close to your natural lash line as possible using tweezers.
+[Pressing]: Press the fake eyelashes gently onto your eyelid to secure them.
+
+(Applying Eyeshadow)
+[Dipping]: Dip an eyeshadow brush into the eyeshadow.
+[Tapping]: Tap off any excess eyeshadow.
+[Sweeping]: Sweep the eyeshadow across your eyelids.
+[Blending]: Blend the eyeshadow into the crease for a seamless look.
+
+(Applying Eyeliner and Mascara)
+[Drawing]: Draw a line along your upper lash line with the eyeliner.
+[Extending]: Extend the line slightly past the outer corner of your eye for a winged effect.
+[Twisting]: Twist the mascara wand out of the tube.
+[Wiggling]: Wiggle the wand at the base of your lashes and sweep upwards to coat each lash.
+
+(Shaping Eyebrows)
+[Brushing]: Brush your eyebrows with a spoolie brush.
+[Filling]: Fill in any sparse areas with an eyebrow pencil or powder.
+
+(Applying Lipstick)
+[Picking up]: Pick up the lipstick tube.
+[Twisting]: Twist the lipstick tube to reveal the product.
+[Applying]: Apply the lipstick to your lips, starting from the center and moving outwards.
+[Putting down]: Put down the lipstick tube.
+[Blotting]: Blot your lips with a tissue to remove any excess product.
+
+(Polishing Nails)
+[Buffing]: Buff the surface of your nails to smooth out any ridges with the nail buffer.
+[Shaking]: Shake the nail polish bottle to mix the contents.
+[Unscrewing]: Unscrew the nail polish cap and remove the brush.
+[Painting]: Paint each nail with the brush, starting from the base and moving towards the tip.
+[Displaying]: Display the polished nails.
+
+(Wearing Jewelry)
+[Picking]: Pick up one earring with your fingers.
+[Inserting]: Insert the earring post through your right earlobe.
+[Picking]: Pick up the other earring with your fingers.
+[Inserting]: Insert the earring post through your left earlobe.
+[Holding]: Hold the necklace with both hands.
+[Clasping]: Clasp the necklace around your neck.
+[Picking]: Pick up the bracelet.
+[Wrapping]: Wrap the bracelet around your wrist.
+[Clasping]: Clasp the bracelet securely.
+[Sliding]: Slide the ring onto your finger.
+
+(Removing Makeup)
+[Plucking]: Pluck off the fake eyelashes.
+[Dispensing]: Dispense makeup remover onto a cotton pad.
+[Wiping]: Wipe the cotton pad over your face to remove makeup.
+[Dipping]: Dip the cotton swab into the makeup remover.
+[Swabbing]: Swab your eyelid with a cotton swab to clean up any excess eyeshadow or fallout.
+
+(Cleansing the Face)
+[Wetting]: Pretend wetting your hands with lukewarm water.
+[Applying]: Apply a small amount of facial cleanser to your fingertips.
+[Lathering]: Lather the cleanser in your hands.
+[Massaging]: Massage the cleanser onto your face in circular motions.
+[Rinsing]: Pretend rinse your face with water to remove the cleanser.
+
+(Applying Night Cream)
+[Pouring]: Pour a small amount of toner onto a cotton pad.
+[Sweeping]: Sweep the cotton pad across your face.
+[Scooping]: Scoop a small amount of night cream from the container.
+[Dotting]: Dot the cream onto your forehead, cheeks, nose, and chin.
+[Moisturizing]: Moisturize your skin with the night cream, spreading it evenly using gentle strokes.
+
+
+
+#Packing a gym bag
+(Unlocking and Opening the Gym Bag)
+
+[Unzipping]: Unzip the main compartment of the gym bag.
+[Unbuckling]: Unbuckle the stripe belt.
+[Lifting]: Lift everything out of the main compartment of the gym bag.
+
+(Removing and Cleaning Shoes)
+[Removing]: Remove shoes from the side compartment of the gym bag.
+[Applying]: Apply shoe polish to a cloth.
+[Shining]: Shine shoes with the cloth.
+[Buffing]: Buff shoes with a clean cloth.
+[Untying]: Untie shoelaces.
+
+(Cleaning and Ironing Clothes)
+[Unfolding]: Unfold the T-shirt.
+[Examining]: Examine the stained area closely.
+[Holding]: Hold the stain removing pen firmly.
+[Uncapping]: Uncap the pen.
+[Rubbing]: Rub the tip of the pen gently over the stain in small, circular motions.
+[Capping]: Cap the stain removal pen.
+[Setting]: Set the pen aside.
+[Rubbing]: Rub the stained area in a circular motion with your hands.
+[Scrubbing]: Scrub the T-shirt with a clothes brush.
+[Wringing]: Wring out the excess solution.
+[Ironing]: Iron the T-shirt.
+[Unbuttoning]: Unbutton the shirt.
+[Setting]: Set the clothes aside.
+
+(Unfolding and Preparing Clothes)
+[Sliding]: Slide the umbrella out of its cover
+[Unclasping]: Unclasp the umbrella.
+[Untying]: Untie the tie.
+[Unfolding]: Unfold the socks.
+[Unfolding]: Unfold the pants.
+
+(Unbuckling and Preparing the Belt)
+[Unbuckling]: Unbuckle the belt.
+[Unthreading]: Unthread the belt by sliding the loose end of the belt out of the belt loops on the pants.
+
+[Rolling]: Roll the belt for storage.
+[Unbuttoning]: Unbutton pants.
+[Unzipping]: Unzip pants.
+
+(Repacking and Organizing)
+[Zipping]: Zip up the pants.
+[Buttoning]: Button up the pants.
+[Unrolling]: Unroll the belt.
+
+[Threading]: Thread the belt into the pants.
+[Buckling]: Buckle the belt.
+[Tucking]: Tuck the loose end into the belt keeper.
+[Folding]: Fold pants in a preferred way.
+[Folding]: Fold socks in a preferred way.
+[Tying]: Tie the tie in a preferred way.
+
+[Securing]: Secure the umbrella with a strap.
+[Sliding]: Slide the umbrella into its cover.
+[Buttoning]: Button up the T-shirt.
+[Folding]: Fold the T-shirt.
+[Tying]: Tie shoelaces in a preferred way.
+
+(Placing Items in the Gym Bag)
+[Placing]: Place the shoes in the side compartment of the gym bag.
+
+[Placing]: Place folded clothes in the gym bag.
+[Adjusting]: Adjust items for a snug fit.
+
+(Closing and Securing the Gym Bag)
+[Zipping]: Zip the main compartment of the gym bag.
+[Buckling]: Buckle the belt.
+[Assessing]: Lift and assess the weight and balance of the gym bag.
+
+
+#Massaging Your Own Hands
+(Preparing and Lubricating)
+[Dispensing]: Dispense lotion onto your palms.
+[Lubricating]: Spread the lotion evenly over your hands.
+[Warming]: Warm your palms by rubbing them together.
+
+(Massaging the Palms and Fingers)
+[Pressing]: Press your left thumb into the palm of your right hand.
+[Rubbing]: Rub in circular motions, focusing on the center of the palm.
+[Pressing]: Press your right thumb into the palm of your left hand.
+[Rubbing]: Rub in circular motions, covering the entire palm.
+[Pinching]: Pinch the base of one left hand finger with your right thumb and index finger.
+[Sliding]: Slide your right thumb and index finger up the left hand finger to the tip.
+[Repeating]: Repeat the pinching and sliding for each finger.
+[Grasping]: Grasp your thumb with the opposite hand.
+[Squeezing]: Squeeze and rotate your thumb gently.
+[Flexing]: Flex your fingers back and forth to enhance their mobility.
+[Extending]: Extend your fingers fully.
+[Clasping]: Clasp your hands together.
+[Abducting]: Abduct (spread apart) your fingers.
+[Adducting]: Adduct (bring together) your fingers.
+[Bending]: Bend your thumb back gently into the palm of your hand.
+[Clamping]: Use the thumb and fingers of one hand to clamp gently around the opposite wrist.
+[Squeezing]: Squeeze and rotate your wrist gently.
+[Covering]: Cover one hand with the other hand and squeeze gently.
+
+(Stretching the Hands and Fingers)
+[Extending]: Extend your left arm forward.
+[Pulling]: Pull back on your fingers with the opposite hand to stretch them.
+[Holding]: Hold the stretch for a few seconds.
+[Releasing]: Release the stretch gently.
+[Extending]: Extend your right arm forward.
+[Pulling]: Pull back on your fingers with the opposite hand to stretch them.
+[Stretching]: Hold the stretch for a few seconds.
+[Retracting]: Retract your hand slowly from the stretching position.
+
+(Additional Finger and Wrist Stretches)
+[Interlocking]: Interlock your fingers together.
+[Cracking]: Crack your knuckles by gently pressing and pulling.
+[Unclasping]: Unclasp your hands.
+[Intersecting]: Intersect your fingers and pull gently to stretch.
+[Stretching]: Stretch your arms out in front of you.
+[Pressing]: Press your palms together.
+[Pushing]: Push your hands together firmly but gently.
+
+(Relaxing and Loosening)
+[Shaking]: Shake your hands to relax them.
+[Waving]: Wave your hands back and forth in the air.
+[Flapping]: Flap your hands up and down to increase blood flow.
+[Flinging]: Fling your fingers outward to release tension.
+[Wiggling]: Wiggle your fingers to loosen them up.
+[Waggling]: Waggle your fingers side to side.
+[Swinging]: Swing your hands from side to side in a gentle motion.
+[Swaying]: Sway your hands softly from side to side.
+[Jerking]: Jerk your hands gently to relax the tendons.
+[Clenching]: Clench your fists tightly.
+[Unclenching]: Unclench your fists slowly.
+[Repeating]: Repeat the clenching and releasing several times.
+[Swiveling]: Swivel your wrists in circular motions to maintain joint flexibility.
+[Reversing]: Reverse the rotation direction of your wrists.
+
+
+#First Aid
+(Accessing the First Aid Kit)
+[Unzipping]: Unzip the first aid kit to access the necessary supplies.
+
+(Icing the Wound)
+[Grabbing]: Grab an ice pad from the first aid kit.
+[Wrapping]: Wrap the ice pad in a paper towel.
+[Applying]: Apply the ice pad gently to the back of the hand to reduce swelling.
+[Holding]: Hold the ice pad in place for 5 seconds.
+[Removing]: Remove the ice pad.
+
+(Cleaning the Wound on the Back of the Hand)
+[Taking Out]: Take out an iodophor swab from the kit.
+[Sliding]: Slide the iodophor swab out of the plastic wrapper.
+[Breaking]: Break the end of the iodophor swab letting the iodophor flow.
+[Swabbing]: Use the iodophor swab to clean the wound on the back of the hand with gentle strokes.
+
+(Bandaging the Wound on the Back of the Hand)
+[Grabbing]: Grab an adhesive bandage from the kit.
+[Peeling]: Peel the wrapper off the adhesive bandage.
+[Placing]: Place the bandage over the cleaned wound on the back of the hand.
+[Securing]: Secure the bandage by pressing down the adhesive edges.
+
+(Cleaning the Wound on the Wrist)
+[Taking Out]: Take out a wipe pad and a tweezer from the kit.
+[Opening]: Open the wipe pad packet.
+[Gripping]: Grip the wipe pad with the tweezer.
+[Wiping]: Wipe the wound on the wrist thoroughly to clean it with the tweezer.
+
+(Further Cleaning with Gauze Swab)
+[Taking Out]: Take out a gauze swab from the kit.
+[Gripping]: Grip the gauze swab with the tweezer.
+[Swabbing]: Further clean the wound on the wrist with the gauze swab.
+
+(Binding the Wound with PBT Bandage)
+[Grabbing]: Grab a PBT bandage from the kit.
+[Wrapping]: Wrap the PBT bandage around the wrist for two complete loops.
+
+(Securing the PBT Bandage)
+[Grabbing]: Grab adhesive tape from the kit.
+[Tearing]: Tear off a suitable length of adhesive tape.
+[Securing]: Secure the end of the PBT bandage with the adhesive tape.
+
+(Final Cleaning)
+[Collecting]: Collect all used wrappers from the table.
+[Disposing]: Dispose the wrappers in the trash can.
+[Organizing]: Put everything back in the first aid kit.
+[Zipping]: Zip up the first aid kit.
+
+#Cleaning Glass Tabletop
+(Preparing the Tools)
+[Grasping]: Grasp the portable vacuum cleaner with one hand.
+[Vacuuming]: Vacuum the tabletop to remove dust and debris.
+
+(Wiping with a Glass Wiper)
+[Spraying]: Spray glass cleaner evenly across the glass surface.
+[Grabbing]: Grab the glass wiper with your dominant hand.
+[Wiping]: Wipe the glass surface with the wiper in smooth, even strokes.
+[Applying Pressure]: Apply pressure with the wiper to remove smudges and streaks.
+[Drying]: Dry the wiper blade after each stroke with a clean cloth or paper towel.
+
+(Using a Table Cloth for Final Cleaning)
+[Grabbing]: Grab a clean table cloth.
+[Wiping]: Gently wipe the surface dry with the tablecloth to ensure a streak-free finish.
+[Polishing]: Polish the glass surface with the table cloth using circular motions for a gleaming finish.
+[Touching Up]: Touch up any missed spots with an ammonia wipe as needed.
