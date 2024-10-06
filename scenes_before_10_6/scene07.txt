@@ -1,6 +1,5 @@
 audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a File/0369.mp3	Grip the string of the button envelope.
 audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a File/0370.mp3	Unroll the string to open the button envelope.
-delete
 audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a File/0371.mp3	Remove the files from the file folder by grasping them with your fingers and lifting them out.
 audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a File/0372.mp3	Invert the file folder over a flat surface.
 audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a File/0373.mp3	Shake the file folder to ensure all contents have fallen out.
@@ -9,7 +8,6 @@ audio/0002_Office Working/0008_Receiving and Sending a File./0058_Receiving a Fi
 audio/0002_Office Working/0008_Receiving and Sending a File./0059_Opening the Envelope/0376.mp3	Slit the top edge of the envelope with a letter opener, ensuring not to damage the contents inside.
 audio/0002_Office Working/0008_Receiving and Sending a File./0059_Opening the Envelope/0377.mp3	Extract the bound letter carefully to avoid tearing any pages.
 audio/0002_Office Working/0008_Receiving and Sending a File./0059_Opening the Envelope/0378.mp3	Unfold the letter by reversing the folds with gentle hand movements.
-delete
 audio/0002_Office Working/0008_Receiving and Sending a File./0059_Opening the Envelope/0379.mp3	Press down on the unfolded letter with both hands to flatten and remove any creases.
 audio/0002_Office Working/0008_Receiving and Sending a File./0059_Opening the Envelope/0380.mp3	Lay the unfolded letter on a flat surface for reading.
 delete

@@ -1,10 +1,9 @@
 audio/0005_Houseworks/0022_Packing a gym bag/0167_Unlocking and Opening the Gym Bag/1166.mp3	Unzip the main compartment of the gym bag.
-delete
 audio/0005_Houseworks/0022_Packing a gym bag/0167_Unlocking and Opening the Gym Bag/1167.mp3	Unbuckle the stripe belt.
+delete
 audio/0005_Houseworks/0022_Packing a gym bag/0167_Unlocking and Opening the Gym Bag/1168.mp3	Lift everything out of the main compartment of the gym bag.
 audio/0005_Houseworks/0022_Packing a gym bag/0168_Removing and Cleaning Shoes/1169.mp3	Remove shoes from the side compartment of the gym bag.
 audio/0005_Houseworks/0022_Packing a gym bag/0168_Removing and Cleaning Shoes/1170.mp3	Apply shoe polish to a cloth.
-delete
 audio/0005_Houseworks/0022_Packing a gym bag/0168_Removing and Cleaning Shoes/1171.mp3	Shine shoes with the cloth.
 audio/0005_Houseworks/0022_Packing a gym bag/0168_Removing and Cleaning Shoes/1172.mp3	Buff shoes with a clean cloth.
 audio/0005_Houseworks/0022_Packing a gym bag/0168_Removing and Cleaning Shoes/1173.mp3	Untie shoelaces.
