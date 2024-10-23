@@ -7,10 +7,10 @@ audio/0003_Crafting/0013_Seal Carving and Smoothing./0101_Preparing the Stone/07
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0723.mp3	Align a ruler along the edge of the stone with your non-dominant hand to draw the margin lines.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0724.mp3	Grasp a marker with your dominant hand.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0725.mp3	Uncap the marker.
-audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0726.mp3	Draw a line along the ruler¡¯s edge with a marker.
+audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0726.mp3	Draw a line along the ruler's edge with a marker.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0727.mp3	Rotate the stone 90 degrees to continue drawing lines along the other margins.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0728.mp3	Align a ruler along the new edge of the stone to draw the margin lines.
-audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0729.mp3	Draw a line along the ruler¡¯s edge with a marker.
+audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0729.mp3	Draw a line along the ruler's edge with a marker.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0730.mp3	Cap the marker.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0102_Drawing Margin Lines/0731.mp3	Put down the marker.
 audio/0003_Crafting/0013_Seal Carving and Smoothing./0103_Carving the Stone/0732.mp3	Grasp the chisel.
